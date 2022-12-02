@@ -1,0 +1,588 @@
+day,city,Temp_C,windspeed_km/h,event,Dew Point Temp_C,Rel Hum %,Visibility_km,Press_kPa
+01-Nov-22,New York,22,19,Rainy,-12,49,28,83
+02-Nov-22,New York,45,15,Sunny,-18,82,22,104
+03-Nov-22,New York,40,16,Snow,-2,56,20,81
+04-Nov-22,New York,41,16,Snow,-11,84,10,100
+05-Nov-22,Mumbai,29,7,Rainy,-9,60,24,97
+06-Nov-22,Mumbai,36,18,Rainy,-17,54,16,107
+07-Nov-22,Mumbai,48,12,Sunny,-3,38,26,110
+08-Nov-22,Mumbai,30,10,Sunny,-9,59,25,108
+09-Nov-22,Paris,34,26,Rainy,-17,56,9,94
+10-Nov-22,Paris,30,12,Rainy,-2,43,13,78
+11-Nov-22,Paris,33,32,Snow,-5,68,22,110
+12-Nov-22,Paris,21,11,Snow,-13,75,18,102
+13-Nov-22,Paris,41,27,Snow,-18,28,10,108
+14-Nov-22,New York,39,9,Sunny,-9,48,22,94
+15-Nov-22,New York,31,11,Snow,-6,42,16,89
+16-Nov-22,Mumbai,25,31,Snow,-2,31,12,88
+17-Nov-22,Mumbai,43,7,Rainy,-4,43,19,81
+18-Nov-22,Mumbai,30,17,Rainy,-2,46,20,100
+19-Nov-22,Mumbai,47,18,Sunny,-5,42,23,111
+20-Nov-22,Paris,38,11,Sunny,-3,71,14,79
+21-Nov-22,Paris,25,16,Rainy,-12,47,23,110
+22-Nov-22,Paris,31,19,Rainy,-18,73,7,107
+23-Nov-22,Mumbai,43,31,Snow,-21,40,12,83
+24-Nov-22,Mumbai,44,7,Snow,-16,47,10,109
+25-Nov-22,Paris,33,21,Snow,-17,75,24,111
+26-Nov-22,Paris,22,27,Rainy,-3,79,19,103
+27-Nov-22,Paris,36,17,Sunny,-22,30,8,96
+28-Nov-22,Paris,42,8,Snow,-20,56,14,91
+29-Nov-22,Paris,25,31,Snow,-5,70,26,80
+30-Nov-22,New York,39,15,Rainy,-14,31,8,94
+01-Dec-22,New York,19,27,Rainy,-18,40,20,108
+02-Dec-22,Mumbai,30,32,Sunny,-12,48,27,96
+03-Dec-22,Mumbai,42,10,Sunny,-18,39,12,101
+04-Dec-22,New York,34,19,Rainy,-6,56,8,82
+05-Dec-22,New York,43,18,Rainy,-21,36,23,75
+06-Dec-22,Mumbai,38,11,Snow,-18,69,28,104
+07-Dec-22,Mumbai,43,10,Snow,-3,38,8,95
+08-Dec-22,Mumbai,48,20,Snow,-15,59,10,75
+09-Dec-22,Mumbai,21,32,Sunny,-6,32,19,96
+10-Dec-22,Paris,36,28,Snow,-11,83,22,86
+11-Dec-22,Paris,23,17,Snow,-5,76,23,101
+12-Dec-22,Paris,46,32,Rainy,-11,81,27,109
+13-Dec-22,Paris,19,12,Rainy,-11,29,8,99
+14-Dec-22,Paris,37,32,Sunny,-2,31,7,106
+15-Dec-22,New York,21,21,Sunny,-8,51,11,104
+16-Dec-22,New York,37,27,Rainy,-21,26,8,76
+17-Dec-22,Mumbai,43,25,Rainy,-17,74,24,77
+18-Dec-22,Mumbai,32,30,Snow,-2,58,24,100
+19-Dec-22,Mumbai,46,9,Rainy,-2,36,27,86
+20-Dec-22,Mumbai,36,20,Sunny,-22,45,24,78
+21-Dec-22,Paris,47,14,Sunny,-16,83,8,88
+22-Dec-22,Paris,21,12,Rainy,-19,35,10,109
+23-Dec-22,Paris,40,16,Rainy,-19,26,13,99
+24-Dec-22,Mumbai,35,26,Snow,-11,48,11,90
+25-Dec-22,Mumbai,29,21,Snow,-14,39,13,84
+26-Dec-22,Paris,33,31,Snow,-21,39,26,110
+27-Dec-22,Paris,23,13,Sunny,-8,54,19,82
+28-Dec-22,Paris,46,12,Snow,-2,40,24,77
+29-Dec-22,Paris,18,19,Snow,-9,47,27,86
+30-Dec-22,Paris,33,21,Rainy,-15,25,23,75
+31-Dec-22,New York,43,13,Rainy,-20,82,15,80
+01-Jan-23,New York,41,25,Sunny,-14,51,20,95
+02-Jan-23,New York,29,25,Sunny,-19,24,26,109
+03-Jan-23,New York,26,24,Rainy,-12,83,24,100
+04-Jan-23,New York,46,30,Rainy,-12,29,14,105
+05-Jan-23,New York,23,13,Snow,-4,60,15,95
+06-Jan-23,Mumbai,24,7,Snow,-8,61,14,106
+07-Jan-23,Mumbai,29,9,Snow,-10,62,28,83
+08-Jan-23,Mumbai,47,28,Rainy,-19,29,8,79
+09-Jan-23,Mumbai,38,16,Sunny,-17,63,21,101
+10-Jan-23,Paris,33,16,Snow,-14,35,23,110
+11-Jan-23,Paris,35,25,Snow,-6,72,22,82
+12-Jan-23,Paris,32,11,Rainy,-22,45,7,112
+13-Jan-23,Paris,41,30,Rainy,-14,52,16,91
+14-Jan-23,Paris,35,19,Sunny,-8,76,25,89
+15-Jan-23,New York,34,16,Sunny,-2,68,8,106
+16-Jan-23,New York,34,16,Rainy,-5,32,17,92
+17-Jan-23,Mumbai,35,8,Rainy,-16,84,28,80
+18-Jan-23,Mumbai,35,16,Snow,-13,35,17,92
+19-Jan-23,Mumbai,30,19,Sunny,-9,55,10,112
+20-Jan-23,Mumbai,41,21,Rainy,-2,77,9,103
+21-Jan-23,Paris,21,11,Rainy,-9,75,14,80
+22-Jan-23,Paris,45,18,Snow,-10,42,12,91
+23-Jan-23,Paris,44,27,Rainy,-18,24,16,82
+24-Jan-23,Mumbai,21,11,Sunny,-3,50,27,91
+25-Jan-23,Mumbai,34,17,Sunny,-5,34,13,86
+26-Jan-23,Paris,29,21,Rainy,-21,46,20,86
+27-Jan-23,Paris,18,20,Rainy,-15,45,17,82
+28-Jan-23,Paris,43,11,Snow,-14,79,15,92
+29-Jan-23,Paris,45,31,Snow,-8,84,23,91
+30-Jan-23,Paris,41,30,Snow,-8,79,15,106
+31-Jan-23,New York,27,23,Sunny,-15,46,7,97
+01-Feb-23,New York,33,19,Snow,-2,67,24,105
+02-Feb-23,Mumbai,21,7,Snow,-12,26,26,103
+03-Feb-23,Mumbai,44,32,Rainy,-12,68,12,80
+04-Feb-23,New York,33,23,Rainy,-15,56,7,95
+07-Mar-23,New York,20,15,Sunny,-7,71,20,101
+08-Mar-23,Mumbai,33,17,Sunny,-4,63,24,82
+09-Mar-23,Mumbai,23,12,Rainy,-20,71,13,75
+10-Mar-23,Mumbai,30,28,Rainy,-7,29,17,87
+11-Mar-23,Mumbai,41,23,Snow,-17,71,28,88
+12-Mar-23,Paris,22,23,Snow,-11,36,27,100
+13-Mar-23,Paris,27,20,Snow,-2,73,20,94
+14-Mar-23,Paris,37,11,Rainy,-2,54,25,92
+15-Mar-23,Paris,48,12,Sunny,-12,62,10,78
+16-Mar-23,Paris,19,12,Snow,-13,84,18,89
+17-Mar-23,New York,48,26,Snow,-18,56,14,108
+18-Mar-23,New York,31,11,Rainy,-6,25,16,89
+19-Mar-23,Mumbai,47,19,Rainy,-21,30,18,106
+20-Mar-23,Mumbai,24,17,Sunny,-7,41,19,78
+21-Mar-23,Mumbai,41,16,Sunny,-18,38,20,112
+22-Mar-23,Mumbai,37,24,Rainy,-6,31,17,88
+23-Mar-23,Paris,21,15,Sunny,-22,39,21,107
+24-Mar-23,Paris,41,28,Snow,-14,82,21,84
+25-Mar-23,Paris,28,16,Snow,-17,83,27,89
+26-Mar-23,Mumbai,42,8,Rainy,-14,80,8,94
+27-Mar-23,Mumbai,38,19,Rainy,-3,34,14,109
+28-Mar-23,Paris,38,11,Sunny,-18,38,17,75
+29-Mar-23,Paris,23,12,Sunny,-5,47,20,100
+30-Mar-23,Paris,41,22,Rainy,-20,35,20,87
+31-Mar-23,Paris,39,11,Rainy,-20,64,23,110
+01-Apr-23,Paris,48,19,Snow,-11,78,17,103
+02-Apr-23,New York,20,14,Snow,-19,55,25,75
+03-Apr-23,New York,48,20,Snow,-2,32,21,83
+04-Apr-23,Paris,32,15,Sunny,-20,68,26,99
+05-Apr-23,New York,18,7,Snow,-11,46,17,112
+06-Apr-23,New York,48,30,Snow,-7,69,26,102
+07-Apr-23,Mumbai,35,7,Rainy,-2,55,26,86
+08-Apr-23,Mumbai,44,22,Rainy,-3,33,27,100
+09-Apr-23,Mumbai,47,16,Sunny,-20,55,24,81
+10-Apr-23,Mumbai,18,11,Sunny,-20,55,11,106
+11-Apr-23,Paris,32,22,Rainy,-14,70,21,105
+12-Apr-23,Paris,47,23,Rainy,-15,60,16,89
+13-Apr-23,Paris,18,27,Snow,-11,70,27,82
+14-Apr-23,Mumbai,27,29,Snow,-6,75,7,78
+15-Apr-23,Mumbai,39,16,Snow,-5,70,21,97
+16-Apr-23,Paris,43,25,Rainy,-21,53,24,89
+17-Apr-23,Paris,44,10,Sunny,-2,53,9,108
+18-Apr-23,Paris,25,19,Snow,-19,44,27,105
+19-Apr-23,Paris,46,30,Snow,-18,32,12,78
+20-Apr-23,Paris,27,29,Rainy,-22,70,14,83
+21-Apr-23,New York,28,29,Rainy,-12,78,26,84
+22-Apr-23,New York,39,23,Sunny,-3,50,22,81
+23-Apr-23,Mumbai,44,20,Sunny,-10,77,8,95
+24-Apr-23,Mumbai,31,7,Rainy,-22,79,22,108
+25-Apr-23,New York,20,23,Rainy,-5,38,9,96
+26-Apr-23,New York,38,26,Snow,-22,71,12,105
+27-Apr-23,Mumbai,37,30,Snow,-9,44,7,100
+28-Apr-23,Mumbai,40,16,Snow,-11,58,20,75
+29-Apr-23,Mumbai,23,22,Sunny,-18,55,28,94
+30-Apr-23,Mumbai,39,14,Snow,-9,28,14,77
+01-May-23,Paris,31,18,Snow,-3,56,9,101
+02-May-23,Paris,48,21,Rainy,-8,58,9,84
+03-May-23,Paris,44,28,Rainy,-15,82,13,102
+04-May-23,Paris,22,24,Sunny,-22,23,17,106
+05-May-23,Paris,28,18,Sunny,-16,54,10,98
+06-May-23,New York,48,17,Rainy,-9,53,25,92
+07-May-23,New York,40,24,Rainy,-8,30,9,87
+08-May-23,Mumbai,22,16,Snow,-3,72,26,101
+09-May-23,Mumbai,20,16,Rainy,-10,80,21,103
+10-May-23,Mumbai,35,9,Sunny,-5,41,20,90
+11-May-23,Mumbai,28,14,Sunny,-15,50,16,84
+12-May-23,Paris,36,17,Rainy,-20,41,15,105
+13-May-23,Paris,29,30,Rainy,-4,66,11,93
+14-May-23,Paris,18,19,Snow,-6,47,12,88
+15-May-23,Mumbai,20,13,Snow,-8,50,14,89
+16-May-23,Mumbai,42,20,Snow,-20,47,28,93
+17-May-23,Paris,43,9,Sunny,-20,44,26,105
+18-May-23,Paris,19,12,Snow,-10,54,16,102
+19-May-23,Paris,29,8,Snow,-22,52,21,79
+20-May-23,Paris,33,29,Rainy,-22,40,22,103
+21-May-23,Paris,34,8,Rainy,-16,59,18,111
+22-May-23,New York,24,26,Sunny,-4,73,10,76
+23-May-23,New York,24,23,Sunny,-8,84,16,85
+24-May-23,New York,40,25,Rainy,-16,31,8,79
+25-May-23,New York,29,7,Rainy,-2,62,18,85
+26-May-23,New York,39,28,Snow,-4,64,13,109
+27-May-23,New York,25,31,Snow,-2,76,13,95
+28-May-23,Mumbai,20,15,Snow,-4,47,26,107
+29-May-23,Mumbai,37,27,Rainy,-11,23,16,100
+30-May-23,Mumbai,46,18,Sunny,-5,81,10,98
+31-May-23,Mumbai,44,16,Snow,-11,67,7,103
+01-Jun-23,Paris,40,19,Snow,-22,29,14,84
+02-Jun-23,Paris,48,27,Rainy,-20,33,15,108
+03-Jun-23,Paris,33,24,Rainy,-3,25,10,76
+04-Jun-23,Paris,20,10,Sunny,-20,44,25,103
+05-Jun-23,Paris,28,18,Sunny,-13,48,10,110
+06-Jun-23,New York,23,15,Rainy,-5,31,17,104
+07-Jun-23,New York,37,9,Rainy,-17,78,7,92
+08-Jun-23,Mumbai,37,13,Snow,-13,29,10,108
+09-Jun-23,Mumbai,36,14,Sunny,-3,84,7,98
+10-Jun-23,Mumbai,48,10,Rainy,-20,51,27,90
+11-Jun-23,Mumbai,37,19,Rainy,-14,58,10,88
+12-Jun-23,Paris,37,29,Snow,-15,70,24,78
+13-Jun-23,Paris,18,29,Rainy,-4,46,28,97
+14-Jun-23,Paris,25,25,Sunny,-22,41,8,81
+15-Jun-23,Mumbai,26,24,Sunny,-9,31,9,104
+16-Jun-23,Mumbai,31,30,Rainy,-2,52,23,95
+17-Jun-23,Paris,45,26,Rainy,-16,78,18,102
+18-Jun-23,Paris,22,27,Snow,-18,60,9,99
+19-Jun-23,Paris,47,14,Snow,-16,82,20,93
+20-Jun-23,Paris,36,26,Snow,-16,79,13,103
+21-Jun-23,Paris,41,32,Sunny,-3,39,23,85
+22-Jun-23,New York,43,18,Snow,-18,83,22,85
+23-Jun-23,New York,48,14,Snow,-9,61,9,111
+24-Jun-23,Mumbai,38,20,Rainy,-11,62,13,104
+25-Jun-23,Mumbai,39,27,Rainy,-13,43,21,97
+26-Jun-23,New York,25,25,Sunny,-16,54,16,103
+27-Jun-23,New York,31,14,Sunny,-17,80,13,93
+28-Jun-23,Mumbai,42,12,Rainy,-7,28,17,90
+29-Jun-23,Mumbai,28,19,Rainy,-15,75,9,78
+30-Jun-23,Mumbai,25,10,Rainy,-10,76,23,106
+01-Jul-23,Mumbai,27,13,Snow,-5,55,14,76
+02-Jul-23,Paris,45,23,Sunny,-8,47,24,89
+03-Jul-23,Paris,31,12,Rainy,-11,68,23,78
+04-Jul-23,Paris,44,13,Rainy,-18,81,13,100
+05-Jul-23,Paris,39,29,Snow,-11,84,17,99
+06-Jul-23,Paris,25,12,Rainy,-3,78,8,95
+07-Jul-23,New York,41,32,Sunny,-10,40,12,102
+08-Jul-23,New York,46,10,Sunny,-2,73,9,89
+09-Jul-23,Mumbai,48,31,Rainy,-16,53,20,94
+10-Jul-23,Mumbai,28,13,Rainy,-13,73,9,112
+11-Jul-23,Mumbai,33,8,Snow,-3,60,25,110
+12-Jul-23,Mumbai,34,31,Snow,-19,52,7,104
+13-Jul-23,Paris,23,11,Snow,-12,24,15,76
+14-Jul-23,Paris,42,30,Sunny,-2,49,13,81
+15-Jul-23,Paris,44,11,Snow,-2,69,11,112
+16-Jul-23,Mumbai,47,32,Snow,-19,84,22,87
+17-Jul-23,Mumbai,26,8,Rainy,-3,50,25,103
+18-Jul-23,Paris,45,13,Rainy,-6,23,12,102
+19-Jul-23,Paris,41,27,Sunny,-11,74,14,111
+20-Jul-23,Paris,35,18,Sunny,-7,61,8,102
+21-Jul-23,Paris,46,25,Rainy,-18,74,28,108
+22-Jul-23,Paris,29,13,Snow,-8,81,14,82
+23-Jul-23,New York,48,27,Snow,-3,60,14,87
+24-Jul-23,New York,29,25,Sunny,-4,71,25,84
+25-Jul-23,Mumbai,33,15,Snow,-12,24,26,111
+26-Jul-23,Paris,28,11,Snow,-17,38,11,84
+27-Jul-23,Paris,25,24,Rainy,-9,72,18,77
+28-Jul-23,Paris,44,31,Rainy,-15,34,21,102
+29-Jul-23,Paris,33,13,Sunny,-21,38,8,87
+30-Jul-23,Paris,28,25,Sunny,-18,83,12,99
+31-Jul-23,New York,23,21,Rainy,-6,53,24,105
+01-Aug-23,New York,40,15,Rainy,-19,58,24,104
+02-Aug-23,Mumbai,44,32,Snow,-18,30,12,110
+03-Aug-23,Mumbai,47,18,Snow,-15,83,24,104
+04-Aug-23,Mumbai,32,9,Snow,-7,34,26,106
+05-Aug-23,Mumbai,45,32,Rainy,-12,25,20,76
+06-Aug-23,Paris,37,22,Sunny,-18,34,13,78
+07-Aug-23,Paris,24,19,Snow,-10,69,16,94
+08-Aug-23,Paris,36,20,Snow,-10,54,26,84
+09-Aug-23,Mumbai,38,31,Rainy,-9,58,20,89
+10-Aug-23,Mumbai,20,7,Rainy,-17,80,28,102
+11-Aug-23,Paris,18,10,Sunny,-16,35,27,108
+12-Aug-23,Paris,43,17,Sunny,-3,27,14,101
+13-Aug-23,Paris,35,9,Rainy,-5,67,22,82
+14-Aug-23,Paris,18,16,Rainy,-9,31,18,77
+15-Aug-23,Paris,45,17,Snow,-6,43,19,94
+16-Aug-23,New York,25,20,Sunny,-4,64,14,108
+17-Aug-23,New York,28,8,Rainy,-14,41,18,104
+18-Aug-23,Mumbai,32,16,Rainy,-12,64,16,88
+19-Aug-23,Mumbai,39,32,Snow,-10,67,11,79
+20-Aug-23,New York,41,27,Rainy,-8,34,25,96
+21-Aug-23,New York,26,20,Sunny,-5,24,7,96
+22-Aug-23,Mumbai,32,19,Rainy,-9,85,27,110
+23-Aug-23,Mumbai,45,7,Sunny,-4,51,25,84
+24-Aug-23,Mumbai,34,23,Snow,-3,80,12,90
+25-Aug-23,Mumbai,46,14,Snow,-3,58,26,83
+26-Aug-23,Paris,35,28,Rainy,-13,39,28,84
+27-Aug-23,Paris,29,13,Rainy,-22,28,8,111
+28-Aug-23,Paris,43,7,Sunny,-5,27,14,83
+29-Aug-23,Paris,34,27,Sunny,-20,44,7,97
+30-Aug-23,Paris,48,11,Rainy,-6,48,12,92
+31-Aug-23,New York,28,7,Rainy,-5,36,11,96
+01-Sep-23,New York,34,23,Snow,-3,38,10,105
+02-Sep-23,Mumbai,31,21,Sunny,-10,54,23,94
+03-Sep-23,Mumbai,46,7,Rainy,-13,80,27,92
+04-Sep-23,Mumbai,33,24,Rainy,-16,43,25,108
+05-Sep-23,Mumbai,26,26,Snow,-10,28,24,102
+06-Sep-23,Paris,41,18,Rainy,-12,60,25,98
+07-Sep-23,Paris,41,18,Sunny,-20,54,20,112
+08-Sep-23,Paris,45,23,Rainy,-15,68,9,101
+09-Sep-23,Mumbai,37,13,Sunny,-12,44,7,87
+10-Sep-23,Mumbai,21,13,Snow,-5,75,10,100
+11-Sep-23,Paris,44,9,Snow,-15,83,18,84
+12-Sep-23,Paris,38,32,Rainy,-12,81,25,80
+13-Sep-23,Paris,40,22,Rainy,-7,23,8,77
+14-Sep-23,Paris,36,15,Sunny,-16,25,21,82
+15-Sep-23,Paris,23,14,Sunny,-15,76,20,79
+16-Sep-23,New York,29,31,Rainy,-6,41,18,105
+17-Sep-23,New York,42,9,Rainy,-14,79,28,107
+18-Sep-23,New York,22,26,Snow,-13,41,13,75
+19-Sep-23,New York,36,17,Sunny,-12,36,22,98
+20-Sep-23,New York,39,22,Rainy,-18,72,13,85
+21-Sep-23,New York,23,32,Rainy,-9,24,22,111
+22-Sep-23,Mumbai,23,31,Snow,-3,49,13,101
+23-Sep-23,Mumbai,23,28,Rainy,-11,83,24,89
+24-Sep-23,Mumbai,19,17,Sunny,-14,38,25,112
+25-Sep-23,Mumbai,48,31,Rainy,-13,73,10,87
+26-Sep-23,Paris,47,26,Sunny,-13,60,19,79
+27-Sep-23,Paris,42,15,Snow,-11,83,19,79
+28-Sep-23,Paris,29,30,Snow,-4,49,23,83
+29-Sep-23,Paris,37,17,Rainy,-13,78,28,85
+30-Sep-23,Paris,31,19,Rainy,-15,77,11,110
+01-Oct-23,New York,34,14,Sunny,-16,49,25,93
+02-Oct-23,New York,23,30,Sunny,-22,59,15,90
+03-Oct-23,Mumbai,41,10,Rainy,-5,74,10,104
+04-Oct-23,Mumbai,20,28,Rainy,-5,78,21,89
+05-Oct-23,Mumbai,24,7,Rainy,-7,48,12,76
+06-Oct-23,Mumbai,19,8,Snow,-11,64,26,77
+07-Oct-23,Paris,42,23,Snow,-22,70,20,96
+08-Oct-23,Paris,35,25,Snow,-12,59,19,85
+09-Oct-23,Paris,21,22,Rainy,-19,54,8,112
+10-Oct-23,Mumbai,30,8,Sunny,-15,84,17,76
+11-Oct-23,Mumbai,47,31,Snow,-9,56,22,81
+12-Oct-23,Paris,29,16,Snow,-4,84,25,103
+13-Oct-23,Paris,21,7,Rainy,-3,54,26,89
+14-Oct-23,Paris,42,10,Rainy,-4,36,8,109
+15-Oct-23,Paris,23,20,Sunny,-16,51,11,111
+16-Oct-23,Paris,19,21,Sunny,-21,74,23,92
+17-Oct-23,New York,43,9,Rainy,-17,26,25,107
+18-Oct-23,New York,31,9,Rainy,-16,35,20,90
+19-Oct-23,Mumbai,23,16,Snow,-21,38,17,75
+20-Oct-23,Mumbai,29,22,Sunny,-20,67,28,80
+21-Oct-23,New York,41,23,Rainy,-21,77,16,93
+22-Oct-23,New York,48,18,Rainy,-11,28,17,112
+23-Oct-23,Mumbai,31,29,Snow,-13,68,15,92
+24-Oct-23,Mumbai,22,7,Rainy,-19,33,18,104
+25-Oct-23,Mumbai,25,19,Sunny,-6,70,24,85
+26-Oct-23,Mumbai,39,8,Rainy,-18,31,24,102
+27-Oct-23,Paris,18,19,Sunny,-8,81,10,88
+28-Oct-23,Paris,28,9,Snow,-14,73,14,110
+29-Oct-23,Paris,22,10,Snow,-6,82,24,97
+30-Oct-23,Paris,24,17,Rainy,-6,23,9,88
+31-Oct-23,Paris,28,31,Rainy,-20,67,18,101
+01-Nov-23,New York,20,22,Sunny,-10,57,28,100
+02-Nov-23,New York,46,27,Sunny,-10,32,21,97
+03-Nov-23,Mumbai,18,26,Rainy,-2,64,23,91
+04-Nov-23,Mumbai,42,17,Rainy,-11,43,15,84
+05-Nov-23,Mumbai,43,11,Snow,-19,32,21,111
+06-Nov-23,Mumbai,26,22,Sunny,-2,84,9,112
+07-Nov-23,Paris,41,25,Rainy,-15,28,8,105
+08-Nov-23,Paris,33,23,Rainy,-14,84,15,101
+09-Nov-23,Paris,48,13,Snow,-13,30,20,107
+10-Nov-23,Mumbai,20,30,Rainy,-17,34,12,83
+11-Nov-23,Mumbai,20,19,Sunny,-14,63,12,88
+12-Nov-23,Paris,18,25,Rainy,-2,26,15,75
+13-Nov-23,Paris,31,13,Sunny,-19,79,21,78
+14-Nov-23,Paris,46,14,Snow,-14,76,22,94
+15-Nov-23,Paris,20,27,Snow,-11,84,21,86
+16-Nov-23,Paris,43,18,Rainy,-15,36,10,88
+17-Nov-23,New York,19,11,Rainy,-5,30,24,101
+18-Nov-23,New York,33,20,Sunny,-18,55,13,94
+19-Nov-23,Paris,35,19,Sunny,-22,37,7,85
+20-Nov-23,New York,19,20,Rainy,-19,58,8,90
+21-Nov-23,New York,20,25,Rainy,-10,51,15,79
+22-Nov-23,Mumbai,34,26,Snow,-8,63,8,89
+23-Nov-23,Mumbai,43,20,Sunny,-21,71,21,89
+24-Nov-23,Mumbai,45,25,Rainy,-13,44,22,105
+25-Nov-23,Mumbai,25,15,Rainy,-9,49,7,91
+26-Nov-23,Paris,38,30,Snow,-16,30,12,106
+27-Nov-23,Paris,30,32,Rainy,-4,25,21,94
+28-Nov-23,Paris,28,25,Sunny,-20,54,11,93
+29-Nov-23,Mumbai,29,11,Sunny,-6,30,18,92
+30-Nov-23,Mumbai,26,27,Snow,-11,44,26,95
+01-Dec-23,Paris,37,31,Snow,-18,80,9,86
+02-Dec-23,Paris,28,15,Rainy,-6,68,22,84
+03-Dec-23,Paris,29,15,Rainy,-22,57,12,100
+04-Dec-23,Paris,40,30,Sunny,-21,25,14,98
+05-Dec-23,Paris,24,25,Sunny,-19,32,16,100
+06-Dec-23,New York,21,27,Rainy,-3,41,20,104
+07-Dec-23,New York,28,32,Rainy,-5,43,12,108
+08-Dec-23,Mumbai,44,20,Snow,-11,52,19,88
+09-Dec-23,Mumbai,24,18,Sunny,-7,80,8,80
+10-Dec-23,New York,28,20,Snow,-8,49,26,98
+11-Dec-23,New York,39,17,Snow,-14,38,27,108
+12-Dec-23,Mumbai,31,10,Rainy,-11,23,21,86
+13-Dec-23,Mumbai,40,17,Rainy,-19,84,18,105
+14-Dec-23,Mumbai,27,13,Sunny,-6,45,28,111
+15-Dec-23,Mumbai,34,22,Sunny,-6,29,20,109
+16-Dec-23,Paris,47,15,Rainy,-3,51,14,92
+17-Dec-23,Paris,43,31,Rainy,-8,23,19,77
+18-Dec-23,Paris,23,12,Snow,-20,38,10,111
+19-Dec-23,Paris,37,16,Rainy,-15,40,20,101
+20-Dec-23,Paris,38,20,Sunny,-16,59,12,97
+21-Dec-23,New York,46,29,Sunny,-16,59,10,89
+22-Dec-23,New York,18,22,Rainy,-2,77,16,76
+23-Dec-23,Mumbai,39,31,Rainy,-14,48,20,75
+24-Dec-23,Mumbai,43,26,Sunny,-15,36,18,103
+25-Dec-23,Mumbai,34,24,Sunny,-18,54,19,78
+26-Dec-23,Mumbai,31,24,Rainy,-6,36,7,93
+27-Dec-23,Mumbai,42,30,Rainy,-8,49,11,80
+28-Dec-23,Mumbai,43,7,Rainy,-9,40,23,93
+29-Dec-23,Mumbai,28,8,Rainy,-20,47,18,95
+30-Dec-23,Mumbai,31,32,Rainy,-21,54,20,86
+31-Dec-23,Mumbai,30,32,Rainy,-17,58,23,102
+01-Jan-24,Mumbai,28,31,Rainy,-15,27,16,95
+02-Jan-24,Mumbai,42,18,Rainy,-11,85,16,102
+03-Jan-24,Mumbai,38,15,Rainy,-8,54,8,77
+04-Jan-24,Mumbai,23,26,Rainy,-6,40,24,104
+05-Jan-24,Mumbai,44,7,Rainy,-4,67,26,103
+06-Jan-24,Mumbai,47,8,Rainy,-3,56,13,103
+07-Jan-24,Mumbai,20,9,Rainy,-9,67,24,87
+08-Jan-24,Mumbai,21,19,Rainy,-22,79,11,85
+09-Jan-24,Mumbai,21,7,Rainy,-20,59,24,104
+10-Jan-24,Mumbai,48,18,Rainy,-4,27,20,80
+11-Jan-24,Mumbai,48,18,Rainy,-4,42,9,77
+12-Jan-24,Mumbai,20,31,Rainy,-6,74,15,95
+13-Jan-24,Mumbai,21,32,Rainy,-2,30,12,111
+14-Jan-24,Mumbai,47,11,Rainy,-7,48,24,86
+15-Jan-24,Mumbai,40,11,Rainy,-16,72,11,77
+16-Jan-24,Mumbai,27,10,Rainy,-18,64,24,104
+17-Jan-24,Mumbai,22,21,Rainy,-10,61,27,79
+18-Jan-24,Mumbai,37,18,Rainy,-17,66,24,79
+19-Jan-24,Mumbai,33,8,Rainy,-7,83,9,103
+20-Jan-24,Mumbai,33,22,Rainy,-19,35,7,98
+21-Jan-24,Mumbai,26,25,Rainy,-20,66,19,84
+22-Jan-24,Mumbai,18,27,Rainy,-13,67,25,95
+23-Jan-24,Mumbai,25,11,Rainy,-17,57,10,84
+24-Jan-24,Mumbai,28,24,Rainy,-9,61,9,75
+25-Jan-24,Mumbai,21,25,Rainy,-2,81,15,103
+26-Jan-24,Mumbai,37,29,Rainy,-16,64,17,108
+27-Jan-24,Mumbai,34,26,Rainy,-7,39,14,95
+28-Jan-24,Mumbai,33,27,Rainy,-17,80,16,90
+29-Jan-24,Mumbai,48,23,Rainy,-16,65,28,75
+30-Jan-24,Mumbai,47,10,Rainy,-13,69,18,110
+31-Jan-24,Mumbai,39,22,Rainy,-20,44,12,80
+01-Feb-24,Mumbai,22,25,Rainy,-6,65,22,90
+02-Feb-24,Mumbai,18,14,Rainy,-13,33,13,80
+03-Feb-24,Mumbai,47,32,Rainy,-6,43,21,110
+04-Feb-24,Mumbai,48,16,Rainy,-14,56,8,104
+05-Feb-24,Mumbai,42,23,Rainy,-13,31,16,75
+06-Feb-24,Mumbai,25,20,Rainy,-7,43,11,104
+07-Feb-24,Mumbai,45,15,Rainy,-20,44,21,99
+08-Feb-24,Mumbai,33,32,Rainy,-5,62,24,112
+09-Feb-24,Mumbai,43,21,Rainy,-8,75,18,89
+10-Feb-24,Mumbai,25,22,Rainy,-13,43,18,97
+11-Feb-24,Mumbai,25,29,Rainy,-2,59,14,89
+12-Feb-24,Mumbai,24,24,Rainy,-5,78,17,100
+13-Feb-24,Mumbai,18,20,Rainy,-20,59,7,103
+14-Feb-24,Mumbai,38,29,Rainy,-18,79,10,79
+15-Feb-24,Mumbai,26,11,Rainy,-6,80,13,102
+16-Feb-24,Mumbai,34,30,Rainy,-18,79,25,95
+17-Feb-24,Mumbai,45,10,Rainy,-5,49,9,93
+18-Feb-24,Mumbai,28,11,Rainy,-15,83,17,78
+19-Feb-24,Mumbai,48,16,Rainy,-18,60,9,109
+20-Feb-24,Mumbai,40,18,Rainy,-2,32,19,98
+21-Feb-24,Mumbai,41,23,Rainy,-10,42,24,105
+22-Feb-24,Mumbai,38,7,Rainy,-9,59,20,78
+23-Feb-24,Mumbai,44,14,Rainy,-14,76,28,86
+24-Feb-24,Mumbai,37,22,Rainy,-18,28,16,87
+25-Feb-24,Mumbai,43,8,Rainy,-15,39,10,79
+26-Feb-24,Mumbai,42,25,Rainy,-13,50,10,110
+27-Feb-24,Mumbai,21,30,Rainy,-2,82,9,108
+28-Feb-24,Mumbai,30,16,Rainy,-13,52,20,93
+29-Feb-24,Mumbai,46,21,Rainy,-3,49,10,79
+01-Mar-24,Mumbai,22,30,Rainy,-4,28,22,95
+02-Mar-24,Mumbai,40,11,Rainy,-3,55,20,76
+03-Mar-24,Mumbai,42,31,Rainy,-4,57,27,90
+04-Mar-24,Mumbai,40,27,Rainy,-11,60,12,86
+05-Mar-24,Mumbai,45,21,Rainy,-8,31,28,94
+06-Mar-24,Mumbai,23,32,Rainy,-7,44,27,105
+07-Mar-24,Mumbai,43,17,Rainy,-4,50,28,86
+08-Mar-24,Mumbai,19,13,Rainy,-18,45,16,98
+09-Mar-24,Mumbai,45,32,Rainy,-19,55,7,95
+10-Mar-24,Mumbai,42,30,Rainy,-13,43,9,106
+11-Mar-24,Mumbai,45,15,Rainy,-20,38,21,108
+12-Mar-24,Mumbai,30,32,Rainy,-10,52,7,103
+13-Mar-24,Mumbai,18,27,Rainy,-14,57,22,86
+14-Mar-24,Mumbai,38,27,Rainy,-4,40,27,104
+15-Mar-24,Mumbai,32,9,Rainy,-4,34,20,101
+16-Mar-24,Mumbai,30,14,Rainy,-22,61,27,108
+17-Mar-24,Mumbai,28,12,Rainy,-7,53,9,86
+18-Mar-24,Mumbai,21,22,Rainy,-17,49,13,103
+19-Mar-24,Mumbai,23,28,Rainy,-19,50,9,81
+20-Mar-24,Mumbai,23,20,Rainy,-17,74,13,90
+21-Mar-24,Mumbai,44,27,Rainy,-18,71,9,98
+22-Mar-24,Mumbai,39,14,Rainy,-9,40,22,77
+23-Mar-24,Mumbai,25,20,Rainy,-19,82,21,82
+24-Mar-24,Mumbai,28,19,Rainy,-4,64,17,85
+25-Mar-24,Mumbai,30,12,Rainy,-21,26,18,109
+26-Mar-24,Mumbai,23,10,Rainy,-13,81,8,91
+27-Mar-24,Mumbai,45,26,Rainy,-11,65,16,111
+28-Mar-24,Mumbai,41,21,Rainy,-7,83,27,76
+29-Mar-24,Mumbai,36,23,Rainy,-22,84,9,83
+30-Mar-24,Mumbai,46,20,Rainy,-18,59,24,75
+31-Mar-24,Mumbai,36,23,Rainy,-18,75,18,84
+01-Apr-24,Mumbai,47,9,Rainy,-7,74,25,84
+02-Apr-24,Mumbai,18,24,Rainy,-4,53,25,95
+03-Apr-24,Mumbai,26,24,Rainy,-19,24,19,102
+04-Apr-24,Mumbai,37,26,Rainy,-15,53,23,90
+05-Apr-24,Mumbai,35,20,Rainy,-11,83,12,77
+06-Apr-24,Mumbai,41,9,Rainy,-19,30,15,103
+07-Apr-24,Mumbai,45,18,Rainy,-2,65,13,76
+08-Apr-24,Mumbai,48,29,Rainy,-11,46,14,94
+09-Apr-24,Mumbai,38,32,Rainy,-8,26,21,78
+10-Apr-24,Mumbai,35,26,Rainy,-11,60,23,99
+11-Apr-24,Mumbai,22,25,Rainy,-7,60,17,106
+12-Apr-24,Mumbai,20,27,Rainy,-16,73,14,75
+13-Apr-24,Mumbai,28,32,Rainy,-16,84,28,93
+14-Apr-24,Mumbai,42,22,Rainy,-12,58,9,102
+15-Apr-24,Mumbai,30,11,Rainy,-3,70,12,83
+16-Apr-24,Mumbai,29,7,Rainy,-17,75,7,100
+17-Apr-24,Mumbai,18,20,Rainy,-22,50,26,86
+18-Apr-24,Mumbai,33,22,Rainy,-10,66,22,76
+19-Apr-24,Mumbai,26,7,Rainy,-22,57,12,102
+20-Apr-24,Mumbai,35,32,Rainy,-7,36,28,83
+21-Apr-24,Mumbai,40,20,Rainy,-18,29,9,86
+22-Apr-24,Mumbai,27,8,Rainy,-8,66,12,104
+23-Apr-24,Mumbai,24,13,Rainy,-5,41,8,102
+24-Apr-24,Mumbai,38,14,Rainy,-15,83,22,108
+25-Apr-24,Mumbai,39,15,Rainy,-6,25,17,92
+26-Apr-24,Mumbai,33,7,Rainy,-8,40,7,103
+27-Apr-24,Mumbai,48,12,Rainy,-17,65,14,91
+28-Apr-24,Mumbai,32,11,Rainy,-13,45,21,100
+29-Apr-24,Mumbai,35,20,Rainy,-16,54,13,79
+30-Apr-24,Mumbai,34,30,Rainy,-17,45,20,93
+01-May-24,Mumbai,32,12,Rainy,-5,23,9,98
+02-May-24,Mumbai,45,18,Rainy,-10,37,22,83
+03-May-24,Mumbai,35,9,Rainy,-3,52,15,77
+04-May-24,Mumbai,38,13,Rainy,-3,54,20,94
+05-May-24,Mumbai,25,8,Rainy,-5,30,21,112
+06-May-24,Mumbai,30,14,Rainy,-14,81,15,78
+07-May-24,Mumbai,30,31,Rainy,-20,49,20,101
+08-May-24,Mumbai,41,16,Rainy,-18,34,20,92
+09-May-24,Mumbai,22,27,Rainy,-16,75,19,102
+10-May-24,Mumbai,43,19,Rainy,-21,49,7,93
+11-May-24,Mumbai,39,18,Rainy,-11,28,16,93
+12-May-24,Mumbai,33,16,Rainy,-16,38,28,94
+13-May-24,Mumbai,26,15,Rainy,-9,63,22,85
+14-May-24,Mumbai,27,13,Rainy,-18,70,28,78
+15-May-24,Mumbai,22,28,Rainy,-10,70,13,86
+16-May-24,Mumbai,24,8,Rainy,-19,81,11,109
+17-May-24,Mumbai,45,32,Rainy,-3,40,28,75
+18-May-24,Mumbai,29,10,Rainy,-4,82,7,97
+19-May-24,Mumbai,41,23,Rainy,-7,51,20,78
+20-May-24,Mumbai,43,11,Rainy,-12,40,17,110
+21-May-24,Mumbai,39,14,Rainy,-21,57,7,94
+22-May-24,Mumbai,21,27,Rainy,-13,73,11,107
+23-May-24,Mumbai,32,16,Rainy,-21,73,17,83
+24-May-24,Mumbai,31,28,Rainy,-11,35,24,106
+25-May-24,Mumbai,41,32,Rainy,-20,82,10,108
+26-May-24,Mumbai,40,27,Rainy,-5,24,17,100
+27-May-24,Mumbai,46,13,Rainy,-22,47,11,82
+28-May-24,Mumbai,27,11,Rainy,-22,66,12,111
+29-May-24,Mumbai,22,23,Rainy,-10,60,21,83
+30-May-24,Mumbai,41,20,Rainy,-3,81,12,79
+31-May-24,Mumbai,41,10,Rainy,-16,73,27,109
+01-Jun-24,Mumbai,21,19,Rainy,-3,45,15,85
+02-Jun-24,Mumbai,46,12,Rainy,-11,73,18,100
+03-Jun-24,Mumbai,36,17,Rainy,-20,34,11,100
+04-Jun-24,Mumbai,37,18,Rainy,-7,71,18,77
+05-Jun-24,Mumbai,42,25,Rainy,-8,73,17,86
+06-Jun-24,Mumbai,26,23,Rainy,-17,78,9,78
+07-Jun-24,Mumbai,33,24,Rainy,-14,37,27,79
+08-Jun-24,Mumbai,44,12,Rainy,-22,44,16,107
+09-Jun-24,Mumbai,42,19,Rainy,-7,32,20,79
+10-Jun-24,Mumbai,22,12,Rainy,-2,82,27,91
+11-Jun-24,Mumbai,40,24,Rainy,-13,35,26,96
+12-Jun-24,Mumbai,37,19,Rainy,-21,32,23,90
+13-Jun-24,Mumbai,18,16,Rainy,-22,42,18,79
+14-Jun-24,Mumbai,18,28,Rainy,-19,67,28,81
+15-Jun-24,Mumbai,22,23,Rainy,-13,61,11,92
+16-Jun-24,Mumbai,34,10,Rainy,-21,66,12,82
+17-Jun-24,Mumbai,28,22,Rainy,-4,51,8,100
+18-Jun-24,Mumbai,35,25,Rainy,-15,69,19,93
+19-Jun-24,Mumbai,32,29,Rainy,-7,52,7,99
+20-Jun-24,Mumbai,25,30,Rainy,-18,26,24,86
+21-Jun-24,Mumbai,32,12,Rainy,-18,50,19,100
+22-Jun-24,Mumbai,31,31,Rainy,-15,24,16,100
+23-Jun-24,Mumbai,41,24,Rainy,-13,77,22,89
+24-Jun-24,Mumbai,48,17,Rainy,-3,84,11,102
+25-Jun-24,Mumbai,35,9,Rainy,-5,51,16,96
+26-Jun-24,Mumbai,44,24,Rainy,-10,36,26,107
+27-Jun-24,Mumbai,45,8,Rainy,-14,76,23,81
+28-Jun-24,Mumbai,18,13,Rainy,-19,59,25,107
+29-Jun-24,Mumbai,30,17,Rainy,-13,30,26,92
+30-Jun-24,Mumbai,42,30,Rainy,-10,37,28,112
+01-Jul-24,Mumbai,44,11,Rainy,-9,73,25,83
+02-Jul-24,Mumbai,31,12,Rainy,-14,38,8,112
+03-Jul-24,Mumbai,31,21,Rainy,-3,57,21,77
+04-Jul-24,Mumbai,36,22,Rainy,-17,68,19,79
+05-Jul-24,Mumbai,42,30,Rainy,-10,74,22,80
+06-Jul-24,Mumbai,21,24,Rainy,-16,79,14,108
+07-Jul-24,Mumbai,32,8,Rainy,-5,62,20,112
+08-Jul-24,Mumbai,22,11,Rainy,-17,25,11,100
+09-Jul-24,Mumbai,19,18,Rainy,-3,70,16,98
