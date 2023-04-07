@@ -1,0 +1,1424 @@
+Client ID,Client Name,Executive Name,Sales Team,Gross Sales,Discount,Net Sales,Net Return,Actual Sales,Collection,PID,Product
+7441,Claire Gute,Stephen Carr,Team A,2518224,931742.88,1586481.12,0,1586481.12,0,10,Furniture
+7034,Darrin Van Huff,Brigitte Helm,Team C,254552,71274.56,183277.44,0,183277.44,0,10,Furniture
+7471,Sean O'Donnell,Anita Page,Team M,131320,36769.6,94550.4,0,94550.4,0,10,Furniture
+3054,Brosina Hoffman,Ginger Rogers,Team C,0,0,0,0,0,86800,10,Furniture
+5509,Andrew Allen,Paulette Goddard,Team C,0,0,0,0,0,138181,10,Furniture
+6103,Irene Maddox,Adriana Caselotti,Team B,0,0,0,0,0,82398,10,Furniture
+6992,Harold Pawlan,Paulette Goddard,Team N,0,0,0,0,0,371720,10,Furniture
+7494,Pete Kriz,Hattie McDaniel,Team K,0,0,0,0,0,60443,10,Furniture
+2992,Alejandro Grove,Ginger Rogers,Team B,0,0,0,0,0,97000,10,Furniture
+5298,Zuschuss Donatelli,Margaret Hamilton,Team N,0,0,0,0,0,88071,15,Office Supplies
+6102,Ken Black,Leopold Stokowski,Team G,0,0,0,0,0,5230,15,Office Supplies
+6892,Sandra Flanagan,Mel Blanc,Team B,0,0,0,0,0,31750,15,Office Supplies
+7366,Emily Burns,Joseph Cotten,Team L,0,0,0,0,0,205050,15,Office Supplies
+7489,Eric Hoffmann,Brigitte Helm,Team L,0,0,0,0,0,10850,15,Office Supplies
+2382,Tracy Blumstein,Myrna Loy,Team F,0,0,0,0,0,72797,15,Office Supplies
+5102,Matt Abelman,Adriana Caselotti,Team J,0,0,0,0,0,26413,15,Office Supplies
+6071,Gene Hale,Rita Hayworth,Team D,0,0,0,0,0,430000,15,Office Supplies
+6812,Steve Nguyen,Gladys Cooper,Team P,0,0,0,0,0,10957,15,Office Supplies
+7217,Linda Cazamias,Mel Blanc,Team C,0,0,0,0,0,87283,15,Office Supplies
+7488,Ruben Ausman,Gladys Cooper,Team E,0,0,0,0,0,69706,15,Office Supplies
+7519,Erin Smith,Joseph Cotten,Team M,0,0,0,0,0,250000,15,Office Supplies
+2290,Odella Nelson,Myrna Loy,Team H,0,0,0,0,0,369782,15,Office Supplies
+3499,Patrick O'Donnell,Keenan Wynn,Team E,0,0,0,0,0,2000000,15,Office Supplies
+5917,Lena Hernandez,Joseph Cotten,Team G,0,0,0,0,0,1797111,15,Office Supplies
+6627,Darren Powers,Gloria Grahame,Team E,0,0,0,0,0,93244,15,Office Supplies
+7497,Janet Molinari,Kenneth Tobey,Team H,0,0,0,0,0,48672,15,Office Supplies
+7008,Ted Butterfield,Richard Burton,Team A,1023125,276243.75,746881.25,0,746881.25,0,15,Office Supplies
+5974,Kunst Miller,Richard Burton,Team D,768185.6,253501.25,514684.35,0,514684.35,0,15,Office Supplies
+5371,Paul Stevenson,Richard Burton,Team L,547096,175070.72,372025.28,0,372025.28,282500,15,Office Supplies
+5794,Brendan Sweed,Marlon Brando,Team P,362947.11,98457.97,264489.14,0,264489.14,0,15,Office Supplies
+7448,Karen Daniels,Richard Burton,Team K,333438.3,100031.49,233406.81,0,233406.81,0,15,Office Supplies
+6512,Henry MacAllister,Richard Burton,Team B,303860,79003.6,224856.4,0,224856.4,0,15,Office Supplies
+7324,Joel Eaton,Richard Burton,Team M,206005,51501.25,154503.75,0,154503.75,0,15,Office Supplies
+4716,Ken Brennan,Marlon Brando,Team K,184508.5,55183.81,129324.7,0,129324.7,0,15,Office Supplies
+4407,Stewart Carmichael,Richard Burton,Team E,147057,33823.11,113233.89,0,113233.89,0,10,Furniture
+6633,Duane Noonan,Marlon Brando,Team D,127520.8,35513.83,92006.97,0,92006.97,0,10,Furniture
+7270,Julie Creighton,Takashi Shimura,Team C,113558,24982.76,88575.24,0,88575.24,0,10,Furniture
+6079,Christopher Schild,Richard Burton,Team M,126224,40391.68,85832.32,0,85832.32,0,10,Furniture
+7283,Paul Gonzalez,Marlon Brando,Team N,114123.72,35453.39,78670.33,0,78670.33,0,10,Furniture
+7144,Gary Mitchum,Richard Burton,Team H,111233.76,33370.13,77863.63,0,77863.63,0,10,Furniture
+6784,Jim Sink,Marlon Brando,Team P,100094.52,27285.95,72808.57,0,72808.57,0,10,Furniture
+7472,Karl Braun,Marlon Brando,Team C,59362,13059.64,46302.36,0,46302.36,0,10,Furniture
+4499,Roger Barcio,Marlon Brando,Team H,36486,10216.08,26269.92,0,26269.92,0,10,Furniture
+6862,Parhena Norris,Takashi Shimura,Team K,27974,6993.5,20980.5,0,20980.5,0,10,Furniture
+4142,Katherine Ducich,William Holden,Team G,0,0,0,0,0,14500,10,Furniture
+7209,Elpida Rittenbach,Nehemiah Persoff,Team P,0,0,0,0,0,99800,15,Office Supplies
+6549,Rick Bensley,Joseph Cotten,Team A,705343,197496.04,507846.96,0,507846.96,0,10,Furniture
+6639,Gary Zandusky,Janet Leigh,Team C,421728,101214.72,320513.28,0,320513.28,0,10,Furniture
+7476,Lena Cacioppo,Rita Moreno,Team M,252868,63217,189651,0,189651,0,10,Furniture
+5102,Matt Abelman,Adriana Caselotti,Team F,233244,46648.8,186595.2,0,186595.2,0,10,Furniture
+7377,Janet Martin,Ursula Andress,Team A,261606,94751.97,166854.03,0,166854.03,0,10,Furniture
+7383,Pete Armstrong,Joseph Cotten,Team P,168992.7,45847.72,123144.98,0,123144.98,0,10,Furniture
+6767,Cynthia Voltz,Joseph Cotten,Team E,101748,28489.44,73258.56,0,73258.56,0,10,Furniture
+3043,Clay Ludtke,Christopher Lambert,Team D,113034,40692.24,72341.76,0,72341.76,72400,10,Furniture
+5055,Ryan Crowe,Lea Thompson,Team K,121839.57,51172.62,70666.95,0,70666.95,0,10,Furniture
+2025,Dave Kipp,Louise Fletcher,Team P,64518,16774.68,47743.32,0,47743.32,0,10,Furniture
+7343,Greg Guthrie,Rita Hayworth,Team N,15446,4170.42,11275.58,0,11275.58,0,10,Furniture
+3917,Steven Cartwright,Tony Goldwyn,Team N,5807,1161.4,4645.6,0,4645.6,0,10,Furniture
+4460,Alan Dominguez,Tony Goldwyn,Team E,0,0,0,0,0,145000,10,Furniture
+5071,Philip Fox,Brian Dennehy,Team H,0,0,0,0,0,25500,10,Furniture
+6409,Troy Staebel,Keenan Wynn,Team N,0,0,0,0,0,41364,10,Furniture
+6738,Lindsay Shagiari,Joseph Cotten,Team B,0,0,0,0,0,992690,10,Furniture
+7113,Dorothy Wardle,Bill Murray,Team F,0,0,0,0,0,7043,10,Furniture
+7502,Lena Creighton,Hattie McDaniel,Team P,0,0,0,0,0,868980,10,Furniture
+7509,Jonathan Doherty,Hattie McDaniel,Team C,0,0,0,0,0,49884,10,Furniture
+7557,Sally Hughsby,Nicolas Cage,Team J,0,0,0,0,0,35310,10,Furniture
+3077,Sandra Glassco,Gloria Grahame,Team J,0,0,0,0,0,253542,10,Furniture
+4347,Helen Andreada,Johnny Depp,Team C,0,0,0,0,0,67812,10,Furniture
+6255,Maureen Gastineau,Keanu Reeves,Team I,0,0,0,0,0,242000,10,Furniture
+6951,Justin Ellison,Rita Hayworth,Team C,0,0,0,0,0,1238310,10,Furniture
+7327,Tamara Willingham,Victor Wong,Team E,0,0,0,0,0,147900,10,Furniture
+7508,Stephanie Phelps,S. Epatha Merkerson,Team C,0,0,0,0,0,29242,15,Office Supplies
+7513,Neil Knudson,Brigitte Helm,Team C,0,0,0,0,0,413215,15,Office Supplies
+3982,Dave Brooks,Louise Fletcher,Team E,0,0,0,0,0,84534,15,Office Supplies
+4977,Nora Paige,Marshall Bell,Team L,0,0,0,0,0,176833,15,Office Supplies
+5478,Ted Trevino,Bill Murray,Team F,0,0,0,0,0,5531,15,Office Supplies
+6636,Eric Murdock,Leonard Nimoy,Team H,0,0,0,0,0,48742,15,Office Supplies
+7325,Ruben Dartt,Rita Hayworth,Team H,0,0,0,0,0,96464,15,Office Supplies
+7504,Max Jones,Rita Moreno,Team C,0,0,0,0,0,671250,15,Office Supplies
+7511,Becky Martin,Paulette Goddard,Team E,0,0,0,0,0,48000,15,Office Supplies
+2168,Chad Sievert,Joseph Cotten,Team L,0,0,0,0,0,552528,15,Office Supplies
+3919,Jennifer Braxton,Joseph Cotten,Team A,0,0,0,0,0,366308.84,15,Office Supplies
+4535,Shirley Jackson,Adriana Caselotti,Team J,0,0,0,0,0,347000,15,Office Supplies
+6744,Jim Kriz,Joseph Cotten,Team A,0,0,0,0,0,2522000,15,Office Supplies
+7268,David Kendrick,Christopher Lambert,Team E,0,0,0,0,0,413500,15,Office Supplies
+7503,Robert Marley,Lea Thompson,Team M,0,0,0,0,0,73339,15,Office Supplies
+7510,Sally Knutson,Curtis Armstrong,Team H,0,0,0,0,0,40133,15,Office Supplies
+7474,Frank Merwin,Tom Cruise,Team C,529515,132378.75,397136.25,0,397136.25,0,15,Office Supplies
+7480,Alice McCarthy,Tom Cruise,Team M,510721,124249.15,386471.85,0,386471.85,0,15,Office Supplies
+4382,Mark Packer,William Holden,Team B,229431,57357.75,172073.25,0,172073.25,0,15,Office Supplies
+6386,Mary Zewe,William Holden,Team C,133277,34652.02,98624.98,0,98624.98,0,15,Office Supplies
+4325,Cassandra Brandow,William Holden,Team K,0,0,0,0,0,35000,15,Office Supplies
+7085,Valerie Mitchum,Richard Burton,Team M,0,0,0,0,0,15,15,Office Supplies
+4457,Fred Hopkins,Marlon Brando,Team A,0,0,0,0,0,100,15,Office Supplies
+7312,Maria Bertelson,Tom Cruise,Team D,0,0,0,0,0,136172,15,Office Supplies
+7297,Bruce Stewart,Bill Johnson,Team F,0,0,0,0,0,104000,15,Office Supplies
+7501,Logan Currie,Richard Burton,Team K,0,0,0,0,0,800000,10,Furniture
+4347,Helen Andreada,Johnny Depp,Team F,0,0,0,0,0,12254,13,Technology
+7178,Heather Kirkland,Leopold Stokowski,Team A,0,0,0,0,0,50000,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team P,0,0,0,0,0,408115,15,Office Supplies
+7380,Joseph Holt,Adriana Caselotti,Team L,4043644.8,1536585.02,2507059.78,0,2507059.78,0,20,Fruits
+5731,Michael Stewart,Clint Howard,Team H,1303445,417102.4,886342.6,0,886342.6,0,20,Fruits
+2457,Victoria Wilson,Johnny Depp,Team D,883800,141408,742392,0,742392,0,20,Fruits
+3410,Jonathan Howell,Clint Howard,Team C,625163.6,175045.81,450117.79,0,450117.79,0,20,Fruits
+5102,Matt Abelman,Adriana Caselotti,Team B,533100,106620,426480,0,426480,0,20,Fruits
+7478,Joni Blumstein,Brigitte Helm,Team J,533649,160094.7,373554.3,0,373554.3,0,20,Fruits
+5853,David Smith,Christopher Lambert,Team L,386664.88,115999.46,270665.42,0,270665.42,0,20,Fruits
+7447,Valerie Dominguez,Gladys Cooper,Team F,323025.9,113059.07,209966.84,0,209966.84,0,20,Fruits
+6605,Erin Ashbrook,Kathleen Wilhoite,Team I,298260.54,98254.99,200005.55,0,200005.55,0,20,Fruits
+5320,David Bremer,Curtis Armstrong,Team M,293615,105701.4,187913.6,0,187913.6,0,20,Fruits
+7384,Ken Lonsdale,Tony Goldwyn,Team B,249320,62330,186990,0,186990,0,20,Fruits
+7360,Dianna Wilson,Adriana Caselotti,Team E,240163.8,72049.14,168114.66,0,168114.66,0,20,Fruits
+4964,Logan Haushalter,Clint Howard,Team M,225289,63080.92,162208.08,0,162208.08,0,20,Fruits
+7223,Kelly Collister,Leopold Stokowski,Team C,121150,30287.5,90862.5,0,90862.5,0,20,Fruits
+2426,Delfina Latchford,Brigitte Helm,Team L,109600,19728,89872,0,89872,0,20,Fruits
+7479,Dan Reichenbach,Clint Howard,Team D,92316.5,25848.62,66467.88,0,66467.88,0,20,Fruits
+6515,Craig Carreira,Adriana Caselotti,Team H,84438,18576.36,65861.64,0,65861.64,0,20,Fruits
+5436,Dorris liebe,Joseph Cotten,Team M,93790.4,32826.64,60963.76,0,60963.76,0,20,Fruits
+4631,Sean Braxton,Lea Thompson,Team F,43846.44,-5261.57,49108.01,0,49108.01,0,20,Fruits
+2578,Roy Collins,Johnny Depp,Team F,59990.9,11998.18,47992.72,0,47992.72,0,20,Fruits
+4444,Alan Hwang,Curtis Armstrong,Team M,60733,16264.67,44468.33,0,44468.33,0,20,Fruits
+7467,Claudia Bergmann,Stephen Carr,Team H,58002,15637.34,42364.66,0,42364.66,0,20,Fruits
+6544,Christine Abelman,Kathleen Wilhoite,Team M,55974,13993.5,41980.5,0,41980.5,0,20,Fruits
+7510,Sally Knutson,Curtis Armstrong,Team B,55740,15607.2,40132.8,0,40132.8,0,20,Fruits
+7475,Kristen Hastings,Lea Thompson,Team A,51974.12,15072.49,36901.63,0,36901.63,0,20,Fruits
+7557,Sally Hughsby,Nicolas Cage,Team K,47715,12405.9,35309.1,0,35309.1,0,20,Fruits
+7492,Barry Blumstein,Leopold Stokowski,Team P,42593,10648.25,31944.75,0,31944.75,0,20,Fruits
+7284,Andrew Gjertsen,Stephen Carr,Team M,35788,7157.6,28630.4,0,28630.4,0,20,Fruits
+7123,Jas O'Carroll,Christopher Lambert,Team L,35502,9940.56,25561.44,0,25561.44,0,20,Fruits
+3573,Alan Haines,Stephen Carr,Team K,34967.9,10490.37,24477.53,0,24477.53,0,20,Fruits
+6919,Nick Zandusky,Tom Selleck,Team F,30180.4,7545.1,22635.3,0,22635.3,0,20,Fruits
+4415,Kelly Lampkin,Tony Goldwyn,Team F,26726,5345.2,21380.8,0,21380.8,0,20,Fruits
+6615,Alan Schoenberger,Johnny Depp,Team L,21699,4341.25,17357.75,0,17357.75,0,20,Fruits
+3968,Corey Roper,Tony Goldwyn,Team C,17293,3977.39,13315.61,0,13315.61,0,20,Fruits
+5026,Shahid Hopkins,Lea Thompson,Team F,17478,4369.5,13108.5,0,13108.5,0,20,Fruits
+5138,Ben Peterman,Keenan Wynn,Team F,13417,3613.82,9803.18,0,9803.18,0,20,Fruits
+6102,Ken Black,Leopold Stokowski,Team A,6703.47,1474.76,5228.71,0,5228.71,0,20,Fruits
+7485,Thomas Seio,Stephen Carr,Team H,5826,1825.29,4000.71,0,4000.71,0,20,Fruits
+7489,Eric Hoffmann,Brigitte Helm,Team K,0,0,0,0,0,16895,10,Furniture
+7517,Andy Gerbode,John Saxon,Team M,0,0,0,0,0,200000,10,Furniture
+7515,Sung Pak,Mel Blanc,Team A,0,0,0,0,0,25000,10,Furniture
+7458,Nathan Mautz,Joseph Cotten,Team P,0,0,0,0,0,1745,10,Furniture
+2758,Frank Atkinson,Michael Dudikoff,Team K,0,0,0,0,0,3823,10,Furniture
+7386,Grace Kelly,Adriana Caselotti,Team G,3025,453.75,2571.25,0,2571.25,0,14,Stationary
+2457,Victoria Wilson,Johnny Depp,Team F,508654.71,85708.32,422946.39,0,422946.39,0,15,Office Supplies
+6071,Gene Hale,Rita Hayworth,Team L,550038,137509.5,412528.5,0,412528.5,0,10,Furniture
+6255,Maureen Gastineau,Keanu Reeves,Team K,461817,101599.74,360217.26,0,360217.26,0,10,Furniture
+7489,Eric Hoffmann,Brigitte Helm,Team A,169650,42412.5,127237.5,0,127237.5,0,10,Furniture
+7470,Don Jones,S. Epatha Merkerson,Team C,190399.1,66639.69,123759.42,0,123759.42,0,10,Furniture
+7438,Patrick O'Brill,S. Epatha Merkerson,Team D,158177,35590.76,122586.24,0,122586.24,0,10,Furniture
+7445,John Lucas,Dean Stockwell,Team H,114612,32091.36,82520.64,0,82520.64,0,10,Furniture
+5138,Ben Peterman,Keenan Wynn,Team J,105197,28334.04,76862.96,0,76862.96,0,10,Furniture
+7484,Doug Bickford,George Kennedy,Team F,91845,20205.9,71639.1,0,71639.1,0,10,Furniture
+5627,Alyssa Crouse,Paulette Goddard,Team P,89640,22410,67230,0,67230,0,10,Furniture
+7494,Pete Kriz,Hattie McDaniel,Team B,80590,20147.5,60442.5,0,60442.5,0,10,Furniture
+7447,Valerie Dominguez,Gladys Cooper,Team K,11834,3195.18,8638.82,0,8638.82,0,10,Furniture
+7443,Clay Cheatham,S. Epatha Merkerson,Team E,8885,2221.25,6663.75,0,6663.75,0,10,Furniture
+5965,Tamara Dahlen,Mel Blanc,Team J,5126,1230.24,3895.76,0,3895.76,0,10,Furniture
+6320,Adam Bellavance,Dean Stockwell,Team C,4645,1021.9,3623.1,0,3623.1,0,10,Furniture
+7490,Jeremy Lonsdale,Denzel Washington,Team D,3888,933.12,2954.88,0,2954.88,0,10,Furniture
+6411,Victoria Brennan,Bill Murray,Team F,0,0,0,0,0,284462,10,Furniture
+6742,Katrina Willman,Keanu Reeves,Team A,0,0,0,0,0,97915,10,Furniture
+7518,Julia Dunbar,Adriana Caselotti,Team P,0,0,0,0,0,683514,10,Furniture
+2757,Michael Kennedy,Janet Leigh,Team H,0,0,0,0,0,125491,10,Furniture
+3157,Guy Thornton,Keenan Wynn,Team B,0,0,0,0,0,148203,10,Furniture
+4218,Arthur Gainer,Rita Hayworth,Team M,0,0,0,0,0,69675,10,Furniture
+5026,Shahid Hopkins,Lea Thompson,Team B,0,0,0,0,0,24000,10,Furniture
+6384,Muhammed MacIntyre,Keenan Wynn,Team I,0,0,0,0,0,212167,10,Furniture
+6650,Allen Rosenblatt,Christopher Lambert,Team E,0,0,0,0,0,570000,10,Furniture
+7454,Russell Applegate,Ted Raimi,Team L,0,0,0,0,0,88000,10,Furniture
+7512,Alejandro Savely,Fred Gwynne,Team J,0,0,0,0,0,4881,10,Furniture
+2730,Laura Armstrong,Janet Leigh,Team K,0,0,0,0,0,350000,10,Furniture
+3041,Denny Ordway,Kenneth Tobey,Team N,0,0,0,0,0,11700,10,Furniture
+4040,Dean Katz,Brian Dennehy,Team P,0,0,0,0,0,21183,10,Furniture
+4943,Nathan Gelder,Terry Kiser,Team N,0,0,0,0,0,54684,10,Furniture
+6592,Mike Vittorini,Brian Dennehy,Team J,0,0,0,0,0,77000.77,10,Furniture
+7325,Ruben Dartt,Rita Hayworth,Team D,0,0,0,0,0,69675,10,Furniture
+7488,Ruben Ausman,Gladys Cooper,Team I,0,0,0,0,0,168000,10,Furniture
+7505,Jack Garza,Robin Williams,Team E,0,0,0,0,0,780178,10,Furniture
+3029,Bart Pistole,Johnny Depp,Team G,0,0,0,0,0,2739217,10,Furniture
+3670,Victor Preis,Victor Wong,Team D,0,0,0,0,0,33976,10,Furniture
+4631,Sean Braxton,Lea Thompson,Team N,0,0,0,0,0,8417,10,Furniture
+5382,Saphhira Shifley,Brigitte Helm,Team H,0,0,0,0,0,9086,10,Furniture
+6066,Anna Gayman,Joseph Cotten,Team H,0,0,0,0,0,31600,10,Furniture
+6263,Luke Foster,Terry Kiser,Team P,0,0,0,0,0,100000,10,Furniture
+6419,Roy Französisch,Andrew Robinson,Team M,0,0,0,0,0,87892,10,Furniture
+7201,Keith Herrera,Joseph Cotten,Team B,0,0,0,0,0,123700,10,Furniture
+7546,Kimberly Carter,Christopher Lambert,Team C,0,0,0,0,0,1831609,10,Furniture
+2949,Caroline Jumper,Paulette Goddard,Team K,0,0,0,0,0,1803430,10,Furniture
+3567,Philip Brown,Myrna Loy,Team D,0,0,0,0,0,50845,10,Furniture
+4562,Michael Paige,Robert Townsend,Team M,0,0,0,0,0,196596,10,Furniture
+6017,Natalie Fritzler,Paulette Goddard,Team B,0,0,0,0,0,406802,10,Furniture
+6907,Shirley Daniels,Bill Johnson,Team C,112733,30437.91,82295.09,0,82295.09,0,10,Furniture
+5267,Ken Heidel,Richard Burton,Team N,0,0,0,0,0,500000,10,Furniture
+7135,Ross Baird,Marlon Brando,Team G,0,0,0,0,0,4134,10,Furniture
+4407,Stewart Carmichael,Richard Burton,Team E,0,0,0,0,0,10,10,Furniture
+7516,Mike Kennedy,Richard Burton,Team K,0,0,0,0,0,38234,10,Furniture
+6851,Philisse Overcash,Takashi Shimura,Team M,0,0,0,0,0,94250,10,Furniture
+7297,Bruce Stewart,Bill Johnson,Team G,0,0,0,0,0,400000,10,Furniture
+5882,Brenda Bowman,Marlon Brando,Team D,0,0,0,0,0,100000,10,Furniture
+7270,Julie Creighton,Takashi Shimura,Team N,0,0,0,0,0,90846,10,Furniture
+7520,Troy Blackwell,Kenneth Tobey,Team I,0,0,0,0,0,186300,13,Technology
+7135,Ross Baird,Marlon Brando,Team L,0,0,0,0,0,5065,13,Technology
+6316,Raymond Buch,William Holden,Team D,0,0,0,0,0,96000,13,Technology
+6508,Ed Braxton,Nehemiah Persoff,Team C,253083.53,30370.02,222713.51,0,222713.51,0,15,Office Supplies
+7209,Elpida Rittenbach,Nehemiah Persoff,Team K,0,0,0,0,0,150000,15,Office Supplies
+7178,Heather Kirkland,Leopold Stokowski,Team P,0,0,0,0,0,101250,15,Office Supplies
+7441,Claire Gute,Stephen Carr,Team M,1630198,603173.26,1027024.74,0,1027024.74,0,10,Furniture
+6902,Sanjit Chand,Adriana Caselotti,Team K,748983,164776.26,584206.74,0,584206.74,0,10,Furniture
+5868,Tanja Norvell,Andrew Robinson,Team K,588426.5,185608.58,402817.93,0,402817.93,0,10,Furniture
+5010,Joni Sundaresam,Andrew Robinson,Team M,471264.75,171540.37,299724.38,0,299724.38,0,10,Furniture
+7077,Maya Herman,Mel Blanc,Team C,488784,195513.6,293270.4,0,293270.4,0,10,Furniture
+2812,Jeremy Pistek,Carol Kane,Team M,365048,110053.39,254994.61,0,254994.61,0,10,Furniture
+4704,Jeremy Ellison,Louise Fletcher,Team K,363190.5,119749.38,243441.12,0,243441.12,0,10,Furniture
+3410,Jonathan Howell,Clint Howard,Team B,331500,92820,238680,0,238680,0,10,Furniture
+7372,John Grady,Adriana Caselotti,Team D,311715.25,93514.58,218200.68,0,218200.68,0,10,Furniture
+7403,Xylona Preis,Rita Hayworth,Team G,296794,83102.32,213691.68,0,213691.68,31857,10,Furniture
+7327,Tamara Willingham,Victor Wong,Team K,298042,88042.82,209999.18,0,209999.18,0,10,Furniture
+2061,Erin Mull,Kathleen Wilhoite,Team F,284715,85414.5,199300.5,0,199300.5,0,10,Furniture
+2307,Michelle Tran,Stephen Carr,Team E,286051.5,87951.87,198099.63,0,198099.63,0,10,Furniture
+7136,Sue Ann Reed,Margaret Hamilton,Team F,272904,87329.28,185574.72,0,185574.72,0,10,Furniture
+6882,Carl Weiss,Fred Gwynne,Team M,243996,63438.96,180557.04,0,180557.04,190872,10,Furniture
+6664,Astrea Jones,Adriana Caselotti,Team L,257589,77276.7,180312.3,0,180312.3,0,10,Furniture
+4714,Sonia Sunley,Louise Fletcher,Team D,190480,49524.8,140955.2,0,140955.2,141072,10,Furniture
+2168,Chad Sievert,Joseph Cotten,Team K,174864,41982.6,132881.4,0,132881.4,0,10,Furniture
+6255,Maureen Gastineau,Keanu Reeves,Team K,169310,37248.2,132061.8,0,132061.8,0,10,Furniture
+7487,Rose O'Brian,Margaret Hamilton,Team J,201087.37,70380.58,130706.79,0,130706.79,0,10,Furniture
+5870,Maribeth Dona,Andrew Robinson,Team H,144660,36165,108495,0,108495,0,10,Furniture
+7476,Lena Cacioppo,Rita Moreno,Team D,68212,17053,51159,0,51159,0,10,Furniture
+3467,Maribeth Yedwab,Denzel Washington,Team G,45159,12192.93,32966.07,0,32966.07,0,10,Furniture
+7514,Christopher Martinez,Denzel Washington,Team B,44509.66,13241.02,31268.64,0,31268.64,0,10,Furniture
+5001,Lynn Smith,Andrew Robinson,Team G,39074,9768.5,29305.5,0,29305.5,0,10,Furniture
+7056,Bradley Nguyen,Adriana Caselotti,Team I,23118,6473.04,16644.96,0,16644.96,0,10,Furniture
+7081,Dean Braden,Stephen Carr,Team C,14695,4033.6,10661.4,0,10661.4,0,10,Furniture
+2922,Matt Connell,Lea Thompson,Team K,12848,2955.04,9892.96,0,9892.96,19838,10,Furniture
+2457,Victoria Wilson,Johnny Depp,Team F,0,0,0,0,0,3461197,10,Furniture
+7091,Brian Dahlen,Fred Gwynne,Team G,0,0,0,0,0,12034,10,Furniture
+7532,Patricia Hirasaki,Nehemiah Persoff,Team L,0,0,0,0,0,336460,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team L,0,0,0,0,0,947840,10,Furniture
+3110,Karen Bern,Lea Thompson,Team K,0,0,0,0,0,3947,10,Furniture
+6369,Jasper Cacioppo,Keanu Reeves,Team A,0,0,0,0,0,41000,10,Furniture
+7325,Ruben Dartt,Rita Hayworth,Team M,0,0,0,0,0,-69675,10,Furniture
+7503,Robert Marley,Lea Thompson,Team P,0,0,0,0,0,76200,10,Furniture
+7526,Rob Lucas,Lea Thompson,Team A,0,0,0,0,0,335360,10,Furniture
+2034,Allen Armold,Robert Townsend,Team I,0,0,0,0,0,402550,10,Furniture
+4092,Emily Phan,Robert Townsend,Team L,0,0,0,0,0,9000,10,Furniture
+4916,Darren Koutras,Curtis Armstrong,Team D,0,0,0,0,0,31800,10,Furniture
+5748,Bradley Drucker,Robin Williams,Team D,0,0,0,0,0,216000,10,Furniture
+7314,Liz MacKendrick,Ursula Andress,Team P,0,0,0,0,0,18800,10,Furniture
+7525,Adrian Shami,Lea Thompson,Team A,0,0,0,0,0,131017,10,Furniture
+7534,Bill Donatelli,Brigitte Helm,Team K,0,0,0,0,0,200000,10,Furniture
+4758,Greg Tran,Lea Thompson,Team C,0,0,0,0,0,204968,10,Furniture
+5298,Zuschuss Donatelli,Margaret Hamilton,Team B,0,0,0,0,0,1382.75,10,Furniture
+6076,Ashley Jarboe,Terry Kiser,Team G,0,0,0,0,0,481000,10,Furniture
+6799,Olvera Toch,Leopold Stokowski,Team P,0,0,0,0,0,50872,10,Furniture
+7060,Liz Pelletier,Judith Barsi,Team K,0,0,0,0,0,230000,10,Furniture
+7479,Dan Reichenbach,Clint Howard,Team I,0,0,0,0,0,63166.68,10,Furniture
+7521,Cynthia Arntzen,Judith Barsi,Team F,0,0,0,0,0,18670,10,Furniture
+7533,Jeremy Farry,Keenan Wynn,Team G,0,0,0,0,0,66762,10,Furniture
+7501,Logan Currie,Richard Burton,Team E,1419045,425713.5,993331.5,0,993331.5,193332,10,Furniture
+7312,Maria Bertelson,Tom Cruise,Team G,207143.94,70428.94,136715,0,136715,0,10,Furniture
+4499,Roger Barcio,Marlon Brando,Team K,0,0,0,0,0,413900,10,Furniture
+4142,Katherine Ducich,William Holden,Team J,0,0,0,0,0,66000,10,Furniture
+5043,Frank Preis,William Holden,Team I,0,0,0,0,0,90000,10,Furniture
+2139,Ellis Ballard,Johnny Depp,Team N,188610.75,56583.23,132027.53,0,132027.53,0,13,Technology
+7521,Cynthia Arntzen,Judith Barsi,Team N,0,0,0,0,0,13300,14,Stationary
+2457,Victoria Wilson,Johnny Depp,Team F,0,0,0,0,0,4680922,15,Office Supplies
+6799,Olvera Toch,Leopold Stokowski,Team G,0,0,0,0,0,49128,15,Office Supplies
+6597,Jennifer Ferguson,Leopold Stokowski,Team H,0,0,0,0,0,860000,15,Office Supplies
+5237,Sarah Foster,Bill Murray,Team H,0,0,0,0,0,239400,15,Office Supplies
+5120,Trudy Glocke,Bill Murray,Team B,0,0,0,0,0,200000,15,Office Supplies
+7522,Carlos Soltero,Leonard Nimoy,Team I,0,0,0,0,0,197200,15,Office Supplies
+6759,Charles Crestani,Takashi Shimura,Team C,0,0,0,0,0,160499,15,Office Supplies
+6902,Sanjit Chand,Adriana Caselotti,Team G,798827,182110.04,616716.96,0,616716.96,0,10,Furniture
+2290,Odella Nelson,Myrna Loy,Team K,765785,237546.51,528238.49,0,528238.49,0,10,Furniture
+5509,Andrew Allen,Paulette Goddard,Team G,395200,103982.32,291217.68,0,291217.68,0,10,Furniture
+6549,Rick Bensley,Joseph Cotten,Team G,382930,107220.4,275709.6,0,275709.6,0,10,Furniture
+5910,Dianna Vittorini,Mel Blanc,Team D,325150,78036,247114,0,247114,0,10,Furniture
+7499,Bruce Degenhardt,Michael Dudikoff,Team A,305027.65,71322.16,233705.49,0,233705.49,0,10,Furniture
+4977,Nora Paige,Marshall Bell,Team K,253864.5,71082.06,182782.44,0,182782.44,0,10,Furniture
+6271,Zuschuss Carroll,Paulette Goddard,Team A,226569,54376.56,172192.44,0,172192.44,0,10,Furniture
+6172,Melanie Seite,Joseph Cotten,Team C,254312,89009.2,165302.8,0,165302.8,0,10,Furniture
+3838,Lena Radford,Ted Raimi,Team D,213240,53310,159930,0,159930,0,10,Furniture
+4133,Theone Pippenger,Ted Raimi,Team K,183168,45792,137376,0,137376,0,10,Furniture
+2730,Laura Armstrong,Janet Leigh,Team F,176091,54588.21,121502.79,0,121502.79,0,10,Furniture
+7325,Ruben Dartt,Rita Hayworth,Team I,130066,37719.14,92346.86,0,92346.86,0,10,Furniture
+7454,Russell Applegate,Ted Raimi,Team C,122244,34228.32,88015.68,0,88015.68,0,10,Furniture
+7217,Linda Cazamias,Mel Blanc,Team B,116378.5,29094.63,87283.88,0,87283.88,0,10,Furniture
+7503,Robert Marley,Lea Thompson,Team E,99106,25767.56,73338.44,0,73338.44,0,10,Furniture
+3499,Patrick O'Donnell,Keenan Wynn,Team N,92900,24154,68746,0,68746,0,10,Furniture
+7498,Chloris Kastensmidt,Michael Dudikoff,Team A,81168.2,18893.55,62274.65,0,62274.65,0,10,Furniture
+3983,Alan Shonely,Janet Leigh,Team B,69654.13,20965.89,48688.24,0,48688.24,0,10,Furniture
+7497,Janet Molinari,Kenneth Tobey,Team N,65772,17100.72,48671.28,0,48671.28,0,10,Furniture
+7511,Becky Martin,Paulette Goddard,Team F,60464,12092.8,48371.2,0,48371.2,0,10,Furniture
+7515,Sung Pak,Mel Blanc,Team J,33916,8818.16,25097.84,0,25097.84,0,10,Furniture
+4486,Andrew Roberts,Keenan Wynn,Team A,25400,6096,19304,0,19304,0,10,Furniture
+7056,Bradley Nguyen,Adriana Caselotti,Team K,16120,4513.6,11606.4,0,11606.4,0,10,Furniture
+6828,Nona Balk,Mel Blanc,Team L,4645,1161.25,3483.75,0,3483.75,0,10,Furniture
+2192,Giulietta Dortch,Janet Leigh,Team A,0,0,0,0,0,70933,10,Furniture
+4712,Clytie Kelty,Tony Goldwyn,Team M,0,0,0,0,0,316,10,Furniture
+5235,Nat Gilpin,Brigitte Helm,Team N,0,0,0,0,0,10,10,Furniture
+5721,Christina Anderson,Tony Goldwyn,Team F,0,0,0,0,0,660,10,Furniture
+7081,Dean Braden,Stephen Carr,Team H,0,0,0,0,0,10661,10,Furniture
+3154,Sylvia Foulston,Myrna Loy,Team C,0,0,0,0,0,1392642,10,Furniture
+5571,Meg O'Connel,Tony Goldwyn,Team H,0,0,0,0,0,1083,10,Furniture
+6458,Annie Thurman,Tom Selleck,Team K,0,0,0,0,0,549900,10,Furniture
+6871,Fred McMath,Curtis Armstrong,Team E,0,0,0,0,0,87010,10,Furniture
+7293,Denny Joy,Mel Blanc,Team N,0,0,0,0,0,100000,10,Furniture
+7506,Max Engle,Ted Raimi,Team F,0,0,0,0,0,450000,10,Furniture
+3818,Justin Deggeller,Margaret Hamilton,Team D,0,0,0,0,0,21475,10,Furniture
+4425,John Lee,Stephen Carr,Team M,0,0,0,0,0,609171,10,Furniture
+4965,Sean Christensen,Clint Howard,Team J,0,0,0,0,0,30221,10,Furniture
+5768,Laurel Elliston,Bill Murray,Team M,0,0,0,0,0,9407,10,Furniture
+7043,Chuck Clark,Joseph Cotten,Team L,0,0,0,0,0,21750,10,Furniture
+7292,Anthony Rawles,Adriana Caselotti,Team L,0,0,0,0,0,1500000,10,Furniture
+7465,Steven Roelle,Tony Goldwyn,Team G,0,0,0,0,0,101970,10,Furniture
+7537,Craig Reiter,Nicolas Cage,Team A,0,0,0,0,0,70000,10,Furniture
+3816,Eugene Hildebrand,Curtis Armstrong,Team M,0,0,0,0,0,73141,10,Furniture
+4775,Sibella Parks,Tony Goldwyn,Team G,0,0,0,0,0,452,10,Furniture
+5298,Zuschuss Donatelli,Margaret Hamilton,Team N,0,0,0,0,0,109228.33,10,Furniture
+5756,Tiffany House,Kathleen Wilhoite,Team L,0,0,0,0,0,500000,10,Furniture
+6250,Resi Pölking,Leopold Stokowski,Team G,0,0,0,0,0,31440,10,Furniture
+6578,Rob Beeghly,Tony Goldwyn,Team C,0,0,0,0,0,52185,10,Furniture
+7033,Carol Darley,Brigitte Helm,Team B,0,0,0,0,0,11430,10,Furniture
+7350,Doug Jacobs,William Holden,Team D,2200690,802635.99,1398054.01,0,1398054.01,173498,10,Furniture
+4382,Mark Packer,William Holden,Team J,235570,58892.5,176677.5,0,176677.5,0,10,Furniture
+4786,Grant Thornton,William Holden,Team G,195790,50905.4,144884.6,0,144884.6,0,10,Furniture
+6386,Mary Zewe,William Holden,Team F,161706,42043.56,119662.44,0,119662.44,0,10,Furniture
+6851,Philisse Overcash,Takashi Shimura,Team P,129116,34861.32,94254.68,0,94254.68,210975,10,Furniture
+4142,Katherine Ducich,William Holden,Team D,19265,4816.25,14448.75,0,14448.75,0,10,Furniture
+7500,Michael Chen,Richard Burton,Team A,0,0,0,0,0,41241,10,Furniture
+7283,Paul Gonzalez,Marlon Brando,Team M,0,0,0,0,0,32360,10,Furniture
+4341,Ralph Arnett,William Holden,Team H,0,0,0,0,0,653752,10,Furniture
+2139,Ellis Ballard,Johnny Depp,Team K,0,0,0,0,0,132028,13,Technology
+2457,Victoria Wilson,Johnny Depp,Team B,4359979.89,653560.99,3706418.9,0,3706418.9,0,15,Office Supplies
+6748,Naresj Patel,Leopold Stokowski,Team E,1552280,205211.42,1347068.58,0,1347068.58,0,15,Office Supplies
+7178,Heather Kirkland,Leopold Stokowski,Team D,165960.37,11988.53,153971.84,0,153971.84,0,15,Office Supplies
+2382,Tracy Blumstein,Myrna Loy,Team P,0,0,0,0,0,291000,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team G,0,0,0,0,0,430000,15,Office Supplies
+5326,Alan Barnes,Bill Murray,Team N,0,0,0,0,0,86707,15,Office Supplies
+7380,Joseph Holt,Adriana Caselotti,Team G,4698766.8,1785531.38,2913235.42,0,2913235.42,0,10,Furniture
+5780,Jesus Ocampo,Louise Fletcher,Team H,2286365.4,903114.33,1383251.07,0,1383251.07,0,10,Furniture
+7505,Jack Garza,Robin Williams,Team M,1329429.2,436276.84,893152.36,0,893152.36,0,10,Furniture
+7274,Jay Kimmel,Terry Kiser,Team C,729857.58,204624.27,525233.31,0,525233.31,0,10,Furniture
+4692,Brad Norvell,Fred Gwynne,Team N,465467.5,116366.88,349100.63,0,349100.63,107121,10,Furniture
+5748,Bradley Drucker,Robin Williams,Team J,295944,79934.47,216009.53,0,216009.53,0,10,Furniture
+4040,Dean Katz,Brian Dennehy,Team G,173545,50328.05,123216.95,0,123216.95,0,10,Furniture
+7469,David Philippe,Joseph Cotten,Team N,113473.25,40850.37,72622.88,0,72622.88,0,10,Furniture
+3816,Eugene Hildebrand,Curtis Armstrong,Team A,88790,23128.6,65661.4,0,65661.4,0,10,Furniture
+4848,Tracy Hopkins,Robert Townsend,Team B,74320,22296,52024,0,52024,0,10,Furniture
+5200,Arthur Prichep,Terry Kiser,Team B,35184,8444.16,26739.84,0,26739.84,0,10,Furniture
+3235,Roland Schwarz,Johnny Depp,Team F,25127,5028.49,20098.51,0,20098.51,0,10,Furniture
+3026,Seth Vernon,Johnny Depp,Team E,22797,4563.09,18233.91,0,18233.91,0,10,Furniture
+6071,Gene Hale,Rita Hayworth,Team L,22860,5715,17145,0,17145,0,10,Furniture
+3029,Bart Pistole,Johnny Depp,Team J,12958,2592.18,10365.82,0,10365.82,0,10,Furniture
+6882,Carl Weiss,Fred Gwynne,Team G,13935,3623.1,10311.9,0,10311.9,0,10,Furniture
+2782,Christine Kargatis,Johnny Depp,Team J,10050,2010,8040,0,8040,0,10,Furniture
+4347,Helen Andreada,Johnny Depp,Team L,6028,964.48,5063.52,0,5063.52,0,10,Furniture
+7512,Alejandro Savely,Fred Gwynne,Team L,6422,1541.28,4880.72,0,4880.72,5,10,Furniture
+7428,Ross DeVincentis,Victor Wong,Team I,0,0,0,0,0,11100,10,Furniture
+7549,Mathew Reese,Esai Morales,Team E,0,0,0,0,0,1028627,10,Furniture
+3799,Steve Chapman,Andrew Robinson,Team A,0,0,0,0,0,43586,10,Furniture
+5322,Jay Fein,Andrew Robinson,Team L,0,0,0,0,0,71142,10,Furniture
+6461,Emily Grady,Cliff Robertson,Team L,0,0,0,0,0,53481,10,Furniture
+7499,Bruce Degenhardt,Michael Dudikoff,Team B,0,0,0,0,0,227607,10,Furniture
+7540,Darrin Sayre,Denzel Washington,Team D,0,0,0,0,0,73000,10,Furniture
+7498,Chloris Kastensmidt,Michael Dudikoff,Team F,0,0,0,0,0,60735,10,Furniture
+7517,Andy Gerbode,John Saxon,Team H,0,0,0,0,0,34684,10,Furniture
+5026,Shahid Hopkins,Lea Thompson,Team C,0,0,0,0,0,200000,10,Furniture
+7191,Phillina Ober,Nehemiah Persoff,Team M,0,0,0,0,0,100000,10,Furniture
+6784,Jim Sink,Marlon Brando,Team F,958886.82,316432.65,642454.17,0,642454.17,0,10,Furniture
+7008,Ted Butterfield,Richard Burton,Team N,259224,69990.48,189233.52,0,189233.52,0,10,Furniture
+4457,Fred Hopkins,Marlon Brando,Team F,184855,42516.65,142338.35,0,142338.35,0,10,Furniture
+5110,Sung Shariari,Richard Burton,Team E,129346,32336.5,97009.5,0,97009.5,0,10,Furniture
+4407,Stewart Carmichael,Richard Burton,Team P,67150.49,18802.14,48348.35,0,48348.35,0,10,Furniture
+4716,Ken Brennan,Marlon Brando,Team L,21699,5207.76,16491.24,0,16491.24,0,10,Furniture
+5489,Peter Bühler,Richard Burton,Team C,12237,3059.25,9177.75,0,9177.75,0,10,Furniture
+6110,Roland Fjeld,Tom Cruise,Team N,0,0,0,0,0,19736,10,Furniture
+7154,Yoseph Carroll,Tom Cruise,Team J,0,0,0,0,0,300000,10,Furniture
+4376,Debra Catini,Richard Burton,Team E,0,0,0,0,0,28016,10,Furniture
+5043,Frank Preis,William Holden,Team G,0,0,0,0,0,20000,10,Furniture
+5937,Christine Phan,Richard Burton,Team D,0,0,0,0,0,5,10,Furniture
+5838,Barry Französisch,Richard Burton,Team N,0,0,0,0,0,28056,10,Furniture
+6494,Lisa Hazard,Takashi Shimura,Team G,0,0,0,0,0,200000,10,Furniture
+7350,Doug Jacobs,William Holden,Team B,0,0,0,0,0,2167284.85,10,Furniture
+6160,Chris Selesnick,Johnny Depp,Team N,444500,222250,222250,0,222250,0,13,Technology
+6597,Jennifer Ferguson,Leopold Stokowski,Team G,1893795,0,1893795,0,1893795,0,15,Office Supplies
+7543,Anthony Johnson,Nehemiah Persoff,Team C,0,0,0,0,0,132000,15,Office Supplies
+5896,Benjamin Venier,Janet Leigh,Team K,1563204,500225.28,1062978.72,0,1062978.72,0,10,Furniture
+4704,Jeremy Ellison,Louise Fletcher,Team F,1063688.5,350663.62,713024.89,0,713024.89,0,10,Furniture
+7451,Dan Lawera,Ted Raimi,Team C,570800,114160,456640,0,456640,0,10,Furniture
+7513,Neil Knudson,Brigitte Helm,Team N,592823.68,179609.17,413214.51,0,413214.51,0,10,Furniture
+4714,Sonia Sunley,Louise Fletcher,Team L,416524,108296.24,308227.76,0,308227.76,0,10,Furniture
+4848,Tracy Hopkins,Robert Townsend,Team A,408480,122544,285936,0,285936,0,10,Furniture
+7041,Bryan Mills,Curtis Armstrong,Team G,287260,95284.14,191975.86,0,191975.86,0,10,Furniture
+4692,Brad Norvell,Fred Gwynne,Team P,232724,44217.56,188506.44,0,188506.44,0,10,Furniture
+4798,Liz Thompson,Myrna Loy,Team K,186420,67111.2,119308.8,0,119308.8,0,10,Furniture
+3088,Joe Kamberova,Janet Leigh,Team F,141205,35301.25,105903.75,0,105903.75,0,10,Furniture
+6639,Gary Zandusky,Janet Leigh,Team K,124278,29826.72,94451.28,0,94451.28,0,10,Furniture
+4218,Arthur Gainer,Rita Hayworth,Team K,92900,23225,69675,0,69675,0,10,Furniture
+7509,Jonathan Doherty,Hattie McDaniel,Team A,66511.75,16627.94,49883.81,0,49883.81,0,10,Furniture
+6369,Jasper Cacioppo,Keanu Reeves,Team A,63665,22282.75,41382.25,0,41382.25,15100,10,Furniture
+5418,Erica Smith,Janet Leigh,Team E,53536,13384,40152,0,40152,0,10,Furniture
+3611,Rick Hansen,Brian Dennehy,Team L,52722,13180.5,39541.5,0,39541.5,0,10,Furniture
+6250,Resi Pölking,Leopold Stokowski,Team L,41386,9104.92,32281.08,0,32281.08,0,10,Furniture
+7508,Stephanie Phelps,S. Epatha Merkerson,Team N,36100,8664,27436,0,27436,0,10,Furniture
+4040,Dean Katz,Brian Dennehy,Team F,27658,7467.66,20190.34,0,20190.34,0,10,Furniture
+7489,Eric Hoffmann,Brigitte Helm,Team H,22526,5631.5,16894.5,0,16894.5,0,10,Furniture
+3838,Lena Radford,Ted Raimi,Team C,0,0,0,0,0,209183,10,Furniture
+4347,Helen Andreada,Johnny Depp,Team B,0,0,0,0,0,5064,10,Furniture
+6733,Carlos Daly,Judith Barsi,Team A,0,0,0,0,0,290000,10,Furniture
+7050,Helen Wasserman,Lea Thompson,Team F,0,0,0,0,0,396039,10,Furniture
+7454,Russell Applegate,Ted Raimi,Team G,0,0,0,0,0,1000000,10,Furniture
+7503,Robert Marley,Lea Thompson,Team K,0,0,0,0,0,76213,10,Furniture
+7540,Darrin Sayre,Denzel Washington,Team J,0,0,0,0,0,7513,10,Furniture
+7552,Mike Caudle,Hattie McDaniel,Team D,0,0,0,0,0,33548,10,Furniture
+2949,Caroline Jumper,Paulette Goddard,Team A,0,0,0,0,0,2475176,10,Furniture
+6255,Maureen Gastineau,Keanu Reeves,Team A,0,0,0,0,0,240433,10,Furniture
+7548,Gary McGarr,Michael Dudikoff,Team I,0,0,0,0,0,139820,10,Furniture
+7558,Pauline Johnson,S. Epatha Merkerson,Team D,0,0,0,0,0,107525,10,Furniture
+3475,Bart Watters,Brigitte Helm,Team G,0,0,0,0,0,600000,10,Furniture
+4175,Toby Ritter,Ted Raimi,Team B,0,0,0,0,0,609000,10,Furniture
+4849,Patrick Gardner,Robin Williams,Team H,0,0,0,0,0,24729,10,Furniture
+6515,Craig Carreira,Adriana Caselotti,Team M,0,0,0,0,0,880781,10,Furniture
+6893,James Lanier,Joseph Cotten,Team H,0,0,0,0,0,50000,10,Furniture
+7268,David Kendrick,Christopher Lambert,Team J,0,0,0,0,0,80855,10,Furniture
+7486,Brian Moss,Fred Gwynne,Team L,0,0,0,0,0,10787,10,Furniture
+7547,Eudokia Martin,Christopher Lambert,Team K,0,0,0,0,0,500000,10,Furniture
+7557,Sally Hughsby,Nicolas Cage,Team J,0,0,0,0,0,80000,10,Furniture
+3154,Sylvia Foulston,Myrna Loy,Team M,0,0,0,0,0,36441,10,Furniture
+6037,Art Foster,Marshall Bell,Team P,0,0,0,0,0,214389,10,Furniture
+6384,Muhammed MacIntyre,Keenan Wynn,Team K,0,0,0,0,0,254162,10,Furniture
+6767,Cynthia Voltz,Joseph Cotten,Team F,0,0,0,0,0,950000,10,Furniture
+7191,Phillina Ober,Nehemiah Persoff,Team C,0,0,0,0,0,27301,10,Furniture
+7469,David Philippe,Joseph Cotten,Team F,0,0,0,0,0,72500,10,Furniture
+7542,Guy Armstrong,Nehemiah Persoff,Team E,0,0,0,0,0,272116,10,Furniture
+7553,Cyma Kinney,Louise Fletcher,Team E,0,0,0,0,0,2125956,10,Furniture
+6907,Shirley Daniels,Bill Johnson,Team C,121832,32894.64,88937.36,0,88937.36,0,10,Furniture
+5882,Brenda Bowman,Marlon Brando,Team G,0,0,0,0,0,24683,10,Furniture
+7550,Dave Poirier,Richard Burton,Team D,0,0,0,0,0,219094,10,Furniture
+4786,Grant Thornton,William Holden,Team C,0,0,0,0,0,20000,10,Furniture
+6787,Berenike Kampe,William Holden,Team M,0,0,0,0,0,116760,10,Furniture
+6112,Sanjit Jacobs,Richard Burton,Team K,0,0,0,0,0,5,10,Furniture
+5768,Laurel Elliston,Bill Murray,Team B,257715.09,29920.72,227794.37,0,227794.37,0,15,Office Supplies
+7522,Carlos Soltero,Leonard Nimoy,Team K,220714.65,23925.47,196789.18,0,196789.18,0,15,Office Supplies
+7178,Heather Kirkland,Leopold Stokowski,Team I,0,0,0,0,0,2721,15,Office Supplies
+6076,Ashley Jarboe,Terry Kiser,Team G,585792,165858.02,419933.98,0,419933.98,0,10,Furniture
+5917,Lena Hernandez,Joseph Cotten,Team I,1398864,349716,1049148,0,1049148,0,13,Technology
+7504,Max Jones,Rita Moreno,Team A,853754,239051.12,614702.88,0,614702.88,0,13,Technology
+2340,Mike Gockenbach,Curtis Armstrong,Team I,809752,202438,607314,0,607314,0,13,Technology
+7488,Ruben Ausman,Gladys Cooper,Team F,626346,187903.8,438442.2,0,438442.2,0,13,Technology
+2034,Allen Armold,Robert Townsend,Team F,800883.05,378016.8,422866.25,0,422866.25,0,13,Technology
+2633,Chuck Magee,Janet Leigh,Team P,435258,108814.5,326443.5,0,326443.5,0,13,Technology
+4964,Logan Haushalter,Clint Howard,Team B,496029,173610.15,322418.85,0,322418.85,0,13,Technology
+6515,Craig Carreira,Adriana Caselotti,Team B,260557,57322.54,203234.46,0,203234.46,0,13,Technology
+7525,Adrian Shami,Lea Thompson,Team B,177049.15,46032.78,131016.37,0,131016.37,0,13,Technology
+6742,Katrina Willman,Keanu Reeves,Team B,130553,32638.25,97914.75,0,97914.75,0,13,Technology
+7503,Robert Marley,Lea Thompson,Team K,102990,26777.4,76212.6,0,76212.6,0,13,Technology
+7533,Jeremy Farry,Keenan Wynn,Team E,120482.04,45783.18,74698.86,0,74698.86,0,13,Technology
+7540,Darrin Sayre,Denzel Washington,Team A,97811,26408.97,71402.03,0,71402.03,0,13,Technology
+7481,Anthony Jacobs,Brigitte Helm,Team M,80048,20012,60036,0,60036,0,13,Technology
+7056,Bradley Nguyen,Adriana Caselotti,Team L,82916,23216.48,59699.52,0,59699.52,0,13,Technology
+3693,Linda Southworth,Stephen Carr,Team N,62368,16215.68,46152.32,0,46152.32,0,13,Technology
+7366,Emily Burns,Joseph Cotten,Team E,47016,13164.48,33851.52,0,33851.52,0,13,Technology
+6549,Rick Bensley,Joseph Cotten,Team M,46400,12992,33408,0,33408,0,13,Technology
+7539,Guy Phonely,Denzel Washington,Team F,45311,12687.08,32623.92,0,32623.92,0,13,Technology
+5026,Shahid Hopkins,Lea Thompson,Team B,32594,8148.5,24445.5,0,24445.5,0,13,Technology
+7314,Liz MacKendrick,Ursula Andress,Team I,23757,4957.41,18799.59,0,18799.59,0,13,Technology
+3041,Denny Ordway,Kenneth Tobey,Team L,15116,3476.68,11639.32,0,11639.32,0,13,Technology
+7033,Carol Darley,Brigitte Helm,Team B,15240,3810,11430,0,11430,0,13,Technology
+3611,Rick Hansen,Brian Dennehy,Team F,14500,3625,10875,0,10875,0,13,Technology
+5290,Paul Knutson,Joseph Cotten,Team K,14370,3736.2,10633.8,0,10633.8,0,13,Technology
+5382,Saphhira Shifley,Brigitte Helm,Team L,9085.32,0,9085.32,0,9085.32,0,13,Technology
+7545,Sally Matthias,Denzel Washington,Team I,7537,1808.88,5728.12,0,5728.12,0,13,Technology
+4058,Anthony Garverick,Louise Fletcher,Team E,0,0,0,0,0,457,13,Technology
+6382,Peter McVee,Cliff Robertson,Team P,0,0,0,0,0,81703,13,Technology
+7559,Lauren Leatherbury,Cliff Robertson,Team N,0,0,0,0,0,439400,13,Technology
+6369,Jasper Cacioppo,Keanu Reeves,Team D,0,0,0,0,0,197150,13,Technology
+6636,Eric Murdock,Leonard Nimoy,Team I,0,0,0,0,0,1507,13,Technology
+7547,Eudokia Martin,Christopher Lambert,Team B,0,0,0,0,0,500000,13,Technology
+2168,Chad Sievert,Joseph Cotten,Team B,0,0,0,0,0,191901,13,Technology
+5437,Jill Stevenson,Terry Kiser,Team H,0,0,0,0,0,18783,13,Technology
+4620,Ed Ludwig,Richard Burton,Team I,691979,186834.33,505144.67,0,505144.67,0,13,Technology
+7516,Mike Kennedy,Richard Burton,Team G,149428,37357,112071,0,112071,0,13,Technology
+4407,Stewart Carmichael,Richard Burton,Team G,129883,29873.09,100009.91,0,100009.91,0,13,Technology
+7500,Michael Chen,Richard Burton,Team D,54987,13746.75,41240.25,0,41240.25,0,13,Technology
+5838,Barry Französisch,Richard Burton,Team K,37409,9352.25,28056.75,0,28056.75,0,13,Technology
+6471,Pamela Coakley,Richard Burton,Team N,18185,4546.25,13638.75,0,13638.75,0,13,Technology
+7562,Hunter Lopez,Richard Burton,Team L,0,0,0,0,0,813927,13,Technology
+7312,Maria Bertelson,Tom Cruise,Team N,0,0,0,0,0,270000,13,Technology
+7520,Troy Blackwell,Kenneth Tobey,Team L,207050,20746.41,186303.59,0,186303.59,0,13,Technology
+3157,Guy Thornton,Keenan Wynn,Team C,175270.72,25063.71,150207.01,0,150207.01,0,15,Office Supplies
+2889,Maribeth Schnelling,Rupert Graves,Team I,8717891,2817622.37,5900268.63,0,5900268.63,0,14,Stationary
+2949,Caroline Jumper,Paulette Goddard,Team H,3215106.85,1083360.46,2131746.4,0,2131746.4,0,14,Stationary
+6846,George Bell,Rita Hayworth,Team J,1588599,397149.75,1191449.25,0,1191449.25,0,14,Stationary
+7099,Justin Ritter,Nehemiah Persoff,Team P,551501,132360.24,419140.76,0,419140.76,0,14,Stationary
+7179,Bill Eplett,Curtis Armstrong,Team A,604208.1,199790.71,404417.39,0,404417.39,0,14,Stationary
+5731,Michael Stewart,Clint Howard,Team B,289665,92692.8,196972.2,0,196972.2,0,14,Stationary
+5871,Sample Company A,Curtis Armstrong,Team B,202047.86,67079.89,134967.97,0,134967.97,0,14,Stationary
+2070,Rob Williams,Johnny Depp,Team H,140479,22476.64,118002.36,0,118002.36,0,14,Stationary
+4911,Sanjit Engle,Curtis Armstrong,Team L,154440,39742.44,114697.56,0,114697.56,0,14,Stationary
+7402,Adam Hart,George Kennedy,Team N,145908,46690.56,99217.44,0,99217.44,0,14,Stationary
+5709,Jessica Myrick,Andrew Robinson,Team H,123908.33,31001.86,92906.47,0,92906.47,0,14,Stationary
+6419,Roy Französisch,Andrew Robinson,Team C,118773,30880.98,87892.02,0,87892.02,0,14,Stationary
+7268,David Kendrick,Christopher Lambert,Team K,107781,26945.25,80835.75,0,80835.75,0,14,Stationary
+7537,Craig Reiter,Nicolas Cage,Team P,101724.8,31727.97,69996.83,0,69996.83,0,14,Stationary
+6461,Emily Grady,Cliff Robertson,Team C,73297.3,19816,53481.3,0,53481.3,0,14,Stationary
+7460,Joel Jenkins,Tony Goldwyn,Team D,61168,15903.68,45264.32,0,45264.32,0,14,Stationary
+2596,Ralph Kennedy,Curtis Armstrong,Team F,58526,15333.81,43192.19,0,43192.19,0,14,Stationary
+3428,Catherine Glotzbach,Stephen Carr,Team F,53166,13291.5,39874.5,0,39874.5,0,14,Stationary
+7053,Rachel Payne,Rupert Graves,Team P,52361,15708.3,36652.7,0,36652.7,0,14,Stationary
+3567,Philip Brown,Myrna Loy,Team K,47190,11797.5,35392.5,0,35392.5,0,14,Stationary
+7504,Max Jones,Rita Moreno,Team N,38530,10788.4,27741.6,0,27741.6,0,14,Stationary
+7521,Cynthia Arntzen,Judith Barsi,Team B,25224,6558.24,18665.76,0,18665.76,0,14,Stationary
+6369,Jasper Cacioppo,Keanu Reeves,Team A,20100,5025,15075,0,15075,0,14,Stationary
+5030,Karen Carlisle,Andrew Robinson,Team A,10050,2512.5,7537.5,0,7537.5,0,14,Stationary
+3541,Katherine Hughes,Stephen Carr,Team P,0,0,0,0,0,179860,14,Stationary
+4370,Greg Hansen,Brigitte Helm,Team G,0,0,0,0,0,246240,14,Stationary
+4965,Sean Christensen,Clint Howard,Team D,0,0,0,0,0,34278,14,Stationary
+5526,Scott Williamson,Bill Murray,Team F,0,0,0,0,0,60000,14,Stationary
+6320,Adam Bellavance,Dean Stockwell,Team J,0,0,0,0,0,952,14,Stationary
+7274,Jay Kimmel,Terry Kiser,Team B,0,0,0,0,0,48000,14,Stationary
+7456,Joseph Airdo,Leonard Nimoy,Team P,0,0,0,0,0,76055,14,Stationary
+7534,Bill Donatelli,Brigitte Helm,Team M,0,0,0,0,0,1196502,14,Stationary
+7570,Daniel Lacy,Brigitte Helm,Team L,0,0,0,0,0,44500,14,Stationary
+2178,Lindsay Williams,Stephen Carr,Team C,0,0,0,0,0,378959,14,Stationary
+4133,Theone Pippenger,Ted Raimi,Team C,0,0,0,0,0,155429,14,Stationary
+5290,Paul Knutson,Joseph Cotten,Team D,0,0,0,0,0,373992,14,Stationary
+7444,Thomas Brumley,Ursula Andress,Team N,0,0,0,0,0,49740,14,Stationary
+7569,Bryan Spruell,Leopold Stokowski,Team G,0,0,0,0,0,29400,14,Stationary
+2168,Chad Sievert,Joseph Cotten,Team J,0,0,0,0,0,298171,14,Stationary
+3693,Linda Southworth,Stephen Carr,Team D,0,0,0,0,0,179860,14,Stationary
+4870,Robert Waldorf,Paulette Goddard,Team B,0,0,0,0,0,254427,14,Stationary
+5200,Arthur Prichep,Terry Kiser,Team L,0,0,0,0,0,4000,14,Stationary
+7220,Tracy Zic,Stephen Carr,Team G,0,0,0,0,0,98074,14,Stationary
+7413,Ann Steele,Denzel Washington,Team F,0,0,0,0,0,110000,14,Stationary
+7557,Sally Hughsby,Nicolas Cage,Team G,0,0,0,0,0,183091,14,Stationary
+4394,Toby Swindell,Judith Barsi,Team M,0,0,0,0,0,50000,14,Stationary
+6349,Sara Luxemburg,Bill Murray,Team E,0,0,0,0,0,101657,14,Stationary
+6702,Mitch Willingham,John Saxon,Team E,0,0,0,0,0,1168000,14,Stationary
+7571,Rob Dowd,Tony Goldwyn,Team L,0,0,0,0,0,258245,14,Stationary
+6851,Philisse Overcash,Takashi Shimura,Team H,248482,67508.26,180973.74,0,180973.74,0,14,Stationary
+7270,Julie Creighton,Takashi Shimura,Team L,89594,19710.68,69883.32,0,69883.32,0,14,Stationary
+4142,Katherine Ducich,William Holden,Team E,94166,24483.16,69682.84,0,69682.84,3800,14,Stationary
+7283,Paul Gonzalez,Marlon Brando,Team A,46229,13868.7,32360.3,0,32360.3,0,14,Stationary
+4499,Roger Barcio,Marlon Brando,Team D,19655,5503.98,14151.02,0,14151.02,0,14,Stationary
+5937,Christine Phan,Richard Burton,Team A,0,0,0,0,0,83587,14,Stationary
+6952,Ryan Akin,Takashi Shimura,Team D,0,0,0,0,0,159200,14,Stationary
+7516,Mike Kennedy,Richard Burton,Team E,0,0,0,0,0,84394,14,Stationary
+5043,Frank Preis,William Holden,Team F,0,0,0,0,0,24600,14,Stationary
+6907,Shirley Daniels,Bill Johnson,Team H,0,0,0,0,0,134700,14,Stationary
+6112,Sanjit Jacobs,Richard Burton,Team C,0,0,0,0,0,1127036,14,Stationary
+7076,Meg Tillman,Tom Cruise,Team N,0,0,0,0,0,1221230,14,Stationary
+7572,Vivek Gonzalez,Takashi Shimura,Team I,0,0,0,0,0,64150,14,Stationary
+6160,Chris Selesnick,Johnny Depp,Team A,0,0,0,0,0,-243000,13,Technology
+7521,Cynthia Arntzen,Judith Barsi,Team G,15125,1825.59,13299.41,0,13299.41,0,14,Stationary
+6316,Raymond Buch,William Holden,Team P,105875,9528.75,96346.25,0,96346.25,0,14,Stationary
+2457,Victoria Wilson,Johnny Depp,Team B,2500777.26,374866.51,2125910.75,0,2125910.75,0,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team F,178477.73,19444.16,159033.57,0,159033.57,0,15,Office Supplies
+7543,Anthony Johnson,Nehemiah Persoff,Team B,148795.37,17855.44,130939.93,0,130939.93,0,15,Office Supplies
+5253,John Stevenson,Bill Murray,Team I,0,0,0,0,0,1192564,15,Office Supplies
+5294,Kalyca Meade,Johnny Depp,Team D,7684769.77,2405915.71,5278854.06,0,5278854.06,0,10,Furniture
+7360,Dianna Wilson,Adriana Caselotti,Team D,883043.2,264912.96,618130.24,0,618130.24,0,10,Furniture
+7518,Julia Dunbar,Adriana Caselotti,Team J,710548,163426.04,547121.96,0,547121.96,0,10,Furniture
+7268,David Kendrick,Christopher Lambert,Team G,596614.55,183096.64,413517.91,0,413517.91,0,10,Furniture
+5401,Hallie Redmond,Lea Thompson,Team G,443260.27,147064.03,296196.24,0,296196.24,0,10,Furniture
+4039,Deanra Eno,Robin Williams,Team L,349488,93364.49,256123.51,0,256123.51,0,10,Furniture
+7505,Jack Garza,Robin Williams,Team G,330387,109027.71,221359.29,0,221359.29,0,10,Furniture
+7293,Denny Joy,Mel Blanc,Team F,262315,62314.19,200000.81,0,200000.81,0,10,Furniture
+4562,Michael Paige,Robert Townsend,Team B,280316.85,89075.16,191241.69,0,191241.69,0,10,Furniture
+5007,Allen Goldenen,Robin Williams,Team P,221785,59163.95,162621.05,0,162621.05,0,10,Furniture
+4848,Tracy Hopkins,Robert Townsend,Team F,185128,54534.56,130593.44,0,130593.44,0,10,Furniture
+7526,Rob Lucas,Lea Thompson,Team I,191001.25,61120.4,129880.85,0,129880.85,0,10,Furniture
+7548,Gary McGarr,Michael Dudikoff,Team I,141659,35414.75,106244.25,0,106244.25,0,10,Furniture
+5724,Jennifer Jackson,Robin Williams,Team J,139202,37194.77,102007.23,0,102007.23,0,10,Furniture
+2382,Tracy Blumstein,Myrna Loy,Team P,106781.5,32034.45,74747.05,0,74747.05,0,10,Furniture
+5200,Arthur Prichep,Terry Kiser,Team P,107397.3,36026.4,71370.9,0,71370.9,0,10,Furniture
+2192,Giulietta Dortch,Janet Leigh,Team H,90940,20006.8,70933.2,0,70933.2,0,10,Furniture
+6076,Ashley Jarboe,Terry Kiser,Team G,85121,24056.84,61064.16,0,61064.16,0,10,Furniture
+7043,Chuck Clark,Joseph Cotten,Team G,32949.8,11202.93,21746.87,0,21746.87,0,10,Furniture
+2168,Chad Sievert,Joseph Cotten,Team J,20262,4862.88,15399.12,0,15399.12,489722,10,Furniture
+3567,Philip Brown,Myrna Loy,Team A,0,0,0,0,0,20770,10,Furniture
+5026,Shahid Hopkins,Lea Thompson,Team L,0,0,0,0,0,24500,10,Furniture
+6702,Mitch Willingham,John Saxon,Team G,0,0,0,0,0,840,10,Furniture
+7244,Jennifer Halladay,John Saxon,Team J,0,0,0,0,0,-126000,10,Furniture
+7349,Robert Dilbeck,Keenan Wynn,Team J,0,0,0,0,0,3536667,10,Furniture
+7566,Mary O'Rourke,Brigitte Helm,Team B,0,0,0,0,0,730609,14,Stationary
+7586,Noel Staavos,Michael Dudikoff,Team A,0,0,0,0,0,73600,14,Stationary
+2034,Allen Armold,Robert Townsend,Team C,0,0,0,0,0,1610200,14,Stationary
+2340,Mike Gockenbach,Curtis Armstrong,Team L,0,0,0,0,0,660669,14,Stationary
+3475,Bart Watters,Brigitte Helm,Team C,0,0,0,0,0,2000000,14,Stationary
+5756,Tiffany House,Kathleen Wilhoite,Team F,0,0,0,0,0,500000,14,Stationary
+6636,Eric Murdock,Leonard Nimoy,Team K,0,0,0,0,0,1000000,14,Stationary
+7096,Deirdre Greer,Anita Page,Team P,0,0,0,0,0,52000,14,Stationary
+7504,Max Jones,Rita Moreno,Team D,0,0,0,0,0,939791,14,Stationary
+7584,Nicole Fjeld,Hattie McDaniel,Team K,0,0,0,0,0,46852,14,Stationary
+2220,Matthew Grinstein,Brigitte Helm,Team H,0,0,0,0,0,46818,14,Stationary
+3154,Sylvia Foulston,Myrna Loy,Team J,0,0,0,0,0,73204,14,Stationary
+3851,Theresa Swint,Kenneth Tobey,Team M,0,0,0,0,0,6587,14,Stationary
+5733,Brian DeCherney,Robin Williams,Team L,0,0,0,0,0,176000,14,Stationary
+6384,Muhammed MacIntyre,Keenan Wynn,Team A,0,0,0,0,0,155261,14,Stationary
+7089,Charles McCrossin,Nicolas Cage,Team K,0,0,0,0,0,43000,14,Stationary
+7291,Skye Norling,Adriana Caselotti,Team L,0,0,0,0,0,1188833,14,Stationary
+7388,Erica Hernandez,Fred Gwynne,Team K,0,0,0,0,0,31260,14,Stationary
+7575,Frank Olsen,Rita Moreno,Team G,0,0,0,0,0,35674,14,Stationary
+2515,Maurice Satty,Tony Goldwyn,Team A,0,0,0,0,0,310768,14,Stationary
+3652,Chad Cunningham,Gloria Grahame,Team D,0,0,0,0,0,287800,14,Stationary
+4795,Don Weiss,Andrew Robinson,Team E,0,0,0,0,0,50000,14,Stationary
+5138,Ben Peterman,Keenan Wynn,Team P,0,0,0,0,0,4187,14,Stationary
+6084,Bill Tyler,Ted Raimi,Team N,0,0,0,0,0,163798,14,Stationary
+7574,Craig Yedwab,George Kennedy,Team C,0,0,0,0,0,11937,14,Stationary
+7595,Brad Thomas,Robin Williams,Team J,0,0,0,0,0,7620,14,Stationary
+7312,Maria Bertelson,Tom Cruise,Team B,448314.8,152427.03,295887.77,0,295887.77,0,14,Stationary
+7480,Alice McCarthy,Tom Cruise,Team H,110632,27104.84,83527.16,0,83527.16,0,14,Stationary
+7270,Julie Creighton,Takashi Shimura,Team C,26878,5913.16,20964.84,0,20964.84,0,14,Stationary
+4325,Cassandra Brandow,William Holden,Team E,0,0,0,0,0,40000,14,Stationary
+6907,Shirley Daniels,Bill Johnson,Team N,0,0,0,0,0,200000,14,Stationary
+4142,Katherine Ducich,William Holden,Team J,0,0,0,0,0,139300,14,Stationary
+6830,Penelope Sewall,Bill Johnson,Team H,0,0,0,0,0,262800,14,Stationary
+6386,Mary Zewe,William Holden,Team C,0,0,0,0,0,40000,10,Furniture
+6225,Paul Van Hugh,William Holden,Team E,0,0,0,0,0,20000,10,Furniture
+5294,Kalyca Meade,Johnny Depp,Team K,702000,210600,491400,0,491400,0,13,Technology
+2457,Victoria Wilson,Johnny Depp,Team M,2513972.7,376844.51,2137128.19,0,2137128.19,0,15,Office Supplies
+5253,John Stevenson,Bill Murray,Team I,940410.19,77557.47,862852.72,0,862852.72,0,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team D,49500,-1801.8,51301.8,0,51301.8,458420,15,Office Supplies
+5120,Trudy Glocke,Bill Murray,Team P,0,0,0,0,0,708000,15,Office Supplies
+7468,Neoma Murray,Leopold Stokowski,Team M,0,0,0,0,0,882570,15,Office Supplies
+7553,Cyma Kinney,Louise Fletcher,Team M,6252816,2000901.12,4251914.88,0,4251914.88,0,10,Furniture
+7405,Dionis Lloyd,Leonard Nimoy,Team K,5842984.05,1967917.14,3875066.91,0,3875066.91,0,10,Furniture
+7482,Christine Sundaresam,Margaret Hamilton,Team K,3910240,1673582.72,2236657.28,0,2236657.28,0,10,Furniture
+7123,Jas O'Carroll,Christopher Lambert,Team E,1513558,423796.24,1089761.76,0,1089761.76,0,10,Furniture
+5200,Arthur Prichep,Terry Kiser,Team P,527969.05,176341.66,351627.39,0,351627.39,0,10,Furniture
+3592,Frank Hawley,Rupert Graves,Team G,437916,122616.48,315299.52,0,315299.52,0,10,Furniture
+2070,Rob Williams,Johnny Depp,Team G,169051,27048.16,142002.84,0,142002.84,0,10,Furniture
+6369,Jasper Cacioppo,Keanu Reeves,Team G,146738,36684.5,110053.5,0,110053.5,0,10,Furniture
+6767,Cynthia Voltz,Joseph Cotten,Team D,128245,35908.6,92336.4,0,92336.4,0,10,Furniture
+7498,Chloris Kastensmidt,Michael Dudikoff,Team M,64378,16094.5,48283.5,0,48283.5,46943,10,Furniture
+7552,Mike Caudle,Hattie McDaniel,Team M,51612,18064.2,33547.8,0,33547.8,0,10,Furniture
+5071,Philip Fox,Brian Dennehy,Team F,39105.55,13686.94,25418.61,0,25418.61,0,10,Furniture
+3818,Justin Deggeller,Margaret Hamilton,Team G,26118,6268.32,19849.68,0,19849.68,19254,10,Furniture
+7499,Bruce Degenhardt,Michael Dudikoff,Team G,18580,3716,14864,0,14864,0,10,Furniture
+4943,Nathan Gelder,Terry Kiser,Team J,11652,2796.48,8855.52,0,8855.52,0,10,Furniture
+5029,Nat Carroll,Andrew Robinson,Team I,0,0,0,0,0,40899,10,Furniture
+5157,Alex Avila,Andrew Robinson,Team D,0,0,0,0,0,13367,10,Furniture
+5253,John Stevenson,Bill Murray,Team A,0,0,0,0,0,13863,10,Furniture
+6168,Larry Tron,Brigitte Helm,Team J,0,0,0,0,0,19700,10,Furniture
+7107,Anne Pryor,Andrew Robinson,Team B,0,0,0,0,0,3019,10,Furniture
+7476,Lena Cacioppo,Rita Moreno,Team N,0,0,0,0,0,175000,10,Furniture
+7523,Paul MacIntyre,Rita Hayworth,Team A,0,0,0,0,0,1500000,10,Furniture
+7567,Alyssa Tate,Mel Blanc,Team J,0,0,0,0,0,629996,10,Furniture
+7589,Cathy Armstrong,Leopold Stokowski,Team D,0,0,0,0,0,60000,10,Furniture
+3567,Philip Brown,Myrna Loy,Team D,0,0,0,0,0,30376,10,Furniture
+3820,Harold Ryan,Andrew Robinson,Team C,0,0,0,0,0,27684,10,Furniture
+4482,Bradley Talbott,Andrew Robinson,Team F,0,0,0,0,0,3068641,10,Furniture
+4964,Logan Haushalter,Clint Howard,Team K,0,0,0,0,0,781000,10,Furniture
+5010,Joni Sundaresam,Andrew Robinson,Team N,0,0,0,0,0,1110252,10,Furniture
+5214,Larry Hughes,Andrew Robinson,Team B,0,0,0,0,0,361381,10,Furniture
+5870,Maribeth Dona,Andrew Robinson,Team M,0,0,0,0,0,58442,10,Furniture
+7077,Maya Herman,Mel Blanc,Team A,0,0,0,0,0,500000,10,Furniture
+7585,Steven Ward,Anita Page,Team I,0,0,0,0,0,922402,10,Furniture
+4001,Stefania Perrino,Tony Goldwyn,Team M,0,0,0,0,0,24651,10,Furniture
+5041,Ben Ferrer,Robert Townsend,Team K,0,0,0,0,0,1573350,10,Furniture
+5868,Tanja Norvell,Andrew Robinson,Team K,0,0,0,0,0,69908,10,Furniture
+6269,Kean Thornton,Andrew Robinson,Team C,0,0,0,0,0,57193,10,Furniture
+6919,Nick Zandusky,Tom Selleck,Team N,0,0,0,0,0,3480,10,Furniture
+7325,Ruben Dartt,Rita Hayworth,Team C,0,0,0,0,0,4500000,10,Furniture
+7577,Brooke Gillingham,Paulette Goddard,Team P,0,0,0,0,0,161383,10,Furniture
+7628,Greg Matthias,Paulette Goddard,Team J,0,0,0,0,0,1237045,10,Furniture
+3693,Linda Southworth,Stephen Carr,Team M,0,0,0,0,0,-179860,10,Furniture
+3917,Steven Cartwright,Tony Goldwyn,Team D,0,0,0,0,0,2816,10,Furniture
+4911,Sanjit Engle,Curtis Armstrong,Team I,0,0,0,0,0,114697,10,Furniture
+5004,Eva Jacobs,Andrew Robinson,Team E,0,0,0,0,0,176077,10,Furniture
+5030,Karen Carlisle,Andrew Robinson,Team B,0,0,0,0,0,64287,10,Furniture
+5158,Nora Preis,Andrew Robinson,Team A,0,0,0,0,0,21939,10,Furniture
+5866,Mick Hernandez,Andrew Robinson,Team G,0,0,0,0,0,63832,10,Furniture
+6173,Jocasta Rupert,Andrew Robinson,Team E,0,0,0,0,0,1419,10,Furniture
+6882,Carl Weiss,Fred Gwynne,Team P,0,0,0,0,0,67120,10,Furniture
+7548,Gary McGarr,Michael Dudikoff,Team J,0,0,0,0,0,175100,10,Furniture
+7570,Daniel Lacy,Brigitte Helm,Team K,0,0,0,0,0,50000,10,Furniture
+7594,Suzanne McNair,S. Epatha Merkerson,Team N,0,0,0,0,0,197734,10,Furniture
+3855,Chris Cortes,Andrew Robinson,Team H,0,0,0,0,0,141532,10,Furniture
+4537,Phillip Flathmann,Kathleen Wilhoite,Team C,0,0,0,0,0,227864,10,Furniture
+5001,Lynn Smith,Andrew Robinson,Team E,0,0,0,0,0,340525,10,Furniture
+7297,Bruce Stewart,Bill Johnson,Team L,1345822,403746.6,942075.4,0,942075.4,73058,10,Furniture
+6854,Dan Campbell,William Holden,Team P,275914,71737.64,204176.36,0,204176.36,0,10,Furniture
+4363,Bryan Davis,Richard Burton,Team D,225920,56480,169440,0,169440,0,10,Furniture
+6952,Ryan Akin,Takashi Shimura,Team I,188975,49133.5,139841.5,0,139841.5,0,10,Furniture
+4142,Katherine Ducich,William Holden,Team A,185649,46412.25,139236.75,0,139236.75,0,10,Furniture
+6787,Berenike Kampe,William Holden,Team B,157023,40825.98,116197.02,0,116197.02,0,10,Furniture
+4365,Gene McClure,William Holden,Team F,152432,38108,114324,0,114324,0,10,Furniture
+5937,Christine Phan,Richard Burton,Team N,118261.56,34675.37,83586.19,0,83586.19,0,10,Furniture
+7572,Vivek Gonzalez,Takashi Shimura,Team J,91638.58,27491.57,64147.01,0,64147.01,0,10,Furniture
+5489,Peter Bühler,Richard Burton,Team D,24474,6118.5,18355.5,0,18355.5,0,10,Furniture
+7516,Mike Kennedy,Richard Burton,Team E,14075,3518.75,10556.25,0,10556.25,0,10,Furniture
+4407,Stewart Carmichael,Richard Burton,Team L,5630,1294.9,4335.1,0,4335.1,0,10,Furniture
+7365,Todd Boyes,Takashi Shimura,Team E,0,0,0,0,0,550000,10,Furniture
+7307,Justin Hirsh,Richard Burton,Team D,0,0,0,0,0,39650,10,Furniture
+6821,Erica Bern,Richard Burton,Team G,0,0,0,0,0,500510,10,Furniture
+7446,Quincy Jones,Tom Cruise,Team E,0,0,0,0,0,66000,10,Furniture
+7283,Paul Gonzalez,Marlon Brando,Team L,0,0,0,0,0,72535,10,Furniture
+7429,Tracy Collins,Richard Burton,Team B,0,0,0,0,0,837616,10,Furniture
+2176,Chuck Sachs,Johnny Depp,Team B,0,0,0,0,0,12600,13,Technology
+7568,Henry Goldwyn,Gladys Cooper,Team J,0,0,0,0,0,100000,14,Stationary
+5120,Trudy Glocke,Bill Murray,Team N,1040000,131976,908024,0,908024,0,15,Office Supplies
+5253,John Stevenson,Bill Murray,Team I,390000,31317,358683,0,358683,36269,15,Office Supplies
+5237,Sarah Foster,Bill Murray,Team F,231000,-8385.3,239385.3,0,239385.3,0,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team M,227500,28005.25,199494.75,0,199494.75,0,15,Office Supplies
+5147,Laurel Workman,Leopold Stokowski,Team A,0,0,0,0,0,400000,15,Office Supplies
+6301,Matt Collins,Bill Murray,Team K,0,0,0,0,0,5750000,15,Office Supplies
+6597,Jennifer Ferguson,Leopold Stokowski,Team H,0,0,0,0,0,451456,15,Office Supplies
+5235,Nat Gilpin,Brigitte Helm,Team K,306333,102835.83,203497.17,0,203497.17,0,10,Furniture
+7444,Thomas Brumley,Ursula Andress,Team K,66319,16579.75,49739.25,0,49739.25,0,10,Furniture
+2139,Ellis Ballard,Johnny Depp,Team P,53858.48,10671.2,43187.28,0,43187.28,0,10,Furniture
+4562,Michael Paige,Robert Townsend,Team D,7233,1880.58,5352.42,0,5352.42,0,10,Furniture
+2251,Liz Preis,Ginger Rogers,Team E,2797,643.31,2153.69,0,2153.69,0,10,Furniture
+6767,Cynthia Voltz,Joseph Cotten,Team J,0,0,0,0,0,400000,10,Furniture
+7274,Jay Kimmel,Terry Kiser,Team P,0,0,0,0,0,475000,10,Furniture
+7457,Evan Bailliet,Fred Gwynne,Team H,0,0,0,0,0,230276,10,Furniture
+7536,George Zrebassa,Ursula Andress,Team M,0,0,0,0,0,42129,10,Furniture
+7600,Cathy Prescott,John Saxon,Team C,0,0,0,0,0,100000,10,Furniture
+3855,Chris Cortes,Andrew Robinson,Team A,0,0,0,0,0,300000,10,Furniture
+5982,Frank Gastineau,Tom Selleck,Team M,0,0,0,0,0,89630,10,Furniture
+7272,Lisa DeCherney,Shane Black,Team L,0,0,0,0,0,200000,10,Furniture
+7499,Bruce Degenhardt,Michael Dudikoff,Team F,0,0,0,0,0,461234,10,Furniture
+7580,Alejandro Ballentine,Nicolas Cage,Team C,0,0,0,0,0,172966,10,Furniture
+3670,Victor Preis,Victor Wong,Team E,0,0,0,3484.6,-3484.6,0,10,Furniture
+7251,Michael Nguyen,Louise Fletcher,Team I,0,0,0,0,0,565724,10,Furniture
+7413,Ann Steele,Denzel Washington,Team D,0,0,0,0,0,103798,10,Furniture
+7498,Chloris Kastensmidt,Michael Dudikoff,Team D,0,0,0,0,0,461234,10,Furniture
+7579,Jim Radford,Rita Hayworth,Team B,0,0,0,0,0,6000000,10,Furniture
+3475,Bart Watters,Brigitte Helm,Team C,0,0,0,0,0,2000000,10,Furniture
+5041,Ben Ferrer,Robert Townsend,Team K,0,0,0,0,0,41384,10,Furniture
+7188,Jamie Frazer,Victor Wong,Team G,0,0,0,5569.16,-5569.16,0,10,Furniture
+7327,Tamara Willingham,Victor Wong,Team C,0,0,0,62103.72,-62103.72,0,10,Furniture
+7458,Nathan Mautz,Joseph Cotten,Team P,0,0,0,0,0,100200,10,Furniture
+7560,Chad McGuire,Gladys Cooper,Team J,0,0,0,0,0,3450000,10,Furniture
+5267,Ken Heidel,Richard Burton,Team N,2281010,693849.96,1587160.04,0,1587160.04,0,10,Furniture
+7283,Paul Gonzalez,Marlon Brando,Team E,98020,25485.2,72534.8,0,72534.8,0,10,Furniture
+6754,Aaron Smayling,Richard Burton,Team F,31838.8,7004.54,24834.26,0,24834.26,0,10,Furniture
+5956,Beth Paige,Richard Burton,Team H,0,0,0,0,0,153000,10,Furniture
+6972,Natalie DeCherney,Tom Cruise,Team C,0,0,0,0,0,54772,10,Furniture
+7474,Frank Merwin,Tom Cruise,Team I,0,0,0,0,0,345163,10,Furniture
+6907,Shirley Daniels,Bill Johnson,Team M,0,0,0,0,0,200000,10,Furniture
+7446,Quincy Jones,Tom Cruise,Team A,0,0,0,0,0,500000,10,Furniture
+6854,Dan Campbell,William Holden,Team I,0,0,0,0,0,30000,10,Furniture
+7270,Julie Creighton,Takashi Shimura,Team J,0,0,0,0,0,90846,10,Furniture
+7516,Mike Kennedy,Richard Burton,Team D,0,0,0,0,0,153000,10,Furniture
+6636,Eric Murdock,Leonard Nimoy,Team C,2144221.96,557497.71,1586724.25,0,1586724.25,0,10,Furniture
+2034,Allen Armold,Robert Townsend,Team G,2915560.12,1376144.38,1539415.74,0,1539415.74,0,10,Furniture
+7554,Larry Blacks,Kenneth Tobey,Team H,1502762,240441.92,1262320.08,0,1262320.08,0,10,Furniture
+4965,Sean Christensen,Clint Howard,Team N,935966.6,273125.78,662840.82,0,662840.82,0,10,Furniture
+4916,Darren Koutras,Curtis Armstrong,Team I,617208.76,185251.21,431957.55,0,431957.55,0,10,Furniture
+4580,Kean Takahito,Curtis Armstrong,Team C,602639.1,245195.4,357443.7,0,357443.7,0,10,Furniture
+6733,Carlos Daly,Judith Barsi,Team B,502765.04,162771.51,339993.53,0,339993.53,0,10,Furniture
+7542,Guy Armstrong,Nehemiah Persoff,Team N,409872.59,137757.38,272115.21,0,272115.21,0,10,Furniture
+7532,Patricia Hirasaki,Nehemiah Persoff,Team C,386989.1,126308.53,260680.57,0,260680.57,0,10,Furniture
+5138,Ben Peterman,Keenan Wynn,Team M,239392.64,70922.73,168469.91,0,168469.91,0,10,Furniture
+7191,Phillina Ober,Nehemiah Persoff,Team A,190002.09,62700.69,127301.4,0,127301.4,0,10,Furniture
+7518,Julia Dunbar,Adriana Caselotti,Team J,123788,28471.24,95316.76,0,95316.76,0,10,Furniture
+7589,Cathy Armstrong,Leopold Stokowski,Team B,80543,20542.34,60000.66,0,60000.66,0,10,Furniture
+7274,Jay Kimmel,Terry Kiser,Team C,66430,18430.99,47999.01,0,47999.01,0,10,Furniture
+3832,Harry Marie,Tom Selleck,Team F,60458,17269.44,43188.56,0,43188.56,0,10,Furniture
+2168,Chad Sievert,Joseph Cotten,Team B,32515,7803.6,24711.4,0,24711.4,0,10,Furniture
+7403,Xylona Preis,Rita Hayworth,Team M,30519,8545.32,21973.68,0,21973.68,0,10,Furniture
+4968,Ann Blume,Louise Fletcher,Team I,24095,6264.7,17830.3,0,17830.3,0,10,Furniture
+4714,Sonia Sunley,Louise Fletcher,Team E,12792,3325.92,9466.08,0,9466.08,0,10,Furniture
+3816,Eugene Hildebrand,Curtis Armstrong,Team M,10050,2613,7437,0,7437,0,10,Furniture
+5001,Lynn Smith,Andrew Robinson,Team E,0,0,0,0,0,18859,10,Furniture
+5320,David Bremer,Curtis Armstrong,Team A,0,0,0,0,0,187900,10,Furniture
+5982,Frank Gastineau,Tom Selleck,Team J,0,0,0,0,0,582380,10,Furniture
+7082,Sam Zeldin,Michael Dudikoff,Team B,0,0,0,0,0,253093,10,Furniture
+7292,Anthony Rawles,Adriana Caselotti,Team C,0,0,0,0,0,3000000,10,Furniture
+7523,Paul MacIntyre,Rita Hayworth,Team B,0,0,0,0,0,1200000,10,Furniture
+7563,Michael Granlund,Leopold Stokowski,Team C,0,0,0,0,0,69325,10,Furniture
+7597,Julie Kriz,Adriana Caselotti,Team E,0,0,0,0,0,1500000,10,Furniture
+7608,Paul Prost,Judith Barsi,Team A,0,0,0,0,0,67400,10,Furniture
+7636,Yana Sorensen,Joseph Cotten,Team E,0,0,0,0,0,4000000,10,Furniture
+3322,Katherine Murray,Carol Kane,Team N,0,0,0,0,0,1500000,10,Furniture
+4535,Shirley Jackson,Adriana Caselotti,Team I,0,0,0,0,0,1000000,10,Furniture
+5870,Maribeth Dona,Andrew Robinson,Team N,0,0,0,0,0,4255,10,Furniture
+6605,Erin Ashbrook,Kathleen Wilhoite,Team A,0,0,0,0,0,607558,10,Furniture
+6767,Cynthia Voltz,Joseph Cotten,Team I,0,0,0,0,0,100000,10,Furniture
+7364,Adrian Barton,S. Epatha Merkerson,Team L,0,0,0,0,0,1050000,10,Furniture
+7603,Helen Abelman,Nicolas Cage,Team E,0,0,0,0,0,237801,10,Furniture
+7635,Beth Thompson,Joseph Cotten,Team A,0,0,0,0,0,3000000,10,Furniture
+4482,Bradley Talbott,Andrew Robinson,Team E,0,0,0,0,0,2864,10,Furniture
+4647,Stuart Van,Adriana Caselotti,Team E,0,0,0,0,0,150000,10,Furniture
+5029,Nat Carroll,Andrew Robinson,Team K,0,0,0,0,0,11342,10,Furniture
+5862,Rick Wilson,Bill Murray,Team M,0,0,0,0,0,180224.32,10,Furniture
+6554,Damala Kotsonis,Andrew Robinson,Team J,0,0,0,0,0,5311,10,Furniture
+7339,Shui Tom,Rita Moreno,Team P,0,0,0,0,0,35618,10,Furniture
+7479,Dan Reichenbach,Clint Howard,Team I,0,0,0,3301.2,-3301.2,0,10,Furniture
+7579,Jim Radford,Rita Hayworth,Team E,0,0,0,0,0,1000000,10,Furniture
+7602,Michael Moore,Michael Dudikoff,Team L,0,0,0,0,0,98700,10,Furniture
+7634,Pauline Webber,Joseph Cotten,Team E,0,0,0,0,0,3000000,10,Furniture
+2139,Ellis Ballard,Johnny Depp,Team J,0,0,0,0,0,43188,10,Furniture
+5017,Shaun Chance,Andrew Robinson,Team E,0,0,0,0,0,3147,10,Furniture
+5768,Laurel Elliston,Bill Murray,Team P,0,0,0,0,0,6437,10,Furniture
+6250,Resi Pölking,Leopold Stokowski,Team H,0,0,0,0,0,154150,10,Furniture
+6718,Thais Sissman,Adriana Caselotti,Team E,0,0,0,0,0,60000,10,Furniture
+7118,Mark Cousins,Stephen Carr,Team E,0,0,0,0,0,41616,10,Furniture
+7325,Ruben Dartt,Rita Hayworth,Team D,0,0,0,0,0,1500000,10,Furniture
+7447,Valerie Dominguez,Gladys Cooper,Team A,0,0,0,0,0,775000,10,Furniture
+7578,Maria Etezadi,Rita Hayworth,Team J,0,0,0,0,0,2000000,10,Furniture
+7599,Nicole Hansen,Keanu Reeves,Team P,0,0,0,0,0,741864,10,Furniture
+7609,Mick Brown,Mel Blanc,Team A,0,0,0,0,0,154420,10,Furniture
+4559,Keith Dawkins,Ted Raimi,Team A,0,0,0,0,0,158070,10,Furniture
+5956,Beth Paige,Richard Burton,Team N,0,0,0,0,0,-153000,10,Furniture
+7270,Julie Creighton,Takashi Shimura,Team N,0,0,0,0,0,90846,10,Furniture
+6821,Erica Bern,Richard Burton,Team D,0,0,0,0,0,364600,10,Furniture
+6737,Katherine Nockton,Richard Burton,Team A,0,0,0,0,0,31030,10,Furniture
+7611,Nora Pelletier,William Holden,Team G,0,0,0,0,0,449101,10,Furniture
+6494,Lisa Hazard,Takashi Shimura,Team N,0,0,0,0,0,426300,10,Furniture
+7391,Cindy Stewart,Richard Burton,Team L,0,0,0,0,0,1208200,10,Furniture
+6301,Matt Collins,Bill Murray,Team I,4403937.04,511297.09,3892639.95,0,3892639.95,0,15,Office Supplies
+5253,John Stevenson,Bill Murray,Team N,118482.07,7796.12,110685.95,0,110685.95,0,15,Office Supplies
+7604,Maxwell Schwartz,Leonard Nimoy,Team H,0,0,0,0,0,174640,15,Office Supplies
+5326,Alan Barnes,Bill Murray,Team K,0,0,0,0,0,99120,15,Office Supplies
+7457,Evan Bailliet,Fred Gwynne,Team H,460965,119850.9,341114.1,0,341114.1,0,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team H,118147,29536.75,88610.25,0,88610.25,0,10,Furniture
+6882,Carl Weiss,Fred Gwynne,Team K,83984.35,21006.8,62977.55,0,62977.55,0,10,Furniture
+7388,Erica Hernandez,Fred Gwynne,Team H,42242,10982.92,31259.08,0,31259.08,0,10,Furniture
+5917,Lena Hernandez,Joseph Cotten,Team N,1088389,272097.25,816291.75,0,816291.75,0,10,Furniture
+7566,Mary O'Rourke,Brigitte Helm,Team G,813925,203481.25,610443.75,0,610443.75,0,10,Furniture
+7380,Joseph Holt,Adriana Caselotti,Team N,863862,328267.56,535594.44,0,535594.44,0,10,Furniture
+6384,Muhammed MacIntyre,Keenan Wynn,Team C,662116,158907.84,503208.16,0,503208.16,0,10,Furniture
+6725,Corinna Mitchell,Ginger Rogers,Team M,598132,163628.06,434503.94,0,434503.94,0,10,Furniture
+3154,Sylvia Foulston,Myrna Loy,Team H,565237,169571.1,395665.9,0,395665.9,0,10,Furniture
+2168,Chad Sievert,Joseph Cotten,Team L,427945,102729.66,325215.34,0,325215.34,0,10,Furniture
+5102,Matt Abelman,Adriana Caselotti,Team G,386483,77296.6,309186.4,0,309186.4,0,10,Furniture
+6744,Jim Kriz,Joseph Cotten,Team I,321886,96565.8,225320.2,0,225320.2,0,10,Furniture
+7413,Ann Steele,Denzel Washington,Team B,314408.46,100610.71,213797.75,0,213797.75,0,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team B,286627.6,79931.7,206695.9,0,206695.9,0,10,Furniture
+7056,Bradley Nguyen,Adriana Caselotti,Team I,271925,76139,195786,0,195786,0,10,Furniture
+6250,Resi Pölking,Leopold Stokowski,Team J,202176,44478.72,157697.28,0,157697.28,0,10,Furniture
+4714,Sonia Sunley,Louise Fletcher,Team P,196732,51150.32,145581.68,0,145581.68,0,10,Furniture
+7272,Lisa DeCherney,Shane Black,Team F,192012,48003,144009,0,144009,0,10,Furniture
+7089,Charles McCrossin,Nicolas Cage,Team G,187231.65,63925.69,123305.96,0,123305.96,0,10,Furniture
+7441,Claire Gute,Stephen Carr,Team B,139384,37633.68,101750.32,0,101750.32,0,10,Furniture
+6369,Jasper Cacioppo,Keanu Reeves,Team C,116124,29031,87093,0,87093,0,10,Furniture
+4370,Greg Hansen,Brigitte Helm,Team K,91179,22794.75,68384.25,0,68384.25,0,10,Furniture
+5138,Ben Peterman,Keenan Wynn,Team J,68056.2,20199.08,47857.12,0,47857.12,0,10,Furniture
+2757,Michael Kennedy,Janet Leigh,Team P,49896,12972.96,36923.04,0,36923.04,0,10,Furniture
+7569,Bryan Spruell,Leopold Stokowski,Team F,39197,9799.25,29397.75,0,29397.75,0,10,Furniture
+7081,Dean Braden,Stephen Carr,Team C,36455,10149.23,26305.77,0,26305.77,0,10,Furniture
+7405,Dionis Lloyd,Leonard Nimoy,Team G,34813.14,9880.19,24932.95,0,24932.95,0,10,Furniture
+2426,Delfina Latchford,Brigitte Helm,Team G,31913,9157.13,22755.87,0,22755.87,0,10,Furniture
+2070,Rob Williams,Johnny Depp,Team F,24626,3940.16,20685.84,0,20685.84,0,10,Furniture
+7557,Sally Hughsby,Nicolas Cage,Team D,25587,6652.62,18934.38,0,18934.38,0,10,Furniture
+7574,Craig Yedwab,George Kennedy,Team H,15916,3979,11937,0,11937,0,10,Furniture
+7514,Christopher Martinez,Denzel Washington,Team I,5826,1514.76,4311.24,0,4311.24,0,10,Furniture
+7612,Corey-Lock,Brigitte Helm,Team K,0,0,0,0,0,27144,10,Furniture
+4692,Brad Norvell,Fred Gwynne,Team J,0,0,0,8553.6,-8553.6,0,10,Furniture
+6960,Todd Sumrall,Adriana Caselotti,Team A,0,0,0,0,0,400000,10,Furniture
+7096,Deirdre Greer,Anita Page,Team G,0,0,0,0,0,34725,10,Furniture
+7593,Jane Waco,Fred Gwynne,Team B,0,0,0,0,0,440000,10,Furniture
+2689,John Dryer,Johnny Depp,Team E,0,0,0,0,0,18852,10,Furniture
+4375,Pauline Chand,Tony Goldwyn,Team D,0,0,0,0,0,65500,10,Furniture
+6902,Sanjit Chand,Adriana Caselotti,Team L,0,0,0,0,0,888753,10,Furniture
+7547,Eudokia Martin,Christopher Lambert,Team E,0,0,0,0,0,500000,10,Furniture
+7617,Andy Reiter,Cliff Robertson,Team N,0,0,0,0,0,27875,10,Furniture
+6345,Arianne Irving,Denzel Washington,Team I,0,0,0,0,0,24949,10,Furniture
+7260,Tom Boeckenhauer,Tom Cruise,Team J,1893313.9,501556.67,1391757.23,0,1391757.23,0,10,Furniture
+7076,Meg Tillman,Tom Cruise,Team N,1335449,360571.23,974877.77,0,974877.77,0,10,Furniture
+6078,Paul Lucas,Takashi Shimura,Team G,922580,258322.4,664257.6,0,664257.6,0,10,Furniture
+7474,Frank Merwin,Tom Cruise,Team M,414930,103732.5,311197.5,0,311197.5,0,10,Furniture
+7312,Maria Bertelson,Tom Cruise,Team C,414370.98,137687.53,276683.45,0,276683.45,0,10,Furniture
+6952,Ryan Akin,Takashi Shimura,Team G,23304,6059.04,17244.96,0,17244.96,0,10,Furniture
+7555,Gary Hwang,Takashi Shimura,Team J,16474,3294.8,13179.2,0,13179.2,0,10,Furniture
+5147,Laurel Workman,Leopold Stokowski,Team P,629711.29,68772.62,560938.67,0,560938.67,0,15,Office Supplies
+7614,Mike Pelletier,Leopold Stokowski,Team H,0,0,0,0,0,135700,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team G,0,0,0,11550,-11550,0,15,Office Supplies
+5709,Jessica Myrick,Andrew Robinson,Team I,5004048.88,1663436.42,3340612.46,0,3340612.46,0,10,Furniture
+2949,Caroline Jumper,Paulette Goddard,Team F,3992219.4,1517043.37,2475176.03,0,2475176.03,0,10,Furniture
+5917,Lena Hernandez,Joseph Cotten,Team F,1097734,274433.5,823300.5,0,823300.5,147503,10,Furniture
+5982,Frank Gastineau,Tom Selleck,Team G,1014752.03,432387.95,582364.08,0,582364.08,0,10,Furniture
+2633,Chuck Magee,Janet Leigh,Team C,910886.4,359709.04,551177.36,0,551177.36,0,10,Furniture
+4977,Nora Paige,Marshall Bell,Team B,577636.85,167514.69,410122.16,0,410122.16,0,10,Furniture
+4419,Jim Mitchum,Curtis Armstrong,Team K,419550,111600.3,307949.7,0,307949.7,0,10,Furniture
+7554,Larry Blacks,Kenneth Tobey,Team L,274854,43976.64,230877.36,0,230877.36,0,10,Furniture
+4689,Carl Ludwig,Curtis Armstrong,Team I,275457,90460.08,184996.92,0,184996.92,0,10,Furniture
+3154,Sylvia Foulston,Myrna Loy,Team P,226686,66117.04,160568.96,0,160568.96,0,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team F,207937,57571.39,150365.61,0,150365.61,0,10,Furniture
+7615,Deborah Brumfield,Fred Gwynne,Team P,168311,31979.09,136331.91,0,136331.91,0,10,Furniture
+4859,Ivan Gibson,Mel Blanc,Team G,179500,44875,134625,0,134625,0,10,Furniture
+7558,Pauline Johnson,S. Epatha Merkerson,Team B,136133,34033.25,102099.75,0,102099.75,0,10,Furniture
+3855,Chris Cortes,Andrew Robinson,Team K,129738,31137.12,98600.88,0,98600.88,0,10,Furniture
+7077,Maya Herman,Mel Blanc,Team F,135163,40548.9,94614.1,0,94614.1,0,10,Furniture
+2595,Bobby Odegard,Curtis Armstrong,Team C,117390,36115.8,81274.2,0,81274.2,0,10,Furniture
+7503,Robert Marley,Lea Thompson,Team I,102990,26777.4,76212.6,0,76212.6,0,10,Furniture
+7532,Patricia Hirasaki,Nehemiah Persoff,Team A,99964,24184.74,75779.26,0,75779.26,0,10,Furniture
+6892,Sandra Flanagan,Mel Blanc,Team J,88050,22893,65157,0,65157,0,10,Furniture
+7564,Aimee Bixby,Keenan Wynn,Team A,90996.4,27994.76,63001.64,0,63001.64,0,10,Furniture
+3842,Julia West,Joseph Cotten,Team A,41371.5,10342.88,31028.63,0,31028.63,0,10,Furniture
+5138,Ben Peterman,Keenan Wynn,Team L,7470,2009.43,5460.57,0,5460.57,904878,10,Furniture
+2168,Chad Sievert,Joseph Cotten,Team B,6754,1553.42,5200.58,0,5200.58,0,10,Furniture
+6882,Carl Weiss,Fred Gwynne,Team H,5596,1454.96,4141.04,0,4141.04,0,10,Furniture
+5298,Zuschuss Donatelli,Margaret Hamilton,Team A,0,0,0,0,0,104306,10,Furniture
+6515,Craig Carreira,Adriana Caselotti,Team G,0,0,0,0,0,1600000,10,Furniture
+6812,Steve Nguyen,Gladys Cooper,Team E,0,0,0,0,0,87248,10,Furniture
+7433,Edward Becker,Mel Blanc,Team H,0,0,0,0,0,131900,10,Furniture
+7590,Sheri Gordon,Christopher Lambert,Team B,0,0,0,0,0,1133285,10,Furniture
+7613,Charlotte Melton,Christopher Lambert,Team J,0,0,0,0,0,1004657,10,Furniture
+7620,Anthony Witt,Brigitte Helm,Team F,0,0,0,0,0,48750,10,Furniture
+2192,Giulietta Dortch,Janet Leigh,Team A,0,0,0,0,0,72839,10,Furniture
+4802,Mick Crebagga,Lea Thompson,Team P,0,0,0,0,0,10475,10,Furniture
+6263,Luke Foster,Terry Kiser,Team M,0,0,0,0,0,12000,10,Furniture
+6643,Tonja Turnell,Lea Thompson,Team D,0,0,0,0,0,124000,10,Furniture
+6899,Vivek Grady,Marshall Bell,Team J,0,0,0,0,0,18030,10,Furniture
+7314,Liz MacKendrick,Ursula Andress,Team I,0,0,0,0,0,374203,10,Furniture
+7518,Julia Dunbar,Adriana Caselotti,Team B,0,0,0,0,0,3000000,10,Furniture
+7612,Corey-Lock,Brigitte Helm,Team K,0,0,0,0,0,31356,10,Furniture
+7618,Muhammed Yedwab,Dean Stockwell,Team E,0,0,0,0,0,222000,10,Furniture
+3032,Rick Duston,Kenneth Tobey,Team F,0,0,0,0,0,90600,10,Furniture
+4943,Nathan Gelder,Terry Kiser,Team E,0,0,0,0,0,378733,10,Furniture
+5691,Dennis Pardue,Terry Kiser,Team M,0,0,0,0,0,16750,10,Furniture
+6202,Marina Lichtenstein,Adriana Caselotti,Team I,0,0,0,0,0,300000,10,Furniture
+6589,Jenna Caffey,Gloria Grahame,Team D,0,0,0,0,0,2001219,10,Furniture
+7284,Andrew Gjertsen,Stephen Carr,Team M,0,0,0,0,0,55991,10,Furniture
+7514,Christopher Martinez,Denzel Washington,Team G,0,0,0,0,0,32600,10,Furniture
+7598,James Galang,Brigitte Helm,Team D,0,0,0,0,0,200000,10,Furniture
+7616,Marc Crier,S. Epatha Merkerson,Team N,0,0,0,0,0,1741777,10,Furniture
+2131,Natalie Webber,Tony Goldwyn,Team H,0,0,0,0,0,67900,10,Furniture
+2374,Toby Braunhardt,Johnny Depp,Team P,0,0,0,0,0,295000,10,Furniture
+3710,Bill Stewart,Janet Leigh,Team G,0,0,0,0,0,59608,10,Furniture
+5120,Trudy Glocke,Bill Murray,Team N,0,0,0,0,0,65055,10,Furniture
+5374,Hilary Holden,Joseph Cotten,Team I,0,0,0,0,0,500000,10,Furniture
+6528,Christina DeMoss,Tony Goldwyn,Team D,0,0,0,0,0,4755,10,Furniture
+7134,Thea Hendricks,Joseph Cotten,Team H,0,0,0,0,0,372000,10,Furniture
+7591,Michelle Moray,Tom Selleck,Team N,0,0,0,0,0,423540,10,Furniture
+7621,Neola Schneider,Victor Wong,Team H,0,0,0,0,0,15865,10,Furniture
+2689,John Dryer,Johnny Depp,Team F,0,0,0,0,0,18420,10,Furniture
+3360,Robert Barroso,Curtis Armstrong,Team H,0,0,0,0,0,8020,10,Furniture
+4302,Shaun Weien,Joseph Cotten,Team M,0,0,0,0,0,10000,10,Furniture
+4848,Tracy Hopkins,Robert Townsend,Team E,0,0,0,0,0,217864,10,Furniture
+5113,Eric Barreto,George Kennedy,Team B,0,0,0,0,0,113303,10,Furniture
+7297,Bruce Stewart,Bill Johnson,Team J,199010,59703,139307,0,139307,0,10,Furniture
+4786,Grant Thornton,William Holden,Team L,0,0,0,0,0,20000,10,Furniture
+7085,Valerie Mitchum,Richard Burton,Team A,0,0,0,0,0,245529,10,Furniture
+4365,Gene McClure,William Holden,Team I,0,0,0,0,0,45000,10,Furniture
+6495,Pamela Stobb,Richard Burton,Team E,0,0,0,0,0,1500000,10,Furniture
+4147,Herbert Flentye,William Holden,Team N,0,0,0,0,0,42476,10,Furniture
+6402,Henia Zydlo,Tom Cruise,Team C,0,0,0,0,0,26800,10,Furniture
+7312,Maria Bertelson,Tom Cruise,Team G,0,0,0,0,0,200000,10,Furniture
+6079,Christopher Schild,Richard Burton,Team N,0,0,0,0,0,216994,10,Furniture
+7622,Cynthia Delaney,Robin Williams,Team K,0,0,0,0,0,174150,13,Technology
+7568,Henry Goldwyn,Gladys Cooper,Team M,0,0,0,0,0,430000,14,Stationary
+7604,Maxwell Schwartz,Leonard Nimoy,Team F,191312.05,17792.02,173520.03,0,173520.03,0,15,Office Supplies
+7468,Neoma Murray,Leopold Stokowski,Team E,0,0,0,0,0,1692800,15,Office Supplies
+6308,Jamie Kunitz,Leopold Stokowski,Team J,0,0,0,0,0,142700,15,Office Supplies
+5147,Laurel Workman,Leopold Stokowski,Team H,0,0,0,0,0,288000,15,Office Supplies
+7491,Filia McAdams,Christopher Lambert,Team E,4253035.13,1531092.65,2721942.48,0,2721942.48,0,10,Furniture
+4968,Ann Blume,Louise Fletcher,Team E,2365552.5,944711.25,1420841.25,0,1420841.25,1000000,10,Furniture
+7534,Bill Donatelli,Brigitte Helm,Team M,1110902,277725.5,833176.5,0,833176.5,0,10,Furniture
+6515,Craig Carreira,Adriana Caselotti,Team P,949171,208817.62,740353.38,0,740353.38,0,10,Furniture
+6636,Eric Murdock,Leonard Nimoy,Team K,950705.8,247183.51,703522.29,0,703522.29,0,10,Furniture
+7547,Eudokia Martin,Christopher Lambert,Team P,883138,264941.4,618196.6,0,618196.6,0,10,Furniture
+6846,George Bell,Rita Hayworth,Team D,667205,166801.25,500403.75,0,500403.75,0,10,Furniture
+5026,Shahid Hopkins,Lea Thompson,Team K,639318.1,170557.91,468760.2,0,468760.2,0,10,Furniture
+7559,Lauren Leatherbury,Cliff Robertson,Team L,483845,125799.7,358045.3,0,358045.3,0,10,Furniture
+7557,Sally Hughsby,Nicolas Cage,Team H,359051.41,114896.45,244154.96,0,244154.96,0,10,Furniture
+7506,Max Engle,Ted Raimi,Team L,317580,77812.7,239767.3,0,239767.3,0,10,Furniture
+7179,Bill Eplett,Curtis Armstrong,Team K,309960,103309.67,206650.33,0,206650.33,0,10,Furniture
+7526,Rob Lucas,Lea Thompson,Team H,302173.96,96695.67,205478.29,0,205478.29,0,10,Furniture
+7517,Andy Gerbode,John Saxon,Team P,278400,83520,194880,0,194880,0,10,Furniture
+4964,Logan Haushalter,Clint Howard,Team M,263802.4,92330.84,171471.56,0,171471.56,0,10,Furniture
+6084,Bill Tyler,Ted Raimi,Team H,202100,42441,159659,0,159659,0,10,Furniture
+7476,Lena Cacioppo,Rita Moreno,Team J,211930,52982.5,158947.5,0,158947.5,0,10,Furniture
+7548,Gary McGarr,Michael Dudikoff,Team K,188663,47165.75,141497.25,0,141497.25,0,10,Furniture
+7082,Sam Zeldin,Michael Dudikoff,Team D,166875,58406.25,108468.75,0,108468.75,0,10,Furniture
+7602,Michael Moore,Michael Dudikoff,Team K,141060.45,42318.14,98742.32,0,98742.32,0,10,Furniture
+7570,Daniel Lacy,Brigitte Helm,Team P,131306.56,36765.84,94540.72,0,94540.72,0,10,Furniture
+6161,Emily Ducich,Tom Selleck,Team G,111867,29085.42,82781.58,0,82781.58,0,10,Furniture
+7615,Deborah Brumfield,Fred Gwynne,Team G,95894,18219.86,77674.14,0,77674.14,0,10,Furniture
+7586,Noel Staavos,Michael Dudikoff,Team J,104477.5,30878.24,73599.26,0,73599.26,0,10,Furniture
+7314,Liz MacKendrick,Ursula Andress,Team F,91946,21147.58,70798.42,0,70798.42,0,10,Furniture
+4714,Sonia Sunley,Louise Fletcher,Team L,97778,28839.02,68938.98,0,68938.98,0,10,Furniture
+2595,Bobby Odegard,Curtis Armstrong,Team E,82824,26205.51,56618.49,0,56618.49,0,10,Furniture
+5733,Brian DeCherney,Robin Williams,Team M,72016.43,20164.6,51851.83,0,51851.83,0,10,Furniture
+7518,Julia Dunbar,Adriana Caselotti,Team J,53344,12269.12,41074.88,0,41074.88,0,10,Furniture
+7441,Claire Gute,Stephen Carr,Team L,54199,14633.73,39565.27,0,39565.27,0,10,Furniture
+7584,Nicole Fjeld,Hattie McDaniel,Team A,51277,12819.25,38457.75,0,38457.75,0,10,Furniture
+7575,Frank Olsen,Rita Moreno,Team D,41970,10492.5,31477.5,0,31477.5,0,10,Furniture
+4040,Dean Katz,Brian Dennehy,Team P,37564,9766.64,27797.36,0,27797.36,0,10,Furniture
+4916,Darren Koutras,Curtis Armstrong,Team G,40200,12864,27336,0,27336,0,10,Furniture
+7612,Corey-Lock,Brigitte Helm,Team E,40200,13056.96,27143.04,0,27143.04,0,10,Furniture
+6492,Dianna Arnett,Mel Blanc,Team P,31227,9911.48,21315.52,0,21315.52,0,10,Furniture
+7595,Brad Thomas,Robin Williams,Team P,9524,1904.8,7619.2,0,7619.2,0,10,Furniture
+3154,Sylvia Foulston,Myrna Loy,Team D,7233,2025.24,5207.76,0,5207.76,0,10,Furniture
+7325,Ruben Dartt,Rita Hayworth,Team L,5800,1682,4118,0,4118,0,10,Furniture
+7390,Joni Wasserman,Lea Thompson,Team D,0,0,0,0,0,115986,10,Furniture
+7627,Raymond Messe,John Saxon,Team H,0,0,0,0,0,1000000,10,Furniture
+2758,Frank Atkinson,Michael Dudikoff,Team C,0,0,0,0,0,142800,10,Furniture
+3699,Max Ludwig,Robin Williams,Team F,0,0,0,0,0,2744807,10,Furniture
+5093,Craig Carroll,Joseph Cotten,Team F,0,0,0,0,0,303000,10,Furniture
+6411,Victoria Brennan,Bill Murray,Team F,0,0,0,0,0,90456,10,Furniture
+6733,Carlos Daly,Judith Barsi,Team N,0,0,0,0,0,63334,10,Furniture
+7091,Brian Dahlen,Fred Gwynne,Team F,0,0,0,0,0,33178,10,Furniture
+7374,Jim Epp,George Kennedy,Team F,0,0,0,0,0,8226,10,Furniture
+7535,Roy Phan,Judith Barsi,Team N,0,0,0,0,0,29723,10,Furniture
+7581,Thomas Boland,Nicolas Cage,Team E,0,0,0,0,0,100000,10,Furniture
+7626,Brad Eason,John Saxon,Team A,0,0,0,0,0,3000000,10,Furniture
+3693,Linda Southworth,Stephen Carr,Team L,0,0,0,0,0,37326,10,Furniture
+6047,Jill Fjeld,Brigitte Helm,Team J,0,0,0,0,0,600747,10,Furniture
+6382,Peter McVee,Cliff Robertson,Team P,0,0,0,0,0,69091,10,Furniture
+7248,Phillip Breyer,Janet Leigh,Team P,0,0,0,0,0,205020,10,Furniture
+7344,Brian Thompson,Joseph Cotten,Team P,0,0,0,0,0,1460006,10,Furniture
+7454,Russell Applegate,Ted Raimi,Team E,0,0,0,0,0,190700,10,Furniture
+7625,Janet Lee,John Saxon,Team H,0,0,0,0,0,300000,10,Furniture
+7633,Cathy Hwang,Johnny Depp,Team H,0,0,0,0,0,330630,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team F,0,0,0,0,0,814741,10,Furniture
+4140,Neil Ducich,Stephen Carr,Team E,0,0,0,0,0,156516,10,Furniture
+7498,Chloris Kastensmidt,Michael Dudikoff,Team B,0,0,0,0,0,-461234,10,Furniture
+7573,Barbara Fisher,Paulette Goddard,Team G,0,0,0,0,0,1240000,10,Furniture
+7632,Katharine Harms,Johnny Depp,Team J,0,0,0,0,0,112365,10,Furniture
+2184,Giulietta Weimer,Tony Goldwyn,Team C,0,0,0,0,0,39000,10,Furniture
+3088,Joe Kamberova,Janet Leigh,Team N,0,0,0,0,0,736161,10,Furniture
+5634,Noah Childs,Cliff Robertson,Team D,0,0,0,0,0,187706,10,Furniture
+6096,Michelle Ellison,Louise Fletcher,Team F,0,0,0,0,0,720888,10,Furniture
+6756,Benjamin Patterson,Fred Gwynne,Team E,0,0,0,42240.72,-42240.72,0,10,Furniture
+7136,Sue Ann Reed,Margaret Hamilton,Team K,0,0,0,0,0,393929,10,Furniture
+6854,Dan Campbell,William Holden,Team E,191348,47837,143511,0,143511,0,10,Furniture
+7297,Bruce Stewart,Bill Johnson,Team D,33340,10002,23338,0,23338,600000,10,Furniture
+4854,John Castell,Marlon Brando,Team J,0,0,0,0,0,12818,10,Furniture
+4105,Adam Shillingsburg,William Holden,Team N,0,0,0,0,0,105000,10,Furniture
+6441,Amy Cox,Christopher Lambert,Team A,174888,24834.1,150053.9,0,150053.9,0,14,Stationary
+7468,Neoma Murray,Leopold Stokowski,Team P,1913600,220829.44,1692770.56,0,1692770.56,0,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team F,441767.56,41084.38,400683.18,0,400683.18,346180,15,Office Supplies
+5326,Alan Barnes,Bill Murray,Team I,217969.54,20271.17,197698.37,0,197698.37,0,15,Office Supplies
+5147,Laurel Workman,Leopold Stokowski,Team A,0,0,0,0,0,548000,15,Office Supplies
+4616,Michael Dominguez,Robin Williams,Team M,0,0,0,0,0,620000,15,Office Supplies
+7450,Duane Benoit,Leopold Stokowski,Team M,0,0,0,0,0,135820,15,Office Supplies
+7091,Brian Dahlen,Fred Gwynne,Team N,75859,24274.88,51584.12,0,51584.12,0,10,Furniture
+7441,Claire Gute,Stephen Carr,Team C,5850536.57,2187418.52,3663118.05,0,3663118.05,0,10,Furniture
+7496,Erica Hackney,Margaret Hamilton,Team I,972539.8,311212.74,661327.06,0,661327.06,0,10,Furniture
+5709,Jessica Myrick,Andrew Robinson,Team M,412574,103184.99,309389.01,0,309389.01,0,10,Furniture
+3982,Dave Brooks,Louise Fletcher,Team F,474510,180313.8,294196.2,0,294196.2,0,10,Furniture
+7482,Christine Sundaresam,Margaret Hamilton,Team P,391692.8,125341.7,266351.1,0,266351.1,0,10,Furniture
+3818,Justin Deggeller,Margaret Hamilton,Team D,300308,72073.92,228234.08,0,228234.08,0,10,Furniture
+6202,Marina Lichtenstein,Adriana Caselotti,Team L,228850,48058.5,180791.5,0,180791.5,0,10,Furniture
+6611,Edward Hooks,Andrew Robinson,Team A,228270,54784.8,173485.2,0,173485.2,0,10,Furniture
+3541,Katherine Hughes,Stephen Carr,Team K,142615.66,38272.95,104342.71,0,104342.71,0,10,Furniture
+5235,Nat Gilpin,Brigitte Helm,Team A,108672,38035.2,70636.8,0,70636.8,274135,10,Furniture
+5001,Lynn Smith,Andrew Robinson,Team B,82974,20743.5,62230.5,0,62230.5,0,10,Furniture
+2325,Scot Coram,Andrew Robinson,Team A,83090,29631.94,53458.06,0,53458.06,0,10,Furniture
+3567,Philip Brown,Myrna Loy,Team P,70062,18916.74,51145.26,0,51145.26,0,10,Furniture
+7610,Joe Elijah,Andrew Robinson,Team I,61928,21640.47,40287.53,0,40287.53,0,10,Furniture
+7535,Roy Phan,Judith Barsi,Team A,39631,9907.75,29723.25,0,29723.25,0,10,Furniture
+5691,Dennis Pardue,Terry Kiser,Team L,36760,9559.61,27200.39,0,27200.39,0,10,Furniture
+7621,Neola Schneider,Victor Wong,Team G,21438,5573.88,15864.12,0,15864.12,0,10,Furniture
+6492,Dianna Arnett,Mel Blanc,Team P,14890,2978,11912,0,11912,0,10,Furniture
+7605,Ann Chong,Andrew Robinson,Team H,8692,3099.57,5592.43,0,5592.43,0,10,Furniture
+5347,Joy Daniels,Clint Howard,Team A,0,0,0,0,0,219570,10,Furniture
+6780,Christy Brittain,George Kennedy,Team E,0,0,0,0,0,40044,10,Furniture
+7631,Joy Smith,Robin Williams,Team A,0,0,0,0,0,420310,10,Furniture
+2922,Matt Connell,Lea Thompson,Team C,0,0,0,0,0,14838,10,Furniture
+5866,Mick Hernandez,Andrew Robinson,Team A,0,0,0,0,0,33335,10,Furniture
+6424,Luke Weiss,Mel Blanc,Team A,0,0,0,0,0,64000,10,Furniture
+6725,Corinna Mitchell,Ginger Rogers,Team J,0,0,0,0,0,500000,10,Furniture
+7413,Ann Steele,Denzel Washington,Team B,0,0,0,0,0,375000,10,Furniture
+7518,Julia Dunbar,Adriana Caselotti,Team M,0,0,0,0,0,1543684,10,Furniture
+7630,Stuart Calhoun,Lea Thompson,Team D,0,0,0,0,0,435958,10,Furniture
+3713,Anne McFarland,Robert Townsend,Team B,0,0,0,0,0,315317,10,Furniture
+6382,Peter McVee,Cliff Robertson,Team J,0,0,0,0,0,124156,10,Furniture
+7299,Rick Huthwaite,Brigitte Helm,Team D,0,0,0,0,0,80805,10,Furniture
+7601,Carol Triggs,George Kennedy,Team H,0,0,0,0,0,182558,10,Furniture
+7629,Matt Collister,Leonard Nimoy,Team A,0,0,0,0,0,46565,10,Furniture
+7639,Corey Catlett,Denzel Washington,Team M,0,0,0,0,0,100000,10,Furniture
+2173,Kelly Andreada,Nicolas Cage,Team K,0,0,0,0,0,58430,10,Furniture
+4702,Tamara Chand,Lea Thompson,Team E,0,0,0,0,0,16771,10,Furniture
+6270,Bart Folk,Andrew Robinson,Team P,0,0,0,0,0,32270,10,Furniture
+6576,Magdelene Morse,Cliff Robertson,Team P,0,0,0,0,0,34272,10,Furniture
+7006,Adrian Hane,Adriana Caselotti,Team B,0,0,0,0,0,495363,10,Furniture
+7593,Jane Waco,Fred Gwynne,Team K,0,0,0,0,0,20000,10,Furniture
+7638,Ben Wallace,Tom Selleck,Team D,0,0,0,0,0,45350,10,Furniture
+6078,Paul Lucas,Takashi Shimura,Team N,672910,188414.8,484495.2,0,484495.2,0,10,Furniture
+6494,Lisa Hazard,Takashi Shimura,Team P,452960,156797.09,296162.91,0,296162.91,0,10,Furniture
+7270,Julie Creighton,Takashi Shimura,Team E,190530,38297.08,152232.92,0,152232.92,0,10,Furniture
+7260,Tom Boeckenhauer,Tom Cruise,Team N,159638,34353.08,125284.92,0,125284.92,0,10,Furniture
+7365,Todd Boyes,Takashi Shimura,Team P,0,0,0,0,0,25125,10,Furniture
+7614,Mike Pelletier,Leopold Stokowski,Team N,148990.52,13871.02,135119.5,0,135119.5,0,15,Office Supplies
+5147,Laurel Workman,Leopold Stokowski,Team E,143000,14300,128700,0,128700,0,15,Office Supplies
+7178,Heather Kirkland,Leopold Stokowski,Team A,0,0,0,0,0,200000,15,Office Supplies
+6308,Jamie Kunitz,Leopold Stokowski,Team C,0,0,0,0,0,159300,15,Office Supplies
+7585,Steven Ward,Anita Page,Team C,1025744.84,307723.45,718021.39,0,718021.39,0,10,Furniture
+4424,Scot Wooten,Curtis Armstrong,Team N,925524.8,310585.64,614939.16,0,614939.16,0,10,Furniture
+6744,Jim Kriz,Joseph Cotten,Team N,826300,247890,578410,0,578410,0,10,Furniture
+6382,Peter McVee,Cliff Robertson,Team B,722670,187894.2,534775.8,0,534775.8,0,10,Furniture
+7631,Joy Smith,Robin Williams,Team H,645053.4,224740.46,420312.94,0,420312.94,0,10,Furniture
+2922,Matt Connell,Lea Thompson,Team A,486643,150859.33,335783.67,0,335783.67,0,10,Furniture
+7349,Robert Dilbeck,Keenan Wynn,Team N,386670.5,126666.55,260003.95,0,260003.95,0,10,Furniture
+7554,Larry Blacks,Kenneth Tobey,Team B,303398,48543.68,254854.32,0,254854.32,0,10,Furniture
+7603,Helen Abelman,Nicolas Cage,Team A,349707.04,111906.25,237800.79,0,237800.79,0,10,Furniture
+5138,Ben Peterman,Keenan Wynn,Team E,253418.4,98453.05,154965.35,0,154965.35,0,10,Furniture
+6738,Lindsay Shagiari,Joseph Cotten,Team J,212270,74294.5,137975.5,0,137975.5,0,10,Furniture
+7594,Suzanne McNair,S. Epatha Merkerson,Team N,158251,54730.81,103520.19,0,103520.19,0,10,Furniture
+3154,Sylvia Foulston,Myrna Loy,Team H,134304,40291.2,94012.8,0,94012.8,0,10,Furniture
+4968,Ann Blume,Louise Fletcher,Team I,133267.67,45831.19,87436.48,0,87436.48,0,10,Furniture
+7096,Deirdre Greer,Anita Page,Team I,120451,33726.28,86724.72,0,86724.72,0,10,Furniture
+7272,Lisa DeCherney,Shane Black,Team B,88786,22196.5,66589.5,0,66589.5,0,10,Furniture
+7580,Alejandro Ballentine,Nicolas Cage,Team N,78980,21324.6,57655.4,0,57655.4,0,10,Furniture
+6878,Brian Stugart,Lea Thompson,Team D,44924,11231,33693,0,33693,0,10,Furniture
+7285,Randy Ferguson,S. Epatha Merkerson,Team H,48810,18010.89,30799.11,0,30799.11,0,10,Furniture
+7623,William Brown,Robin Williams,Team C,35040,8409.6,26630.4,0,26630.4,0,10,Furniture
+7624,Trudy Brown,Robin Williams,Team F,32052,7692.48,24359.52,0,24359.52,0,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team I,24264,9074.74,15189.26,0,15189.26,0,10,Furniture
+5017,Shaun Chance,Andrew Robinson,Team G,0,0,0,0,0,55721,10,Furniture
+5749,Art Ferguson,Andrew Robinson,Team M,0,0,0,0,0,4092,10,Furniture
+6320,Adam Bellavance,Dean Stockwell,Team K,0,0,0,0,0,10585,10,Furniture
+4943,Nathan Gelder,Terry Kiser,Team E,0,0,0,0,0,9000,10,Furniture
+5010,Joni Sundaresam,Andrew Robinson,Team A,0,0,0,0,0,118258,10,Furniture
+5074,Richard Bierner,Clint Howard,Team M,0,0,0,0,0,174006,10,Furniture
+5709,Jessica Myrick,Andrew Robinson,Team E,0,0,0,0,0,372860,10,Furniture
+6269,Kean Thornton,Andrew Robinson,Team P,0,0,0,0,0,10967,10,Furniture
+7447,Valerie Dominguez,Gladys Cooper,Team K,0,0,0,0,0,773450,10,Furniture
+7587,Karen Ferguson,Rita Moreno,Team J,0,0,0,0,0,1600000,10,Furniture
+2136,John Huston,Janet Leigh,Team L,0,0,0,0,0,153810,10,Furniture
+3674,Ivan Liston,Andrew Robinson,Team P,0,0,0,0,0,50000,10,Furniture
+4916,Darren Koutras,Curtis Armstrong,Team P,0,0,0,0,0,459000,10,Furniture
+5004,Eva Jacobs,Andrew Robinson,Team E,0,0,0,0,0,180783,10,Furniture
+5030,Karen Carlisle,Andrew Robinson,Team F,0,0,0,0,0,708,10,Furniture
+5400,Patrick Bzostek,Andrew Robinson,Team D,0,0,0,0,0,7077,10,Furniture
+5870,Maribeth Dona,Andrew Robinson,Team I,0,0,0,0,0,814647,10,Furniture
+6992,Harold Pawlan,Paulette Goddard,Team K,0,0,0,0,0,781244,10,Furniture
+7618,Muhammed Yedwab,Dean Stockwell,Team J,0,0,0,0,0,10317,10,Furniture
+7641,Rob Haberlin,Paulette Goddard,Team L,0,0,0,0,0,24524,10,Furniture
+4777,Arthur Wiediger,Myrna Loy,Team B,0,0,0,0,0,121056,10,Furniture
+5001,Lynn Smith,Andrew Robinson,Team C,0,0,0,0,0,6936,10,Furniture
+5029,Nat Carroll,Andrew Robinson,Team D,0,0,0,0,0,3312,10,Furniture
+5158,Nora Preis,Andrew Robinson,Team G,0,0,0,0,0,352723,10,Furniture
+5868,Tanja Norvell,Andrew Robinson,Team B,0,0,0,0,0,37236,10,Furniture
+6940,Maris LaWare,Terry Kiser,Team G,0,0,0,0,0,112588,10,Furniture
+6854,Dan Campbell,William Holden,Team G,158657,41250.82,117406.18,0,117406.18,0,10,Furniture
+4365,Gene McClure,William Holden,Team J,16478,4119.5,12358.5,0,12358.5,0,10,Furniture
+4152,Dorothy Badders,William Holden,Team G,0,0,0,0,0,43849,10,Furniture
+6437,Matt Hagelstein,William Holden,Team J,0,0,0,0,0,68700,10,Furniture
+7622,Cynthia Delaney,Robin Williams,Team M,290245.2,116098.08,174147.12,0,174147.12,0,13,Technology
+6206,Dennis Kane,Rita Hayworth,Team L,3025,347.88,2677.13,0,2677.13,0,14,Stationary
+6308,Jamie Kunitz,Leopold Stokowski,Team J,158600,15860,142740,0,142740,0,15,Office Supplies
+6799,Olvera Toch,Leopold Stokowski,Team A,0,0,0,0,0,278000,15,Office Supplies
+6012,Bobby Trafton,Leonard Nimoy,Team F,0,0,0,0,0,93000,15,Office Supplies
+4968,Ann Blume,Louise Fletcher,Team B,385490.5,133044.68,252445.82,0,252445.82,0,10,Furniture
+7607,Denny Blanton,Louise Fletcher,Team B,142616.24,57043.73,85572.51,0,85572.51,0,10,Furniture
+5316,Toby Gnade,Andrew Robinson,Team F,0,0,0,0,0,1460,10,Furniture
+7551,Barry Franz,Christopher Lambert,Team L,28206719.62,11282687.85,16924031.77,0,16924031.77,0,10,Furniture
+5294,Kalyca Meade,Johnny Depp,Team G,16266825.56,5205384.18,11061441.38,0,11061441.38,0,10,Furniture
+7546,Kimberly Carter,Christopher Lambert,Team N,6741212.8,2426836.61,4314376.19,0,4314376.19,0,10,Furniture
+7560,Chad McGuire,Gladys Cooper,Team M,3780464.9,1296480.48,2483984.42,0,2483984.42,0,10,Furniture
+3917,Steven Cartwright,Tony Goldwyn,Team J,2212224.35,769468.8,1442755.55,0,1442755.55,0,10,Furniture
+7123,Jas O'Carroll,Christopher Lambert,Team L,1788051,500654.28,1287396.72,0,1287396.72,0,10,Furniture
+7495,Justin MacKendrick,Margaret Hamilton,Team L,972539.8,311212.74,661327.06,0,661327.06,0,10,Furniture
+7567,Alyssa Tate,Mel Blanc,Team C,852916.5,251401.2,601515.3,0,601515.3,0,10,Furniture
+7077,Maya Herman,Mel Blanc,Team A,870795,348318,522477,0,522477,0,10,Furniture
+6725,Corinna Mitchell,Ginger Rogers,Team N,760255.2,254685.49,505569.71,0,505569.71,0,10,Furniture
+7499,Bruce Degenhardt,Michael Dudikoff,Team M,627434,153847,473587,0,473587,0,10,Furniture
+6902,Sanjit Chand,Adriana Caselotti,Team D,595936,131105.92,464830.08,0,464830.08,0,10,Furniture
+7591,Michelle Moray,Tom Selleck,Team B,639774,203135.16,436638.84,0,436638.84,0,10,Furniture
+7326,Maria Zettner,S. Epatha Merkerson,Team B,560887,151439.49,409447.51,0,409447.51,0,10,Furniture
+7349,Robert Dilbeck,Keenan Wynn,Team E,558964,183000.72,375963.28,0,375963.28,0,10,Furniture
+5102,Matt Abelman,Adriana Caselotti,Team D,457042.56,109690.21,347352.35,0,347352.35,0,10,Furniture
+7360,Dianna Wilson,Adriana Caselotti,Team F,382298.27,114689.48,267608.79,0,267608.79,0,10,Furniture
+6828,Nona Balk,Mel Blanc,Team J,345259,89138.21,256120.79,0,256120.79,0,10,Furniture
+7554,Larry Blacks,Kenneth Tobey,Team K,291627,46660.32,244966.68,0,244966.68,0,10,Furniture
+7534,Bill Donatelli,Brigitte Helm,Team E,311631,77907.75,233723.25,0,233723.25,0,10,Furniture
+7571,Rob Dowd,Tony Goldwyn,Team N,308700,80262,228438,0,228438,0,10,Furniture
+7454,Russell Applegate,Ted Raimi,Team B,304616,113915.23,190700.77,0,190700.77,0,10,Furniture
+4370,Greg Hansen,Brigitte Helm,Team B,258674.08,80817.81,177856.27,0,177856.27,0,10,Furniture
+5026,Shahid Hopkins,Lea Thompson,Team I,237042,59260.5,177781.5,0,177781.5,0,10,Furniture
+7609,Mick Brown,Mel Blanc,Team N,225147,78801.45,146345.55,0,146345.55,0,10,Furniture
+3410,Jonathan Howell,Clint Howard,Team H,161656,45263.68,116392.32,0,116392.32,0,10,Furniture
+7580,Alejandro Ballentine,Nicolas Cage,Team P,157960,42649.2,115310.8,0,115310.8,0,10,Furniture
+7566,Mary O'Rourke,Brigitte Helm,Team D,124680,31170,93510,0,93510,0,10,Furniture
+7563,Michael Granlund,Leopold Stokowski,Team G,123310,30260.27,93049.73,0,93049.73,0,10,Furniture
+5982,Frank Gastineau,Tom Selleck,Team H,122780,33150.6,89629.4,0,89629.4,0,10,Furniture
+7608,Paul Prost,Judith Barsi,Team H,88928,21526.36,67401.64,0,67401.64,0,10,Furniture
+5120,Trudy Glocke,Bill Murray,Team I,91961.6,26961.54,65000.06,0,65000.06,0,10,Furniture
+4692,Brad Norvell,Fred Gwynne,Team P,54868,10424.92,44443.08,0,44443.08,0,10,Furniture
+7536,George Zrebassa,Ursula Andress,Team J,63124.8,20996.77,42128.03,0,42128.03,0,10,Furniture
+7272,Lisa DeCherney,Shane Black,Team E,49450,12362.5,37087.5,0,37087.5,0,10,Furniture
+7548,Gary McGarr,Michael Dudikoff,Team D,44768,11192,33576,0,33576,0,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team J,42973,10752.88,32220.12,0,32220.12,0,10,Furniture
+7612,Corey-Lock,Brigitte Helm,Team I,40200,8844,31356,0,31356,0,10,Furniture
+7339,Shui Tom,Rita Moreno,Team M,44184,13255.2,30928.8,0,30928.8,0,10,Furniture
+7617,Andy Reiter,Cliff Robertson,Team M,38713.2,10839.7,27873.5,0,27873.5,0,10,Furniture
+6384,Muhammed MacIntyre,Keenan Wynn,Team P,25093,6022.32,19070.68,0,19070.68,0,10,Furniture
+3567,Philip Brown,Myrna Loy,Team P,20603,5150.75,15452.25,0,15452.25,0,10,Furniture
+7403,Xylona Preis,Rita Hayworth,Team N,13726,3843.28,9882.72,0,9882.72,0,10,Furniture
+7540,Darrin Sayre,Denzel Washington,Team E,12313,3201.38,9111.62,0,9111.62,0,10,Furniture
+7584,Nicole Fjeld,Hattie McDaniel,Team G,11192,2798,8394,0,8394,0,10,Furniture
+7374,Jim Epp,George Kennedy,Team I,10684,2457.32,8226.68,0,8226.68,0,10,Furniture
+2949,Caroline Jumper,Paulette Goddard,Team F,0,0,0,0,0,1175783,10,Furniture
+7419,Mitch Webber,Christopher Lambert,Team C,13441.62,13441.62,0,0,0,0,10,Furniture
+7598,James Galang,Brigitte Helm,Team J,0,0,0,0,0,418621,10,Furniture
+6495,Pamela Stobb,Richard Burton,Team H,2716761.66,949478.98,1767282.68,0,1767282.68,0,10,Furniture
+7562,Hunter Lopez,Richard Burton,Team A,1214815.8,400889.21,813926.59,0,813926.59,0,10,Furniture
+7446,Quincy Jones,Tom Cruise,Team M,461642,120026.92,341615.08,0,341615.08,0,10,Furniture
+7429,Tracy Collins,Richard Burton,Team E,437240,113682.4,323557.6,0,323557.6,0,10,Furniture
+6821,Erica Bern,Richard Burton,Team P,473680,185679.07,288000.93,0,288000.93,0,10,Furniture
+6079,Christopher Schild,Richard Burton,Team J,336588,107708.16,228879.84,0,228879.84,0,10,Furniture
+6112,Sanjit Jacobs,Richard Burton,Team L,195692,48923,146769,0,146769,0,10,Furniture
+7085,Valerie Mitchum,Richard Burton,Team L,150450,39117,111333,0,111333,0,10,Furniture
+7550,Dave Poirier,Richard Burton,Team P,143283,37253.58,106029.42,0,106029.42,0,10,Furniture
+7516,Mike Kennedy,Richard Burton,Team L,105205,26301.25,78903.75,0,78903.75,0,10,Furniture
+6754,Aaron Smayling,Richard Burton,Team J,83170,26751.63,56418.37,0,56418.37,0,10,Furniture
+7307,Justin Hirsh,Richard Burton,Team B,52774,13193.5,39580.5,0,39580.5,0,10,Furniture
+7391,Cindy Stewart,Richard Burton,Team L,56300,16890,39410,0,39410,0,10,Furniture
+5267,Ken Heidel,Richard Burton,Team B,54880,16464,38416,0,38416,0,10,Furniture
+6158,Mark Van Huff,Richard Burton,Team K,49292,12815.92,36476.08,0,36476.08,0,10,Furniture
+7144,Gary Mitchum,Richard Burton,Team G,22262,5565.5,16696.5,0,16696.5,0,10,Furniture
+4142,Katherine Ducich,William Holden,Team P,0,0,0,0,0,178000,10,Furniture
+7568,Henry Goldwyn,Gladys Cooper,Team G,605000,75020,529980,0,529980,0,14,Stationary
+4616,Michael Dominguez,Robin Williams,Team I,649780.19,31644.3,618135.89,0,618135.89,0,15,Office Supplies
+5147,Laurel Workman,Leopold Stokowski,Team I,617500,71259.5,546240.5,0,546240.5,0,15,Office Supplies
+2457,Victoria Wilson,Johnny Depp,Team H,532149.03,79769.14,452379.89,0,452379.89,0,15,Office Supplies
+6308,Jamie Kunitz,Leopold Stokowski,Team I,175036.54,16295.9,158740.64,0,158740.64,0,15,Office Supplies
+7450,Duane Benoit,Leopold Stokowski,Team M,142843.84,7227.18,135616.66,0,135616.66,0,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team G,149500,14950,134550,0,134550,0,15,Office Supplies
+6951,Justin Ellison,Rita Hayworth,Team G,1198528.05,419484.82,779043.23,0,779043.23,0,10,Furniture
+2022,Sean Miller,Nehemiah Persoff,Team A,1417746.54,666624.42,751122.12,0,751122.12,0,10,Furniture
+7633,Cathy Hwang,Johnny Depp,Team I,302046.54,72455.31,229591.23,0,229591.23,0,10,Furniture
+4631,Sean Braxton,Lea Thompson,Team L,272754,64008.02,208745.98,0,208745.98,0,10,Furniture
+7585,Steven Ward,Anita Page,Team F,291971.44,87591.43,204380.01,0,204380.01,0,10,Furniture
+6733,Carlos Daly,Judith Barsi,Team C,196737.82,60195.34,136542.48,0,136542.48,0,10,Furniture
+7390,Joni Wasserman,Lea Thompson,Team L,158654,42677.93,115976.07,0,115976.07,0,10,Furniture
+2922,Matt Connell,Lea Thompson,Team H,138892,43056.52,95835.48,0,95835.48,0,10,Furniture
+5748,Bradley Drucker,Robin Williams,Team P,130380,35378.89,95001.11,0,95001.11,0,10,Furniture
+7082,Sam Zeldin,Michael Dudikoff,Team L,135725,47503.75,88221.25,0,88221.25,0,10,Furniture
+5493,Tom Prescott,Carol Kane,Team I,92776,26776.25,65999.75,0,65999.75,0,10,Furniture
+5768,Laurel Elliston,Bill Murray,Team J,70531,19043.37,51487.63,0,51487.63,0,10,Furniture
+7548,Gary McGarr,Michael Dudikoff,Team B,44768,11192,33576,0,33576,0,10,Furniture
+6427,Jim Karlsson,Lea Thompson,Team B,38658.25,8891.4,29766.85,0,29766.85,0,10,Furniture
+4133,Theone Pippenger,Ted Raimi,Team H,0,0,0,0,0,11467,10,Furniture
+5017,Shaun Chance,Andrew Robinson,Team L,0,0,0,0,0,34136,10,Furniture
+5853,David Smith,Christopher Lambert,Team D,0,0,0,0,0,300000,10,Furniture
+7644,Patrick Jones,Myrna Loy,Team C,0,0,0,0,0,42361,10,Furniture
+2504,Ricardo Sperren,Curtis Armstrong,Team A,0,0,0,0,0,152904,10,Furniture
+3982,Dave Brooks,Louise Fletcher,Team B,0,0,0,0,0,286034,10,Furniture
+4692,Brad Norvell,Fred Gwynne,Team N,0,0,0,0,0,682211,10,Furniture
+6902,Sanjit Chand,Adriana Caselotti,Team B,0,0,0,0,0,2000000,10,Furniture
+7303,Susan Vittorini,Lea Thompson,Team B,0,0,0,0,0,130245,10,Furniture
+2446,Becky Castell,Nehemiah Persoff,Team H,0,0,0,0,0,28100,10,Furniture
+3697,Elizabeth Moffitt,Robin Williams,Team K,0,0,0,0,0,358559,10,Furniture
+4689,Carl Ludwig,Curtis Armstrong,Team B,0,0,0,0,0,4286,10,Furniture
+6238,Brendan Murry,Cliff Robertson,Team B,0,0,0,0,0,300000,10,Furniture
+6896,Kristina Nunn,Curtis Armstrong,Team E,0,0,0,0,0,71095,10,Furniture
+7123,Jas O'Carroll,Christopher Lambert,Team K,0,0,0,0,0,207000,10,Furniture
+7471,Sean O'Donnell,Anita Page,Team E,0,0,0,0,0,94550,10,Furniture
+7619,Kelly Williams,Hattie McDaniel,Team A,0,0,0,0,0,43789,10,Furniture
+2298,Scott Cohen,Tony Goldwyn,Team N,0,0,0,0,0,60702,10,Furniture
+3567,Philip Brown,Myrna Loy,Team D,0,0,0,0,0,92492,10,Furniture
+6096,Michelle Ellison,Louise Fletcher,Team G,0,0,0,0,0,214000,10,Furniture
+6745,Christina VanderZanden,Joseph Cotten,Team L,0,0,0,0,0,800000,10,Furniture
+7463,Speros Goranitis,Ted Raimi,Team D,0,0,0,0,0,121032,10,Furniture
+7607,Denny Blanton,Louise Fletcher,Team I,0,0,0,0,0,2879100,10,Furniture
+6830,Penelope Sewall,Bill Johnson,Team N,369256.81,110777.04,258479.77,0,258479.77,0,10,Furniture
+6907,Shirley Daniels,Bill Johnson,Team A,346021.6,94653.9,251367.7,0,251367.7,0,10,Furniture
+6451,Tamara Manning,Marlon Brando,Team B,14466,3761.16,10704.84,0,10704.84,0,10,Furniture
+6301,Matt Collins,Bill Murray,Team A,2086660.89,242261.33,1844399.56,0,1844399.56,0,15,Office Supplies
+7468,Neoma Murray,Leopold Stokowski,Team P,883850,-48169.83,932019.83,0,932019.83,0,15,Office Supplies
+6702,Mitch Willingham,John Saxon,Team G,9854052.3,3741813.31,6112238.99,0,6112238.99,0,10,Furniture
+7556,Eleni McCrary,John Saxon,Team H,6480345.1,2462531.14,4017813.96,0,4017813.96,0,10,Furniture
+7626,Brad Eason,John Saxon,Team M,2284274,794586.3,1489687.7,0,1489687.7,0,10,Furniture
+4964,Logan Haushalter,Clint Howard,Team P,2156187.8,765295.5,1390892.3,0,1390892.3,0,10,Furniture
+7518,Julia Dunbar,Adriana Caselotti,Team I,1457564,335239.72,1122324.28,0,1122324.28,0,10,Furniture
+7493,Michelle Lonsdale,Nehemiah Persoff,Team C,1582509.17,660539.33,921969.84,0,921969.84,0,10,Furniture
+7554,Larry Blacks,Kenneth Tobey,Team C,706723,167053.01,539669.99,0,539669.99,0,10,Furniture
+6047,Jill Fjeld,Brigitte Helm,Team H,716333,200573.24,515759.76,0,515759.76,0,10,Furniture
+7599,Nicole Hansen,Keanu Reeves,Team L,773618,333880,439738,0,439738,0,10,Furniture
+7593,Jane Waco,Fred Gwynne,Team K,573003.79,136664.85,436338.94,0,436338.94,0,10,Furniture
+4000,Clay Rozendal,Tony Goldwyn,Team H,512922,175685.96,337236.04,0,337236.04,0,10,Furniture
+6951,Justin Ellison,Rita Hayworth,Team P,432405,151341.75,281063.25,0,281063.25,0,10,Furniture
+7534,Bill Donatelli,Brigitte Helm,Team J,353061,88265.25,264795.75,0,264795.75,0,10,Furniture
+7618,Muhammed Yedwab,Dean Stockwell,Team N,356204,123887.75,232316.25,0,232316.25,0,10,Furniture
+6515,Craig Carreira,Adriana Caselotti,Team C,264124,85047.93,179076.07,0,179076.07,0,10,Furniture
+7577,Brooke Gillingham,Paulette Goddard,Team G,223154.7,61772.52,161382.18,0,161382.18,0,10,Furniture
+7601,Carol Triggs,George Kennedy,Team J,174254,56149.93,118104.07,0,118104.07,0,10,Furniture
+7457,Evan Bailliet,Fred Gwynne,Team K,149003,38740.78,110262.22,0,110262.22,0,10,Furniture
+7506,Max Engle,Ted Raimi,Team E,147182,37035.91,110146.09,0,110146.09,0,10,Furniture
+3410,Jonathan Howell,Clint Howard,Team G,146555.5,41035.54,105519.96,0,105519.96,0,10,Furniture
+5658,Annie Zypern,Denzel Washington,Team M,131039,41015.21,90023.79,0,90023.79,0,10,Furniture
+7299,Rick Huthwaite,Brigitte Helm,Team A,111222,38797.45,72424.55,0,72424.55,0,10,Furniture
+2499,Pierre Wener,Curtis Armstrong,Team E,75801,20845.28,54955.73,0,54955.73,0,10,Furniture
+5200,Arthur Prichep,Terry Kiser,Team C,68603,18519.49,50083.52,0,50083.52,0,10,Furniture
+7620,Anthony Witt,Brigitte Helm,Team C,88574.75,39823.21,48751.54,0,48751.54,0,10,Furniture
+7629,Matt Collister,Leonard Nimoy,Team K,62085,15521.25,46563.75,0,46563.75,0,10,Furniture
+7638,Ben Wallace,Tom Selleck,Team M,62985,17635.8,45349.2,0,45349.2,0,10,Furniture
+7300,Shahid Collister,Tom Selleck,Team F,57785,17786.22,39998.78,0,39998.78,0,10,Furniture
+6957,Carlos Meador,Fred Gwynne,Team A,46596.4,10344.54,36251.86,0,36251.86,0,10,Furniture
+6828,Nona Balk,Mel Blanc,Team P,39858,9964.5,29893.5,0,29893.5,0,10,Furniture
+6578,Rob Beeghly,Tony Goldwyn,Team J,33325,8997.75,24327.25,0,24327.25,0,10,Furniture
+6407,Greg Maxwell,Michael Dudikoff,Team F,29426,7650.76,21775.24,0,21775.24,0,10,Furniture
+3032,Rick Duston,Kenneth Tobey,Team L,25980,5455.8,20524.2,0,20524.2,0,10,Furniture
+3818,Justin Deggeller,Margaret Hamilton,Team H,25003,6000.72,19002.28,0,19002.28,0,10,Furniture
+6899,Vivek Grady,Marshall Bell,Team I,25053,7014.84,18038.16,0,18038.16,0,10,Furniture
+7476,Lena Cacioppo,Rita Moreno,Team C,21798,5449.5,16348.5,0,16348.5,0,10,Furniture
+5965,Tamara Dahlen,Mel Blanc,Team P,16634,3992.16,12641.84,0,12641.84,0,10,Furniture
+6084,Bill Tyler,Ted Raimi,Team J,11652,2446.92,9205.08,0,9205.08,0,10,Furniture
+7339,Shui Tom,Rita Moreno,Team B,6700,2010,4690,0,4690,0,10,Furniture
+7575,Frank Olsen,Rita Moreno,Team E,5596,1399,4197,0,4197,0,10,Furniture
+7034,Darrin Van Huff,Brigitte Helm,Team P,0,0,0,0,0,27353,10,Furniture
+7131,Tim Brockman,Fred Gwynne,Team E,0,0,0,0,0,100000,10,Furniture
+7427,John Murray,Curtis Armstrong,Team J,0,0,0,0,0,15449,10,Furniture
+7491,Filia McAdams,Christopher Lambert,Team A,0,0,0,0,0,500000,10,Furniture
+7647,Sonia Cooley,Nehemiah Persoff,Team K,0,0,0,0,0,34440,10,Furniture
+4472,Luke Schmidt,Curtis Armstrong,Team C,0,0,0,0,0,17404,10,Furniture
+5026,Shahid Hopkins,Lea Thompson,Team M,0,0,0,0,0,150000,10,Furniture
+7099,Justin Ritter,Nehemiah Persoff,Team L,0,0,0,0,0,419140,10,Furniture
+7413,Ann Steele,Denzel Washington,Team K,0,0,0,0,0,376798,10,Furniture
+7645,Ralph Ritter,Kenneth Tobey,Team C,0,0,0,0,0,16400,10,Furniture
+4471,Daniel Byrd,Curtis Armstrong,Team P,0,0,0,0,0,69635,10,Furniture
+6954,Thomas Thornton,Tom Selleck,Team P,0,0,0,0,0,562600,10,Furniture
+7081,Dean Braden,Stephen Carr,Team F,0,0,0,0,0,26305,10,Furniture
+7292,Anthony Rawles,Adriana Caselotti,Team I,0,0,0,0,0,395700,10,Furniture
+7405,Dionis Lloyd,Leonard Nimoy,Team B,0,0,0,0,0,1998261,10,Furniture
+7459,Lori Olson,Rita Moreno,Team H,0,0,0,0,0,155467,10,Furniture
+7640,Ken Dana,Joseph Cotten,Team K,0,0,0,0,0,468500,10,Furniture
+4559,Keith Dawkins,Ted Raimi,Team K,0,0,0,0,0,27102,10,Furniture
+5294,Kalyca Meade,Johnny Depp,Team M,0,0,0,0,0,17402746,10,Furniture
+7048,Nicole Brennan,Denzel Washington,Team J,0,0,0,0,0,376798,10,Furniture
+7243,Brian Derr,Andrew Robinson,Team I,0,0,0,0,0,300000,10,Furniture
+7549,Mathew Reese,Esai Morales,Team N,0,0,0,0,0,2057254,10,Furniture
+4476,Chris McAfee,Curtis Armstrong,Team G,0,0,0,0,0,85384,10,Furniture
+7429,Tracy Collins,Richard Burton,Team L,664450,172757,491693,0,491693,0,10,Furniture
+7611,Nora Pelletier,William Holden,Team M,312982,100726.45,212255.55,0,212255.55,0,10,Furniture
+7350,Doug Jacobs,William Holden,Team K,266028,61186.44,204841.56,0,204841.56,0,10,Furniture
+4142,Katherine Ducich,William Holden,Team P,215648,56068.48,159579.52,0,159579.52,0,10,Furniture
+6854,Dan Campbell,William Holden,Team M,172392.8,45752.37,126640.43,0,126640.43,185000,10,Furniture
+4105,Adam Shillingsburg,William Holden,Team A,107878,28048.28,79829.72,0,79829.72,0,10,Furniture
+4786,Grant Thornton,William Holden,Team I,0,0,0,0,0,76800,10,Furniture
+6990,Edward Nazzal,Takashi Shimura,Team K,0,0,0,0,0,55830,10,Furniture
+6158,Mark Van Huff,Richard Burton,Team M,0,0,0,0,0,56358,10,Furniture
+7424,Kean Nguyen,Richard Burton,Team P,0,0,0,0,0,271207,10,Furniture
+5294,Kalyca Meade,Johnny Depp,Team A,0,0,0,0,0,491400,13,Technology
+5294,Kalyca Meade,Johnny Depp,Team H,0,0,0,0,0,14146,20,Fruits
+6012,Bobby Trafton,Leonard Nimoy,Team B,97327.81,4554.94,92772.87,0,92772.87,0,15,Office Supplies
+5253,John Stevenson,Bill Murray,Team L,0,0,0,111062.72,-111062.72,0,15,Office Supplies
+2457,Victoria Wilson,Johnny Depp,Team H,0,0,0,0,0,8421837,15,Office Supplies
+7178,Heather Kirkland,Leopold Stokowski,Team H,0,0,0,0,0,100000,15,Office Supplies
+3699,Max Ludwig,Robin Williams,Team B,9848185.2,3545346.67,6302838.53,0,6302838.53,0,10,Furniture
+2251,Liz Preis,Ginger Rogers,Team K,5442795,1647909.65,3794885.35,0,3794885.35,0,10,Furniture
+7344,Brian Thompson,Joseph Cotten,Team G,4590046.8,1630041.74,2960005.06,0,2960005.06,0,10,Furniture
+7573,Barbara Fisher,Paulette Goddard,Team H,3972282.6,1288479.87,2683802.73,0,2683802.73,0,10,Furniture
+5896,Benjamin Venier,Janet Leigh,Team E,2651146,848366.72,1802779.28,0,1802779.28,0,10,Furniture
+5868,Tanja Norvell,Andrew Robinson,Team I,1908551.3,843543.27,1065008.03,0,1065008.03,0,10,Furniture
+7364,Adrian Barton,S. Epatha Merkerson,Team L,1618652.5,596294.39,1022358.11,0,1022358.11,0,10,Furniture
+5917,Lena Hernandez,Joseph Cotten,Team A,1192535,320749.95,871785.05,0,871785.05,1778425,10,Furniture
+7616,Marc Crier,S. Epatha Merkerson,Team M,1151328,401554.51,749773.49,0,749773.49,0,10,Furniture
+7567,Alyssa Tate,Mel Blanc,Team M,1049335.3,314800.59,734534.71,0,734534.71,0,10,Furniture
+7048,Nicole Brennan,Denzel Washington,Team A,942794.53,281679.1,661115.43,0,661115.43,0,10,Furniture
+6767,Cynthia Voltz,Joseph Cotten,Team C,814195,227974.6,586220.4,0,586220.4,0,10,Furniture
+2340,Mike Gockenbach,Curtis Armstrong,Team I,736539,231811.76,504727.24,0,504727.24,0,10,Furniture
+7554,Larry Blacks,Kenneth Tobey,Team D,669521,180770.67,488750.33,0,488750.33,0,10,Furniture
+7413,Ann Steele,Denzel Washington,Team P,698064.2,213680.08,484384.12,0,484384.12,0,10,Furniture
+5320,David Bremer,Curtis Armstrong,Team H,591550,224789,366761,0,366761,0,10,Furniture
+6096,Michelle Ellison,Louise Fletcher,Team I,459799,134321.12,325477.88,0,325477.88,0,10,Furniture
+4419,Jim Mitchum,Curtis Armstrong,Team F,483915,176145.06,307769.94,0,307769.94,0,10,Furniture
+4537,Phillip Flathmann,Kathleen Wilhoite,Team J,438684,183501.52,255182.48,0,255182.48,0,10,Furniture
+4714,Sonia Sunley,Louise Fletcher,Team A,298104,105767.3,192336.7,0,192336.7,0,10,Furniture
+4689,Carl Ludwig,Curtis Armstrong,Team A,313839,133852.33,179986.67,0,179986.67,0,10,Furniture
+7639,Corey Catlett,Denzel Washington,Team A,225593,63805.56,161787.44,0,161787.44,0,10,Furniture
+6725,Corinna Mitchell,Ginger Rogers,Team C,226798.2,77000.35,149797.85,0,149797.85,0,10,Furniture
+4849,Patrick Gardner,Robin Williams,Team H,142271,31299.62,110971.38,0,110971.38,0,10,Furniture
+6744,Jim Kriz,Joseph Cotten,Team I,154505,46351.5,108153.5,0,108153.5,0,10,Furniture
+2730,Laura Armstrong,Janet Leigh,Team K,155924.5,48336.6,107587.91,0,107587.91,300000,10,Furniture
+4631,Sean Braxton,Lea Thompson,Team D,138290,31806.7,106483.3,0,106483.3,0,10,Furniture
+7458,Nathan Mautz,Joseph Cotten,Team C,158945,55630.75,103314.25,0,103314.25,0,10,Furniture
+4968,Ann Blume,Louise Fletcher,Team G,135977.8,45113.09,90864.71,0,90864.71,0,10,Furniture
+7559,Lauren Leatherbury,Cliff Robertson,Team A,109965,28590.9,81374.1,0,81374.1,0,10,Furniture
+7457,Evan Bailliet,Fred Gwynne,Team J,106620,27721.2,78898.8,0,78898.8,0,10,Furniture
+2168,Chad Sievert,Joseph Cotten,Team P,110512.26,32735.14,77777.12,0,77777.12,0,10,Furniture
+4692,Brad Norvell,Fred Gwynne,Team J,86157,16369.83,69787.17,0,69787.17,39774,10,Furniture
+3410,Jonathan Howell,Clint Howard,Team K,93237,26106.36,67130.64,0,67130.64,0,10,Furniture
+6271,Zuschuss Carroll,Paulette Goddard,Team D,82848,19883.52,62964.48,0,62964.48,0,10,Furniture
+3154,Sylvia Foulston,Myrna Loy,Team F,88850,26655,62195,0,62195,0,10,Furniture
+3710,Bill Stewart,Janet Leigh,Team E,95279,34079.32,61199.68,0,61199.68,0,10,Furniture
+7563,Michael Granlund,Leopold Stokowski,Team B,65350,16036.89,49313.11,0,49313.11,0,10,Furniture
+2173,Kelly Andreada,Nicolas Cage,Team L,71469.2,23856.97,47612.23,0,47612.23,0,10,Furniture
+7594,Suzanne McNair,S. Epatha Merkerson,Team N,63195,22118.25,41076.75,0,41076.75,0,10,Furniture
+5200,Arthur Prichep,Terry Kiser,Team N,58452,17535.6,40916.4,0,40916.4,0,10,Furniture
+6427,Jim Karlsson,Lea Thompson,Team I,49056,11282.88,37773.12,0,37773.12,0,10,Furniture
+6104,Bill Overfelt,Louise Fletcher,Team B,48531,16878.81,31652.19,0,31652.19,0,10,Furniture
+7540,Darrin Sayre,Denzel Washington,Team C,41817,10454.25,31362.75,0,31362.75,0,10,Furniture
+6382,Peter McVee,Cliff Robertson,Team C,35540,9240.4,26299.6,0,26299.6,0,10,Furniture
+4482,Bradley Talbott,Andrew Robinson,Team B,36821.6,15604.99,21216.61,0,21216.61,0,10,Furniture
+4000,Clay Rozendal,Tony Goldwyn,Team I,24504,6515.61,17988.39,0,17988.39,0,10,Furniture
+7645,Ralph Ritter,Kenneth Tobey,Team I,22778,6377.84,16400.16,0,16400.16,0,10,Furniture
+5068,Aleksandra Gannaway,Curtis Armstrong,Team J,20385.22,6433.74,13951.48,0,13951.48,0,10,Furniture
+7642,Matthew Clasen,Tony Goldwyn,Team K,18413,4971.51,13441.49,0,13441.49,0,10,Furniture
+7326,Maria Zettner,S. Epatha Merkerson,Team D,14466,3905.82,10560.18,0,10560.18,0,10,Furniture
+5026,Shahid Hopkins,Lea Thompson,Team D,13517,3514.42,10002.58,0,10002.58,0,10,Furniture
+5007,Allen Goldenen,Robin Williams,Team N,8533,2286.84,6246.16,0,6246.16,0,10,Furniture
+2757,Michael Kennedy,Janet Leigh,Team J,0,0,0,0,0,105916,10,Furniture
+3697,Elizabeth Moffitt,Robin Williams,Team N,0,0,0,0,0,317716,10,Furniture
+5290,Paul Knutson,Joseph Cotten,Team D,0,0,0,0,0,28686,10,Furniture
+5670,Tom Ashbrook,Myrna Loy,Team L,0,0,0,0,0,39300,10,Furniture
+6207,Jason Fortune-,Bill Murray,Team J,0,0,0,0,0,1005955,10,Furniture
+6636,Eric Murdock,Leonard Nimoy,Team K,0,0,0,0,0,1221540,10,Furniture
+7636,Yana Sorensen,Joseph Cotten,Team C,0,0,0,0,0,4000000,10,Furniture
+4559,Keith Dawkins,Ted Raimi,Team L,0,0,0,0,0,86710,10,Furniture
+5418,Erica Smith,Janet Leigh,Team D,0,0,0,0,0,198856,10,Furniture
+7635,Beth Thompson,Joseph Cotten,Team C,0,0,0,0,0,3000000,10,Furniture
+3322,Katherine Murray,Carol Kane,Team C,0,0,0,0,0,1000000,10,Furniture
+4977,Nora Paige,Marshall Bell,Team I,0,0,0,0,0,410122,10,Furniture
+5102,Matt Abelman,Adriana Caselotti,Team M,0,0,0,0,0,259340,10,Furniture
+5339,Tim Taslimi,Margaret Hamilton,Team A,0,0,0,0,0,95937,10,Furniture
+6733,Carlos Daly,Judith Barsi,Team C,0,0,0,0,0,73964,10,Furniture
+7305,Sarah Bern,Ted Raimi,Team A,0,0,0,0,0,7120,10,Furniture
+7634,Pauline Webber,Joseph Cotten,Team G,0,0,0,0,0,3000000,10,Furniture
+5748,Bradley Drucker,Robin Williams,Team E,0,0,0,0,0,95000,10,Furniture
+5942,Craig Leslie,Cliff Robertson,Team P,0,0,0,0,0,145083,10,Furniture
+4314,Hunter Glantz,Marlon Brando,Team C,0,0,0,0,0,13698,10,Furniture
+4620,Ed Ludwig,Richard Burton,Team H,0,0,0,0,0,495042,10,Furniture
+7135,Ross Baird,Marlon Brando,Team G,0,0,0,0,0,111,10,Furniture
+4612,Nancy Lomonaco,William Holden,Team F,0,0,0,0,0,50000,10,Furniture
+7076,Meg Tillman,Tom Cruise,Team G,0,0,0,0,0,1396400,10,Furniture
+4499,Roger Barcio,Marlon Brando,Team C,0,0,0,0,0,360100,10,Furniture
+7040,Rick Reed,Marlon Brando,Team H,0,0,0,0,0,7350,10,Furniture
+4363,Bryan Davis,Richard Burton,Team I,0,0,0,0,0,25808,10,Furniture
+4716,Ken Brennan,Marlon Brando,Team L,0,0,0,0,0,16061,10,Furniture
+6544,Christine Abelman,Kathleen Wilhoite,Team I,1340637.93,101084.1,1239553.83,0,1239553.83,0,15,Office Supplies
+5768,Laurel Elliston,Bill Murray,Team G,0,0,0,0,0,600000,15,Office Supplies
+7222,Toby Carlisle,Lea Thompson,Team M,0,0,0,0,0,23321,15,Office Supplies
+7178,Heather Kirkland,Leopold Stokowski,Team B,0,0,0,0,0,365800,15,Office Supplies
